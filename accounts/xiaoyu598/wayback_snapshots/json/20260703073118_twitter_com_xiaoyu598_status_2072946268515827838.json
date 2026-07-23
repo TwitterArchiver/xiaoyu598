@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2072946268515827838",
+    "created_at": "2026-07-03T07:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T08:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072946268515827838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/littlekitty_qw…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/littlekitty_qwq/status/2072608852298834398",
+          "start": 17,
+          "url": "https://t.co/bLYoz5YxVW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072946268515827838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072608852298834398",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "隔壁老六发力了，叠纸你这个丧门星 https://t.co/bLYoz5YxVW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2072946268515827838",
+        "created_at": "2026-07-03T07:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072946268515827838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/littlekitty_qw…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/littlekitty_qwq/status/2072608852298834398",
+              "start": 17,
+              "url": "https://t.co/bLYoz5YxVW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072946268515827838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072608852298834398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "隔壁老六发力了，叠纸你这个丧门星 https://t.co/bLYoz5YxVW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845184179157467140",
+        "conversation_id": "2072608852298834398",
+        "created_at": "2026-07-02T09:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072608852298834398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072608852298834398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49974,
+          "like_count": 416,
+          "quote_count": 1,
+          "reply_count": 55,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "坏菜了 茉莉奶白没百万撤离 被lv起诉了 我真笑昏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 146,
+          "like_count": 586,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 442
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T19:26:12.000Z",
+        "description": "我只是个阴暗的臭啊宅(^_^)v\n不混圈子 别把饭圈邪教那套带我身上 自由人但欢迎扩列 我只是个臭玩游戏的\n等待和希望…",
+        "id": "1845184179157467140",
+        "name": "10",
+        "pinned_tweet_id": "2069660763220857021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070672132351135744/nVQieIAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 42,
+          "like_count": 815,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 597
+        },
+        "url": "",
+        "username": "littlekitty_qwq",
+        "verified": true
+      }
+    ]
+  }
+}

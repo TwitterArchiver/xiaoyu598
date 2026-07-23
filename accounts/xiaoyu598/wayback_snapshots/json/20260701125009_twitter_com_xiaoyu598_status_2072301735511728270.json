@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2071897419642753025",
+    "created_at": "2026-07-01T12:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T13:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072301735511728270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741807657110147073",
+          "start": 0,
+          "username": "Ria8964kcw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072301735511728270",
+    "in_reply_to_user_id": "1741807657110147073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071897419642753025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ria8964kcw 这张真的好虐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1307,
+        "media_key": "3_2071897411442647040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDbt-QXIAAa-Oy.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2071897419642753025",
+        "created_at": "2026-07-01T12:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072301735511728270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072301735511728270",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071897419642753025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw 这张真的好虐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071897411442647040"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2071897419642753025",
+        "created_at": "2026-06-30T10:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071897419642753025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bNkF9v2HlE",
+              "end": 40,
+              "expanded_url": "https://x.com/Ria8964kcw/status/2071897419642753025/photo/1",
+              "media_key": "3_2071897411442647040",
+              "start": 17,
+              "url": "https://t.co/bNkF9v2HlE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071897419642753025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 348,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下次安利的时候记得艾特我，谢谢🆘 https://t.co/bNkF9v2HlE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 143,
+          "like_count": 507,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 330,
+          "like_count": 9490,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 5150
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

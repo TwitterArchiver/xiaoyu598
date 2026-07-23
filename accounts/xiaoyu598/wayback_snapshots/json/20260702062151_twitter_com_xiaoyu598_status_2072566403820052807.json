@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2072566403820052807",
+    "created_at": "2026-07-02T06:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T07:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072566403820052807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072566403820052807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072331249612726664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 看着朋友一个一个变成可靠的大人但是我还在胡闹真的很可怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2072566403820052807",
+        "created_at": "2026-07-02T06:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072566403820052807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072566403820052807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072331249612726664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 看着朋友一个一个变成可靠的大人但是我还在胡闹真的很可怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2072331249612726664",
+        "created_at": "2026-07-01T14:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072331249612726664"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072331249612726664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4089,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "看着朋友一个一个变成可靠的大人但是我还在胡闹真的很可怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 143,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10262,
+          "following_count": 6,
+          "like_count": 1201,
+          "listed_count": 29,
+          "media_count": 133,
+          "tweet_count": 2838
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

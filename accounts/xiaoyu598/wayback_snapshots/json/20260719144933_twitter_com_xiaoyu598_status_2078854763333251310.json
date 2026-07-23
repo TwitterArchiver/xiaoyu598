@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078695180572729344"
+      ],
+      "media_source_tweet_id": [
+        "2078695186797146223"
+      ]
+    },
+    "author_id": "1686682563937792000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2078854763333251310",
+    "created_at": "2026-07-19T14:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078854763333251310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047083610902306816",
+          "start": 3,
+          "username": "Liz_112107"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LhLBH6IFVc",
+          "end": 52,
+          "expanded_url": "https://x.com/Liz_112107/status/2078695186797146223/photo/1",
+          "media_key": "3_2078695180572729344",
+          "start": 29,
+          "url": "https://t.co/LhLBH6IFVc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078854763333251310",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078695186797146223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liz_112107: このリズめちゃくちゃ好き https://t.co/LhLBH6IFVc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1750,
+        "media_key": "3_2078695180572729344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkCQNpaoAAjA3u.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078695180572729344"
+          ]
+        },
+        "author_id": "2047083610902306816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078695186797146223",
+        "created_at": "2026-07-19T04:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078695186797146223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LhLBH6IFVc",
+              "end": 36,
+              "expanded_url": "https://x.com/Liz_112107/status/2078695186797146223/photo/1",
+              "media_key": "3_2078695180572729344",
+              "start": 13,
+              "url": "https://t.co/LhLBH6IFVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078695186797146223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 19777,
+          "like_count": 1615,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "このリズめちゃくちゃ好き https://t.co/LhLBH6IFVc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078695180572729344"
+          ],
+          "media_source_tweet_id": [
+            "2078695186797146223"
+          ]
+        },
+        "author_id": "1686682563937792000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078854763333251310",
+        "created_at": "2026-07-19T14:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078854763333251310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047083610902306816",
+              "start": 3,
+              "username": "Liz_112107"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LhLBH6IFVc",
+              "end": 52,
+              "expanded_url": "https://x.com/Liz_112107/status/2078695186797146223/photo/1",
+              "media_key": "3_2078695180572729344",
+              "start": 29,
+              "url": "https://t.co/LhLBH6IFVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078854763333251310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078695186797146223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liz_112107: このリズめちゃくちゃ好き https://t.co/LhLBH6IFVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 62,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 165,
+          "like_count": 987,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 669
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T22:48:24.000Z",
+        "description": "07/Liz推し/ 関西/🚹\nライブはSHOW WHAT I AMからです🔰ため口呼び捨て🙆‍♂️仲良くしましょ！",
+        "id": "2047083610902306816",
+        "location": "アッケンズ🫰",
+        "name": "ふく",
+        "pinned_tweet_id": "2071359328859406415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071101292941135872/4GgV21P0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 71,
+          "like_count": 207,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 391
+        },
+        "url": "",
+        "username": "Liz_112107",
+        "verified": false
+      }
+    ]
+  }
+}

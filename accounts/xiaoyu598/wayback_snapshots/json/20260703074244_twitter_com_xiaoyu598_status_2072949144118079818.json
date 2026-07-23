@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2072927175901376612",
+    "created_at": "2026-07-03T07:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T08:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072949144118079818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2067447448549949440",
+          "start": 0,
+          "username": "Unk_555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072949144118079818",
+    "in_reply_to_user_id": "2067447448549949440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072927175901376612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Unk_555 究竟为什么会被插红旗。。。我也被标记了根本不知道原因"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 717,
+        "media_key": "3_2072927141717794816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSEQKda4AAEW7Z.jpg",
+        "width": 1214
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2072927175901376612",
+        "created_at": "2026-07-03T07:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072949144118079818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2067447448549949440",
+              "start": 0,
+              "username": "Unk_555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072949144118079818",
+        "in_reply_to_user_id": "2067447448549949440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072927175901376612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Unk_555 究竟为什么会被插红旗。。。我也被标记了根本不知道原因"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072927141717794816"
+          ]
+        },
+        "author_id": "2067447448549949440",
+        "conversation_id": "2072927175901376612",
+        "created_at": "2026-07-03T06:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072927175901376612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9aXywLv4Av",
+              "end": 49,
+              "expanded_url": "https://x.com/Unk_555/status/2072927175901376612/photo/1",
+              "media_key": "3_2072927141717794816",
+              "start": 26,
+              "url": "https://t.co/9aXywLv4Av"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072927175901376612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为什么被插红旗的几分钟后我的号就被封了😭😭😭 https://t.co/9aXywLv4Av"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 146,
+          "like_count": 589,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 446
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T03:21:40.000Z",
+        "description": "我的账号啊✋😭🤚\n可恶的🐜🐲",
+        "id": "2067447448549949440",
+        "name": "Unk🍥(5.0互fo寻回)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072669520611991552/t4ky8V3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 140,
+          "like_count": 38,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "Unk_555",
+        "verified": false
+      }
+    ]
+  }
+}

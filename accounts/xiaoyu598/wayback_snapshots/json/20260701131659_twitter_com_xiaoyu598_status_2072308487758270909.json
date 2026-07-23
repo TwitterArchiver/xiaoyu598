@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2072261404858658867",
+    "created_at": "2026-07-01T13:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072308487758270909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1663516164306382852",
+          "start": 0,
+          "username": "DouBao8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072308487758270909",
+    "in_reply_to_user_id": "1663516164306382852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072261404858658867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DouBao8964 你坤续吧!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2072261404858658867",
+        "created_at": "2026-07-01T13:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072308487758270909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1663516164306382852",
+              "start": 0,
+              "username": "DouBao8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072308487758270909",
+        "in_reply_to_user_id": "1663516164306382852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072261404858658867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DouBao8964 你坤续吧!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663516164306382852",
+        "conversation_id": "2072261404858658867",
+        "created_at": "2026-07-01T10:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072261404858658867"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072261404858658867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 403,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起我知道坤梗很低俗，但是我看到别人莫名其妙把句子里的字替换成坤真的笑得好难受….."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 143,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 387
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "随时帮忙的AI助手",
+        "id": "1663516164306382852",
+        "name": "豆包",
+        "pinned_tweet_id": "2011694838832578671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025774560457654272/ojdpVLBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12091,
+          "following_count": 76,
+          "like_count": 14476,
+          "listed_count": 6,
+          "media_count": 378,
+          "tweet_count": 6601
+        },
+        "url": "",
+        "username": "DouBao8964",
+        "verified": false
+      }
+    ]
+  }
+}

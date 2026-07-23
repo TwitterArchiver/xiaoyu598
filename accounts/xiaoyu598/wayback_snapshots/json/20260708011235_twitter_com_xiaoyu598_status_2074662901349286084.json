@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2074505013809103050",
+    "created_at": "2026-07-08T01:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T02:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074662901349286084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874458926558961664",
+          "start": 0,
+          "username": "DaiianaVez69773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074662901349286084",
+    "in_reply_to_user_id": "1874458926558961664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074505013809103050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DaiianaVez69773 感觉细的没味道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2074505013809103050",
+        "created_at": "2026-07-08T01:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074662901349286084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874458926558961664",
+              "start": 0,
+              "username": "DaiianaVez69773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074662901349286084",
+        "in_reply_to_user_id": "1874458926558961664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074505013809103050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaiianaVez69773 感觉细的没味道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874458926558961664",
+        "conversation_id": "2074505013809103050",
+        "created_at": "2026-07-07T14:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074505013809103050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074505013809103050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 525,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽习惯了粗支再抽细支感觉吸不上来烟，像喝霸王茶姬一样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 156,
+          "like_count": 726,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 512
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T14:14:55.000Z",
+        "description": "08 infj-t 双相情感障碍、重度焦虑 服药治疗中 🚬💊 音乐 jrock/噪音/盯鞋/黑金残死旋死血碾/电子/ボカロ/jpop/emo/地下udg 是个九年二次元小资历/cult片/舞萌dx/拉康派精神分析 会回fo喜欢的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ouoshizego",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ouoshizego",
+                "start": 0,
+                "url": "https://t.co/EAnsMRl5JL"
+              }
+            ]
+          }
+        },
+        "id": "1874458926558961664",
+        "location": "ぺんてるに行きました",
+        "name": "矢澤源義かまってちゃん🔋🎸",
+        "pinned_tweet_id": "2059308590339678354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908777584210714625/L-fqHbRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 304,
+          "like_count": 16999,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 1675
+        },
+        "url": "https://t.co/EAnsMRl5JL",
+        "username": "DaiianaVez69773",
+        "verified": false
+      }
+    ]
+  }
+}

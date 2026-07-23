@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2074689974566539603",
+    "created_at": "2026-07-08T09:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074787750617006174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1865705903640698881",
+          "start": 0,
+          "username": "Li665508Li"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074787750617006174",
+    "in_reply_to_user_id": "1865705903640698881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074689974566539603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Li665508Li 怎么烤鱼也有预制菜。。。我还以为是每天烤的半熟然后有人点再烤一下这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2074689974566539603",
+        "created_at": "2026-07-08T09:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074787750617006174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1865705903640698881",
+              "start": 0,
+              "username": "Li665508Li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074787750617006174",
+        "in_reply_to_user_id": "1865705903640698881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074689974566539603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Li665508Li 怎么烤鱼也有预制菜。。。我还以为是每天烤的半熟然后有人点再烤一下这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865705903640698881",
+        "conversation_id": "2074689974566539603",
+        "created_at": "2026-07-08T03:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074689974566539603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074689974566539603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7938,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得现烤活鱼有望超过麦当劳\n\n成为新一代快餐\n\n去吃个烤鱼，刚坐下5分钟\n\n鱼上来了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的😀",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 157,
+          "like_count": 787,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 536
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T10:32:18.000Z",
+        "description": "美股｜crypto｜X增长陪跑｜视频号｜公众号｜社群｜AI\n视频号和增长 请私信\n来tg，找我玩👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Yuviup",
+                "end": 23,
+                "expanded_url": "https://t.me/Yuviup",
+                "start": 0,
+                "url": "https://t.co/AW8PLC6wnx"
+              }
+            ]
+          }
+        },
+        "id": "1865705903640698881",
+        "name": "Yuvi",
+        "pinned_tweet_id": "2069614475142132071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036027607808905217/RqaWpvw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9519,
+          "following_count": 318,
+          "like_count": 6394,
+          "listed_count": 35,
+          "media_count": 593,
+          "tweet_count": 8917
+        },
+        "url": "https://t.co/AW8PLC6wnx",
+        "username": "Li665508Li",
+        "verified": true
+      }
+    ]
+  }
+}

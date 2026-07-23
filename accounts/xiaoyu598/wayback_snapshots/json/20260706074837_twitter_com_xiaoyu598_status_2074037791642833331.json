@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2073507093748031554",
+    "created_at": "2026-07-06T07:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074037791642833331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685499489493323776",
+          "start": 0,
+          "username": "GuiMengNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074037791642833331",
+    "in_reply_to_user_id": "1685499489493323776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073507093748031554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuiMengNya 一眼男，再串司马"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2073507086009540608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMaTtXTaoAARE5P.jpg",
+        "width": 764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2073507093748031554",
+        "created_at": "2026-07-06T07:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074037791642833331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074037791642833331",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073507093748031554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 一眼男，再串司马"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073507086009540608"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "2073507093748031554",
+        "created_at": "2026-07-04T20:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073507093748031554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X4O6krRlOQ",
+              "end": 23,
+              "expanded_url": "https://x.com/GuiMengNya/status/2073507093748031554/photo/1",
+              "media_key": "3_2073507086009540608",
+              "start": 0,
+              "url": "https://t.co/X4O6krRlOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073507093748031554",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 173942,
+          "like_count": 707,
+          "quote_count": 3,
+          "reply_count": 180,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X4O6krRlOQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 151,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 473
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边/故里蓝鸢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10523,
+          "following_count": 691,
+          "like_count": 11497,
+          "listed_count": 29,
+          "media_count": 2446,
+          "tweet_count": 4843
+        },
+        "url": "",
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

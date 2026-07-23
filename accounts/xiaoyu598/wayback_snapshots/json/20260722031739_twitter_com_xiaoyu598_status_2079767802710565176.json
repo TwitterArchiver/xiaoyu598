@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079620997825912832"
+      ],
+      "media_source_tweet_id": [
+        "2079621006117974422"
+      ]
+    },
+    "author_id": "1686682563937792000",
+    "conversation_id": "2079767802710565176",
+    "created_at": "2026-07-22T03:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079767802710565176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6SkXzUC3df",
+          "end": 34,
+          "expanded_url": "https://x.com/hgds0/status/2079621006117974422/photo/1",
+          "media_key": "3_2079620997825912832",
+          "start": 11,
+          "url": "https://t.co/6SkXzUC3df"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079767802710565176",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079621006117974422",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: https://t.co/6SkXzUC3df"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2079620997825912832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxMR3rbYAA2OVH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079620997825912832"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2079621006117974422",
+        "created_at": "2026-07-21T17:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079621006117974422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SkXzUC3df",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/2079621006117974422/photo/1",
+              "media_key": "3_2079620997825912832",
+              "start": 0,
+              "url": "https://t.co/6SkXzUC3df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079621006117974422",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4114,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6SkXzUC3df"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079620997825912832"
+          ],
+          "media_source_tweet_id": [
+            "2079621006117974422"
+          ]
+        },
+        "author_id": "1686682563937792000",
+        "conversation_id": "2079767802710565176",
+        "created_at": "2026-07-22T03:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079767802710565176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SkXzUC3df",
+              "end": 34,
+              "expanded_url": "https://x.com/hgds0/status/2079621006117974422/photo/1",
+              "media_key": "3_2079620997825912832",
+              "start": 11,
+              "url": "https://t.co/6SkXzUC3df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079767802710565176",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079621006117974422",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: https://t.co/6SkXzUC3df"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 62,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 172,
+          "like_count": 1064,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 724
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97299,
+          "following_count": 2424,
+          "like_count": 45296,
+          "listed_count": 143,
+          "media_count": 4530,
+          "tweet_count": 8942
+        },
+        "url": "",
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

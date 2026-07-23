@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2077931925931753865",
+    "created_at": "2026-07-17T06:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078008205956063328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1561588899499196417",
+          "start": 0,
+          "username": "Tiandaidaidai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078008205956063328",
+    "in_reply_to_user_id": "1561588899499196417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077931925931753865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tiandaidaidai 我就这样每天傻子一样的活着"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2077931925931753865].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077931925931753865",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2077931925931753865"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2077931925931753865",
+        "created_at": "2026-07-17T06:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078008205956063328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1561588899499196417",
+              "start": 0,
+              "username": "Tiandaidaidai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078008205956063328",
+        "in_reply_to_user_id": "1561588899499196417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077931925931753865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiandaidaidai 我就这样每天傻子一样的活着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 62,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 163,
+          "like_count": 931,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 632
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:39:42.000Z",
+        "description": "惨圈女丨 LGBT+全友好🏳️‍🌈 丨 能看出成分的全会回fo 丨不会聊天别找我闲聊丨 狗@GHYYAYA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "GHYYAYA"
+              }
+            ]
+          }
+        },
+        "id": "1561588899499196417",
+        "location": "提瓦特大陆",
+        "name": "⊹天填甜田添恬黛⊹",
+        "pinned_tweet_id": "1985969041769701887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037225871023759361/QNJF_WFy_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 2207,
+          "like_count": 89376,
+          "listed_count": 10,
+          "media_count": 808,
+          "tweet_count": 12703
+        },
+        "url": "",
+        "username": "Tiandaidaidai",
+        "verified": false
+      }
+    ]
+  }
+}

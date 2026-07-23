@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2078916784909058479",
+    "created_at": "2026-07-21T09:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079500224377323645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1993345076014333957",
+          "start": 0,
+          "username": "xiangbudao_77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079500224377323645",
+    "in_reply_to_user_id": "1993345076014333957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078916784909058479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangbudao_77 我一暑假不说英语我就会忘光光，发现自己无论是短期记忆还是长期记忆都完全一坨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2078916784909058479",
+        "created_at": "2026-07-21T09:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079500224377323645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1993345076014333957",
+              "start": 0,
+              "username": "xiangbudao_77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079500224377323645",
+        "in_reply_to_user_id": "1993345076014333957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078916784909058479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangbudao_77 我一暑假不说英语我就会忘光光，发现自己无论是短期记忆还是长期记忆都完全一坨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993345076014333957",
+        "conversation_id": "2078916784909058479",
+        "created_at": "2026-07-19T18:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078916784909058479"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078916784909058479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从大学发现了我短期记忆强到爆之后我就放弃持续学习了，红利是吃到了报应也来了…抖音最近天天给我推各种没字幕的那种英语日常对话的视频，我发现我开始不理解他们说话的逻辑，更准确来说是英语的逻辑，我就知道我完蛋了，真的毕业两个月了我的英语水平直降到初中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 62,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 171,
+          "like_count": 1046,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 710
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T15:44:43.000Z",
+        "description": "又不会死，反正不管遇到什么大不了就死，死了正好",
+        "id": "1993345076014333957",
+        "name": "嘛叽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058480332513636352/8Cy3HTDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 175,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 467
+        },
+        "url": "",
+        "username": "xiangbudao_77",
+        "verified": false
+      }
+    ]
+  }
+}

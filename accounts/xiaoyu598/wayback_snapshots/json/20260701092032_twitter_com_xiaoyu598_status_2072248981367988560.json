@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2071930574089191706",
+    "created_at": "2026-07-01T09:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T10:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072248981367988560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973458955289686017",
+          "start": 0,
+          "username": "alinanna3737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072248981367988560",
+    "in_reply_to_user_id": "1973458955289686017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071930574089191706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alinanna3737 别o啊，去抽烟喝酒都比o好，不然一崩溃就会想到o，没药直接炸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2071930574089191706",
+        "created_at": "2026-07-01T09:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072248981367988560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973458955289686017",
+              "start": 0,
+              "username": "alinanna3737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072248981367988560",
+        "in_reply_to_user_id": "1973458955289686017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071930574089191706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alinanna3737 别o啊，去抽烟喝酒都比o好，不然一崩溃就会想到o，没药直接炸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973458955289686017",
+        "conversation_id": "2071930574089191706",
+        "created_at": "2026-06-30T12:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071930574089191706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071930574089191706",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10744,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奔溃到想od了，od到底啥感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 139,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 376
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T18:45:36.000Z",
+        "description": "可以叫我ouo/女的/纯绿/碎碎念/想发什么发什么/废话/重女/无性恋/地雷/喜欢打游戏/阿宅/    \n      ❗❗❗只正常聊天❗❗❗\n                                         讨厌装熟和没礼貌的人❗❗❗",
+        "id": "1973458955289686017",
+        "location": "电脑桌前",
+        "name": "ouo",
+        "pinned_tweet_id": "2066892444189536615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974534701315760128/L75pTfwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 28,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1224
+        },
+        "url": "",
+        "username": "alinanna3737",
+        "verified": false
+      }
+    ]
+  }
+}

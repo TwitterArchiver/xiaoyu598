@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2073936132048642106",
+    "created_at": "2026-07-06T09:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074069196749889783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2051007254774808576",
+          "start": 0,
+          "username": "Puyuma2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074069196749889783",
+    "in_reply_to_user_id": "2051007254774808576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073936132048642106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Puyuma2778 泰勒斯凯尔希女士总是不经意干出一些又土又蠢的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2073936132048642106",
+        "created_at": "2026-07-06T09:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074069196749889783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051007254774808576",
+              "start": 0,
+              "username": "Puyuma2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074069196749889783",
+        "in_reply_to_user_id": "2051007254774808576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073936132048642106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puyuma2778 泰勒斯凯尔希女士总是不经意干出一些又土又蠢的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051007254774808576",
+        "conversation_id": "2073936132048642106",
+        "created_at": "2026-07-06T01:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T02:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073936132048642106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073936132048642106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经想象到泰勒斯凯尔希的婚礼有多糟糕了，交姐为了躲避媒体在室内举办婚礼，有什么比室内婚礼更糟糕的东西？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 153,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 488
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T18:34:04.000Z",
+        "description": "🏳️‍🌈",
+        "id": "2051007254774808576",
+        "name": "曲婉婷推特反黑站",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051157179856805891/EiSqauu6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 246,
+          "like_count": 7018,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 2113
+        },
+        "url": "",
+        "username": "Puyuma2778",
+        "verified": false
+      }
+    ]
+  }
+}

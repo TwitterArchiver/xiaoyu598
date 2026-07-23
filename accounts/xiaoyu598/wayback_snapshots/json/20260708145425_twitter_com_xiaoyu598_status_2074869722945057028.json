@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2074860770194768125",
+    "created_at": "2026-07-08T14:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074869722945057028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "763395299129700352",
+          "start": 0,
+          "username": "mrpanda10086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074869722945057028",
+    "in_reply_to_user_id": "763395299129700352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074866579771421015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrpanda10086 虽然我也是这么想的，但是还是会舍不得自己付出过的😢感觉自己太优柔寡断了需要改嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2074860770194768125",
+        "created_at": "2026-07-08T14:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074869722945057028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "763395299129700352",
+              "start": 0,
+              "username": "mrpanda10086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074869722945057028",
+        "in_reply_to_user_id": "763395299129700352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074866579771421015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrpanda10086 虽然我也是这么想的，但是还是会舍不得自己付出过的😢感觉自己太优柔寡断了需要改嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "763395299129700352",
+        "conversation_id": "2074860770194768125",
+        "created_at": "2026-07-08T14:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074866579771421015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1686682563937792000",
+              "start": 0,
+              "username": "xiaoyu598"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074866579771421015",
+        "in_reply_to_user_id": "1686682563937792000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074862729580720128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyu598 如果过程不开心只有结果能开心的话，那可能得考虑下这件事是否值得去做了（bushi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的😀",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 157,
+          "like_count": 800,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 546
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-10T15:23:17.000Z",
+        "description": "panda",
+        "id": "763395299129700352",
+        "location": "Hangzhou",
+        "name": "panda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074068862690361344/QF1Cwgw__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "mrpanda10086",
+        "verified": false
+      }
+    ]
+  }
+}

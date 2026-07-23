@@ -1,0 +1,606 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078653571197964288"
+      ],
+      "media_source_tweet_id": [
+        "2078653659265794257"
+      ]
+    },
+    "author_id": "1686682563937792000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "IVE",
+          "id": "1532098538275889152",
+          "name": "LIZ"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "IVE",
+          "id": "1532098538275889152",
+          "name": "LIZ"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "IVE",
+          "id": "1532098538275889152",
+          "name": "LIZ"
+        }
+      }
+    ],
+    "conversation_id": "2078839866083926117",
+    "created_at": "2026-07-19T13:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078839866083926117"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "리즈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1745504254222327808",
+          "start": 3,
+          "username": "snorxaxcat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/migi4w2KSA",
+          "end": 46,
+          "expanded_url": "https://x.com/snorxaxcat/status/2078653659265794257/video/1",
+          "media_key": "13_2078653571197964288",
+          "start": 23,
+          "url": "https://t.co/migi4w2KSA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078839866083926117",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13671
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078653659265794257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @snorxaxcat: 냥냥 #리즈 https://t.co/migi4w2KSA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2626,
+        "height": 3840,
+        "media_key": "13_2078653571197964288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078653571197964288/img/P-r-HL8C8IGROBEZ.jpg",
+        "public_metrics": {
+          "view_count": 502295
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078653571197964288/vid/avc1/320x568/IaI5EYGIJJbQSanZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078653571197964288/vid/avc1/720x1280/P_wFocBozl0yzhuE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078653571197964288/vid/avc1/480x852/WK0G0PngYavp_ggi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078653571197964288/pl/Az_y-gmB-9gMPIKa.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078653571197964288/vid/avc1/1080x1920/Ng4MavD2gSsYb3Tj.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078653571197964288/vid/avc1/2160x3840/BfTUxgwOpVygQvwU.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078653571197964288"
+          ]
+        },
+        "author_id": "1745504254222327808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          }
+        ],
+        "conversation_id": "2078653659265794257",
+        "created_at": "2026-07-19T01:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078653659265794257"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 3,
+              "tag": "리즈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/migi4w2KSA",
+              "end": 30,
+              "expanded_url": "https://x.com/snorxaxcat/status/2078653659265794257/video/1",
+              "media_key": "13_2078653571197964288",
+              "start": 7,
+              "url": "https://t.co/migi4w2KSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078653659265794257",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6522,
+          "impression_count": 1534504,
+          "like_count": 53913,
+          "quote_count": 2010,
+          "reply_count": 0,
+          "retweet_count": 13671
+        },
+        "reply_settings": "following",
+        "text": "냥냥 #리즈 https://t.co/migi4w2KSA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078653571197964288"
+          ],
+          "media_source_tweet_id": [
+            "2078653659265794257"
+          ]
+        },
+        "author_id": "1686682563937792000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          }
+        ],
+        "conversation_id": "2078839866083926117",
+        "created_at": "2026-07-19T13:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078839866083926117"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "리즈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1745504254222327808",
+              "start": 3,
+              "username": "snorxaxcat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/migi4w2KSA",
+              "end": 46,
+              "expanded_url": "https://x.com/snorxaxcat/status/2078653659265794257/video/1",
+              "media_key": "13_2078653571197964288",
+              "start": 23,
+              "url": "https://t.co/migi4w2KSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078839866083926117",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13671
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078653659265794257",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @snorxaxcat: 냥냥 #리즈 https://t.co/migi4w2KSA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 62,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 165,
+          "like_count": 984,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 666
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T17:53:47.000Z",
+        "description": "💤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/yoil",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/yoil",
+                "start": 0,
+                "url": "https://t.co/HR8NOB9dBF"
+              }
+            ]
+          }
+        },
+        "id": "1745504254222327808",
+        "location": "260522",
+        "name": "요일",
+        "pinned_tweet_id": "2078653659265794257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055179204183085056/Sy44YKhp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2770,
+          "following_count": 83,
+          "like_count": 852,
+          "listed_count": 38,
+          "media_count": 5859,
+          "tweet_count": 19679
+        },
+        "url": "https://t.co/HR8NOB9dBF",
+        "username": "snorxaxcat",
+        "verified": false
+      }
+    ]
+  }
+}

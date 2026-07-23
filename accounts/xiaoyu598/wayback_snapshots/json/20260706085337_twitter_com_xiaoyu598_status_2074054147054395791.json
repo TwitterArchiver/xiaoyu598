@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2073518985522647201",
+    "created_at": "2026-07-06T08:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074054147054395791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1870242526583783424",
+          "start": 0,
+          "username": "incelchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074054147054395791",
+    "in_reply_to_user_id": "1870242526583783424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073518985522647201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@incelchan 吉他张你真是火了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1001,
+        "media_key": "3_2073518982477537280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMaeh1GaYAABUC7.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2073518985522647201",
+        "created_at": "2026-07-06T08:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074054147054395791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1870242526583783424",
+              "start": 0,
+              "username": "incelchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074054147054395791",
+        "in_reply_to_user_id": "1870242526583783424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073518985522647201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@incelchan 吉他张你真是火了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073518982477537280"
+          ]
+        },
+        "author_id": "1870242526583783424",
+        "conversation_id": "2073518985522647201",
+        "created_at": "2026-07-04T21:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T22:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073518985522647201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qxwxty45Ed",
+              "end": 40,
+              "expanded_url": "https://x.com/incelchan/status/2073518985522647201/photo/1",
+              "media_key": "3_2073518982477537280",
+              "start": 17,
+              "url": "https://t.co/qxwxty45Ed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073518985522647201",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4516,
+          "impression_count": 670145,
+          "like_count": 77901,
+          "quote_count": 126,
+          "reply_count": 37,
+          "retweet_count": 7895
+        },
+        "reply_settings": "everyone",
+        "text": "i feel like this https://t.co/qxwxty45Ed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 152,
+          "like_count": 643,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 479
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T22:59:14.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/UTY4a9mgP",
+                "end": 23,
+                "expanded_url": "https://discord.gg/UTY4a9mgP",
+                "start": 0,
+                "url": "https://t.co/KmMe0mH9pD"
+              }
+            ]
+          }
+        },
+        "id": "1870242526583783424",
+        "location": "ig is cutecwl",
+        "name": "incelchan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066341431925723136/OzosJYG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 499,
+          "like_count": 2009,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/KmMe0mH9pD",
+        "username": "incelchan",
+        "verified": false
+      }
+    ]
+  }
+}

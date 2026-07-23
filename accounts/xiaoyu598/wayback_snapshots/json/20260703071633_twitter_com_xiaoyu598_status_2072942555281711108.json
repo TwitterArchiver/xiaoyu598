@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2072942555281711108",
+    "created_at": "2026-07-03T07:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T08:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072942555281711108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1438420916518539267",
+          "start": 3,
+          "username": "200x0x1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072942555281711108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072824407098310725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @200x0x1x: 小孩哥天天在简介里写个什么什么主义，谁他妈在意你什么主义😹😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2072942555281711108",
+        "created_at": "2026-07-03T07:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072942555281711108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1438420916518539267",
+              "start": 3,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072942555281711108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072824407098310725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @200x0x1x: 小孩哥天天在简介里写个什么什么主义，谁他妈在意你什么主义😹😹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2072824407098310725",
+        "created_at": "2026-07-02T23:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T00:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072824407098310725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072824407098310725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2855,
+          "like_count": 86,
+          "quote_count": 3,
+          "reply_count": 33,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "小孩哥天天在简介里写个什么什么主义，谁他妈在意你什么主义😹😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 145,
+          "like_count": 583,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 440
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844299642138624/LGupz8hU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 645,
+          "like_count": 28145,
+          "listed_count": 6,
+          "media_count": 2453,
+          "tweet_count": 26959
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      }
+    ]
+  }
+}

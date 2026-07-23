@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2078012554878853232",
+    "created_at": "2026-07-17T07:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T08:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078012554878853232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lingopark21/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/lingopark21/status/2077523609569145137",
+          "start": 7,
+          "url": "https://t.co/20H27h5Sdh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078012554878853232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077523609569145137",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "春雨女大最爱 https://t.co/20H27h5Sdh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2078012554878853232",
+        "created_at": "2026-07-17T07:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078012554878853232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lingopark21/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/lingopark21/status/2077523609569145137",
+              "start": 7,
+              "url": "https://t.co/20H27h5Sdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078012554878853232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077523609569145137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "春雨女大最爱 https://t.co/20H27h5Sdh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757105459356704768",
+        "conversation_id": "2077523609569145137",
+        "created_at": "2026-07-15T22:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T23:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077523609569145137"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077523609569145137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11641,
+          "like_count": 148,
+          "quote_count": 2,
+          "reply_count": 39,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "如果你觉得自己很没用很无能很舔狗不妨看看鸡品贵物公子的梦女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 62,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 163,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 638
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T18:12:54.000Z",
+        "description": "咕咕咕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/links15795",
+                "end": 23,
+                "expanded_url": "https://ngl.link/links15795",
+                "start": 0,
+                "url": "https://t.co/ZNwVVb7OJq"
+              }
+            ]
+          }
+        },
+        "id": "1757105459356704768",
+        "location": "浙江",
+        "name": "麻雀亡命天涯",
+        "pinned_tweet_id": "2038646063733907850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018275517951315968/YoTBtZ9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 169,
+          "like_count": 3302,
+          "listed_count": 3,
+          "media_count": 404,
+          "tweet_count": 5561
+        },
+        "url": "https://t.co/ZNwVVb7OJq",
+        "username": "lingopark21",
+        "verified": false
+      }
+    ]
+  }
+}

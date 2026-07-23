@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2079202100060590176",
+    "created_at": "2026-07-20T13:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079202100060590176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ruters0615/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/ruters0615/status/2079080407941931162",
+          "start": 9,
+          "url": "https://t.co/ijsLkYqedH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079202100060590176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079080407941931162",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主席也要理论值哦 https://t.co/ijsLkYqedH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2079080298663608322",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpghCVbgAI_QH4.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2079202100060590176",
+        "created_at": "2026-07-20T13:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079202100060590176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ruters0615/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ruters0615/status/2079080407941931162",
+              "start": 9,
+              "url": "https://t.co/ijsLkYqedH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079202100060590176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079080407941931162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主席也要理论值哦 https://t.co/ijsLkYqedH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079080298663608322"
+          ]
+        },
+        "author_id": "1153970326604144640",
+        "conversation_id": "2079080407941931162",
+        "created_at": "2026-07-20T05:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079080407941931162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YmWZMYLCmt",
+              "end": 29,
+              "expanded_url": "https://x.com/Ruters0615/status/2079080407941931162/photo/1",
+              "media_key": "3_2079080298663608322",
+              "start": 6,
+              "url": "https://t.co/YmWZMYLCmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079080407941931162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 48311,
+          "like_count": 654,
+          "quote_count": 9,
+          "reply_count": 59,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "亲自打音游 https://t.co/YmWZMYLCmt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 62,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 167,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 684
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "location": "IP属地：梁家河",
+        "name": "Ruters乳透社",
+        "pinned_tweet_id": "2013472422435983458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297570,
+          "following_count": 2386,
+          "like_count": 2422,
+          "listed_count": 945,
+          "media_count": 2453,
+          "tweet_count": 3272
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true
+      }
+    ]
+  }
+}

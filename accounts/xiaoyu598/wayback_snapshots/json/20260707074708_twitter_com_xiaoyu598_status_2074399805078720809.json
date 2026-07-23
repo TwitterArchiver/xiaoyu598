@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2074238596027179252",
+    "created_at": "2026-07-07T07:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074399805078720809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1839980597206495232",
+          "start": 0,
+          "username": "cy79p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074399805078720809",
+    "in_reply_to_user_id": "1839980597206495232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074238596027179252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cy79p 油品哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2074238596027179252",
+        "created_at": "2026-07-07T07:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074399805078720809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1839980597206495232",
+              "start": 0,
+              "username": "cy79p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074399805078720809",
+        "in_reply_to_user_id": "1839980597206495232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074238596027179252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cy79p 油品哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839980597206495232",
+        "conversation_id": "2074238596027179252",
+        "created_at": "2026-07-06T21:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T22:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074238596027179252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cy79p/status/1…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/cy79p/status/1895302019885474239",
+              "start": 16,
+              "url": "https://t.co/ujiOw7v3Lf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074238596027179252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895302019885474239",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已严肃沉迷龙脉常歌\n好玩爱玩😋 https://t.co/ujiOw7v3Lf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 155,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 505
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T10:49:06.000Z",
+        "description": "你说遗忘会在应许地风化 ｜🏳️‍🌈🏳️‍⚧️｜你说我怎样我就是怎样的｜四分之一个酒蒙子｜时月系统｜42｜「瑪德琳娜電台」@cy79p｜「花」@inwal3310｜「我是，女孩。」@txzm123 ｜「4 a.m.，-4 ℃」@winterfruit_1｜「身体は正直だって言ってんの」@w0sh1asak1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 60,
+                "username": "cy79p"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "inwal3310"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "txzm123"
+              },
+              {
+                "end": 126,
+                "start": 112,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "w0sh1asak1"
+              }
+            ]
+          }
+        },
+        "id": "1839980597206495232",
+        "name": "璟江别 #北十字",
+        "pinned_tweet_id": "1962215932266459411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043026890089467904/l9lMm8FW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 407,
+          "like_count": 11982,
+          "listed_count": 4,
+          "media_count": 75,
+          "tweet_count": 2210
+        },
+        "url": "",
+        "username": "cy79p",
+        "verified": false
+      }
+    ]
+  }
+}

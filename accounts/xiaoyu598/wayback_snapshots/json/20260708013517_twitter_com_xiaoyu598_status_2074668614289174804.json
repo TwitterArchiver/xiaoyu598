@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2074390121982607394",
+    "created_at": "2026-07-08T01:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T02:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074668614289174804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2049690086623911936",
+          "start": 0,
+          "username": "2hollisshowmore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074668614289174804",
+    "in_reply_to_user_id": "2049690086623911936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074390121982607394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2hollisshowmore 然后我也买了。。。但是臭蛋这个比淘宝还贵了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074390112914522112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMm20S3aQAAMk5A.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2074390121982607394",
+        "created_at": "2026-07-08T01:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074668614289174804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2049690086623911936",
+              "start": 0,
+              "username": "2hollisshowmore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074668614289174804",
+        "in_reply_to_user_id": "2049690086623911936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074390121982607394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2hollisshowmore 然后我也买了。。。但是臭蛋这个比淘宝还贵了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074390112914522112"
+          ]
+        },
+        "author_id": "2049690086623911936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074390121982607394",
+        "created_at": "2026-07-07T07:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074390121982607394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RYGIO3ilu3",
+              "end": 42,
+              "expanded_url": "https://x.com/2hollisshowmore/status/2074390121982607394/photo/1",
+              "media_key": "3_2074390112914522112",
+              "start": 19,
+              "url": "https://t.co/RYGIO3ilu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074390121982607394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 46072,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个臭蛋卖的发圈一个要60吗我的法克 https://t.co/RYGIO3ilu3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 156,
+          "like_count": 730,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 514
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T03:20:41.000Z",
+        "description": "我只是一只很懵逼的蛋小黄\n头像是本人。\n匿名提问箱：https://t.co/hEg7RobMK2\n喜欢蛋小黄的话呢。请投喂咸鱼币。嘎哒嘎哒",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%8F%AA%E5%9…",
+                "end": 49,
+                "expanded_url": "https://ngl.link/%E6%8F%AA%E5%92%AAovo",
+                "start": 26,
+                "url": "https://t.co/hEg7RobMK2"
+              }
+            ]
+          }
+        },
+        "id": "2049690086623911936",
+        "name": "蛋蛋的忧桑≡ω≡",
+        "pinned_tweet_id": "2056628959488647343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058374843717111808/kWEsQxSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 248,
+          "like_count": 1147,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 2233
+        },
+        "url": "",
+        "username": "2hollisshowmore",
+        "verified": false
+      }
+    ]
+  }
+}

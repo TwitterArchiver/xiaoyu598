@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2075155554570473506",
+    "created_at": "2026-07-09T09:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075155554570473506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bi_zhe69537/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/bi_zhe69537/status/2075104194986418627",
+          "start": 13,
+          "url": "https://t.co/YXkXeXGqNd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075155554570473506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075104194986418627",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了心脏怎么这么敏感 https://t.co/YXkXeXGqNd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2075155554570473506",
+        "created_at": "2026-07-09T09:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075155554570473506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bi_zhe69537/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/bi_zhe69537/status/2075104194986418627",
+              "start": 13,
+              "url": "https://t.co/YXkXeXGqNd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075155554570473506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075104194986418627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了心脏怎么这么敏感 https://t.co/YXkXeXGqNd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985147162347585536",
+        "conversation_id": "2075032998727303283",
+        "created_at": "2026-07-09T06:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075104194986418627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1486225700793495552",
+              "start": 0,
+              "username": "ABC13067637"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075104194986418627",
+        "in_reply_to_user_id": "1486225700793495552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075032998727303283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABC13067637 难道不对吗？！真以为你做了手术就成母人了？！就能打拳了？！女拳最想杀的就是你这种人！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的😀",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 159,
+          "like_count": 836,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 573
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T00:49:10.000Z",
+        "description": "皇汉｜共和主义｜世俗主义｜社会民主主义｜反共｜反伊斯兰教｜反女权｜颜值优生学｜支持LGBT合法化，但不支持LGBT平权｜废除死刑，恢复肉刑｜复古渐进式改革｜💩=🇨🇳🇰🇵🇵🇰🇵🇸🇹🇷🇸🇦🇮🇷🇲🇾，毛病不改，积恶成习！",
+        "id": "1985147162347585536",
+        "name": "🌹万折🐉必東🌹",
+        "pinned_tweet_id": "2053770803955581222",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 8,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 748
+        },
+        "url": "",
+        "username": "bi_zhe69537",
+        "verified": false
+      }
+    ]
+  }
+}

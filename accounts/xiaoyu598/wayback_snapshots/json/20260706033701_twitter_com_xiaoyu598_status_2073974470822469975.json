@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2073589982825238579",
+    "created_at": "2026-07-06T03:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T04:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073974470822469975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845184179157467140",
+          "start": 0,
+          "username": "BADAPPLE_999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073974470822469975",
+    "in_reply_to_user_id": "1845184179157467140",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073589982825238579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BADAPPLE_999 圈外人看哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2073589982825238579",
+        "created_at": "2026-07-06T03:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073974470822469975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1845184179157467140",
+              "start": 0,
+              "username": "BADAPPLE_999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073974470822469975",
+        "in_reply_to_user_id": "1845184179157467140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073589982825238579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BADAPPLE_999 圈外人看哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845184179157467140",
+        "conversation_id": "2073589982825238579",
+        "created_at": "2026-07-05T02:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073589982825238579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073589982825238579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 90969,
+          "like_count": 835,
+          "quote_count": 5,
+          "reply_count": 92,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "“妈妈，那个姐姐好奇怪，她怎么一个人在跳舞”\n“嘘，看，姐姐的爱人不是在她身边吗”\n\n我真求求了 到底是谁想出来的文案 别逗我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 149,
+          "like_count": 611,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T19:26:12.000Z",
+        "description": "我只是个阴暗的臭啊宅(^_^)v\n不混圈子 别把饭圈邪教那套带我身上 自由人但欢迎扩列 我只是个臭玩游戏的\n好想夏以昼",
+        "id": "1845184179157467140",
+        "name": "10",
+        "pinned_tweet_id": "2069660763220857021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070672132351135744/nVQieIAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 46,
+          "like_count": 933,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 647
+        },
+        "url": "",
+        "username": "BADAPPLE_999",
+        "verified": true
+      }
+    ]
+  }
+}

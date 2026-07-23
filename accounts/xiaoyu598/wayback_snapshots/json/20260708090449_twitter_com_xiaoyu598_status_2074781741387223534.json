@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2074377131426218053",
+    "created_at": "2026-07-08T09:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074781741387223534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039554682297925632",
+          "start": 0,
+          "username": "Aaaaiiopauq"
+        },
+        {
+          "end": 21,
+          "id": "1223407990713114624",
+          "start": 13,
+          "username": "wmtbxsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074781741387223534",
+    "in_reply_to_user_id": "2039554682297925632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074573116848672986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aaaaiiopauq @wmtbxsh 但这件事本来就是lh有问题吧，而且关晓彤这么多年好像除了演技烂也没什么黑料吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2074377131426218053",
+        "created_at": "2026-07-08T09:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074781741387223534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039554682297925632",
+              "start": 0,
+              "username": "Aaaaiiopauq"
+            },
+            {
+              "end": 21,
+              "id": "1223407990713114624",
+              "start": 13,
+              "username": "wmtbxsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074781741387223534",
+        "in_reply_to_user_id": "2039554682297925632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074573116848672986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aaaaiiopauq @wmtbxsh 但这件事本来就是lh有问题吧，而且关晓彤这么多年好像除了演技烂也没什么黑料吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039554682297925632",
+        "conversation_id": "2074377131426218053",
+        "created_at": "2026-07-07T19:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T20:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074573116848672986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1223407990713114624",
+              "start": 0,
+              "username": "wmtbxsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074573116848672986",
+        "in_reply_to_user_id": "1223407990713114624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13025,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074377131426218053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmtbxsh 不予评价这俩人  互联网真的很喜欢搞回合制啊😂a垃圾难道b就一定是好人了吗  一方有点黑料另一个立马就好起来了😂蠢不蠢。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的😀",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 157,
+          "like_count": 782,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 532
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T04:05:47.000Z",
+        "description": "",
+        "id": "2039554682297925632",
+        "name": "是我不好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069858096298496000/KILYP4Hn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 23,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "Aaaaiiopauq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T00:49:51.000Z",
+        "description": "我只想安静发疯💢｜碎碎念@wjtbxsh｜推广自辨❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "wjtbxsh"
+              }
+            ]
+          }
+        },
+        "id": "1223407990713114624",
+        "name": "我明天不想说话（读研发疯版）",
+        "pinned_tweet_id": "2070419308451401827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012531606020390912/jU4-9qGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57801,
+          "following_count": 528,
+          "like_count": 5599,
+          "listed_count": 124,
+          "media_count": 581,
+          "tweet_count": 2464
+        },
+        "url": "",
+        "username": "wmtbxsh",
+        "verified": true
+      }
+    ]
+  }
+}

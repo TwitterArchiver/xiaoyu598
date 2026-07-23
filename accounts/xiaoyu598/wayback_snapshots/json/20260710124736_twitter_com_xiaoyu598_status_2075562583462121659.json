@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2075562583462121659",
+    "created_at": "2026-07-10T12:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075562583462121659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ashasw114514/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/ashasw114514/status/2075471455421452668",
+          "start": 7,
+          "url": "https://t.co/TJ2DzjjftW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075562583462121659",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075471455421452668",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑得我肚肚疼 https://t.co/TJ2DzjjftW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_2075471451763908608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2OSf_aIAAtX7N.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2075562583462121659",
+        "created_at": "2026-07-10T12:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075562583462121659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ashasw114514/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ashasw114514/status/2075471455421452668",
+              "start": 7,
+              "url": "https://t.co/TJ2DzjjftW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075562583462121659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075471455421452668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑得我肚肚疼 https://t.co/TJ2DzjjftW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075471451763908608"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2075471455421452668",
+        "created_at": "2026-07-10T06:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075471455421452668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNiRPGdXjI",
+              "end": 23,
+              "expanded_url": "https://x.com/ashasw114514/status/2075471455421452668/photo/1",
+              "media_key": "3_2075471451763908608",
+              "start": 0,
+              "url": "https://t.co/LNiRPGdXjI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075471455421452668",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6676,
+          "like_count": 236,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LNiRPGdXjI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的😀",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 160,
+          "like_count": 853,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 587
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4597,
+          "following_count": 3565,
+          "like_count": 8482,
+          "listed_count": 10,
+          "media_count": 713,
+          "tweet_count": 6113
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

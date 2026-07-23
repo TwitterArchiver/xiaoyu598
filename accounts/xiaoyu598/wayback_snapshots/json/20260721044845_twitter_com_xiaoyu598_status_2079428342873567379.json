@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2079411736910917712",
+    "created_at": "2026-07-21T04:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079428342873567379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1561588899499196417",
+          "start": 0,
+          "username": "Tiandaidaidai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079428342873567379",
+    "in_reply_to_user_id": "1561588899499196417",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079411736910917712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tiandaidaidai 是不是吃了喹硫平"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2079411736910917712].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2079411736910917712",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2079411736910917712"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2079411736910917712",
+        "created_at": "2026-07-21T04:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079428342873567379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1561588899499196417",
+              "start": 0,
+              "username": "Tiandaidaidai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079428342873567379",
+        "in_reply_to_user_id": "1561588899499196417",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079411736910917712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiandaidaidai 是不是吃了喹硫平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 62,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 169,
+          "like_count": 1017,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 689
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:39:42.000Z",
+        "description": "🔪丨💊丨🏳️‍🌈丨❤️@GHYYAYA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "GHYYAYA"
+              }
+            ]
+          }
+        },
+        "id": "1561588899499196417",
+        "location": "スカイストリート",
+        "name": "⊹天填甜田添恬黛⊹",
+        "pinned_tweet_id": "2078010948070347221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078920097163546624/krCr2iFN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 2207,
+          "like_count": 89667,
+          "listed_count": 10,
+          "media_count": 809,
+          "tweet_count": 12813
+        },
+        "url": "",
+        "username": "Tiandaidaidai",
+        "verified": false
+      }
+    ]
+  }
+}

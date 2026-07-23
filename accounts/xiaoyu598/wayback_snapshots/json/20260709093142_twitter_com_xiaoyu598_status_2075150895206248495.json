@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2075031611523883331",
+    "created_at": "2026-07-09T09:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075150895206248495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1553278286796451840",
+          "start": 0,
+          "username": "XuanZai12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075150895206248495",
+    "in_reply_to_user_id": "1553278286796451840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075031611523883331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XuanZai12138 我记得好像是一个爹玩手机结果儿子淹死了，他就把儿子做成纸扎人天天带着吃饭出去什么的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2075031611523883331",
+        "created_at": "2026-07-09T09:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075150895206248495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1553278286796451840",
+              "start": 0,
+              "username": "XuanZai12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075150895206248495",
+        "in_reply_to_user_id": "1553278286796451840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075031611523883331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XuanZai12138 我记得好像是一个爹玩手机结果儿子淹死了，他就把儿子做成纸扎人天天带着吃饭出去什么的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553278286796451840",
+        "conversation_id": "2075031611523883331",
+        "created_at": "2026-07-09T01:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075031611523883331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075031611523883331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能告诉我幺儿到底啥梗，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的😀",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 159,
+          "like_count": 835,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 572
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T07:16:29.000Z",
+        "description": "此账号皮下是一个有躯体化的活珠子丨性别男 取向男 接占卜烧香点蜡法事 塔罗师从龙女 家是出马的\n⬆️广告营业发在：@LeviCha61174973",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "LeviCha61174973"
+              }
+            ]
+          }
+        },
+        "id": "1553278286796451840",
+        "location": "碎碎念的地方 别骂我",
+        "name": "十九岁帅到邻居想报警",
+        "pinned_tweet_id": "2039733988387139754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070899657190899712/gzgpkJWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 111,
+          "like_count": 11919,
+          "listed_count": 8,
+          "media_count": 396,
+          "tweet_count": 4776
+        },
+        "url": "",
+        "username": "XuanZai12138",
+        "verified": false
+      }
+    ]
+  }
+}

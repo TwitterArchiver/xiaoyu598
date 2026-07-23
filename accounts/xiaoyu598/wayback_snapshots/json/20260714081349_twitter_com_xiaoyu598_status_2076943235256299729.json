@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2076709234352497121",
+    "created_at": "2026-07-14T08:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T09:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076943235256299729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1883076846281228288",
+          "start": 0,
+          "username": "liynchn331903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076943235256299729",
+    "in_reply_to_user_id": "1883076846281228288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076709234352497121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liynchn331903 这傻吊早晚会死于自学西医"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1487,
+        "media_key": "3_2076709231844302849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNH0CyHaoAE72NO.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2076709234352497121",
+        "created_at": "2026-07-14T08:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076943235256299729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883076846281228288",
+              "start": 0,
+              "username": "liynchn331903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076943235256299729",
+        "in_reply_to_user_id": "1883076846281228288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076709234352497121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liynchn331903 这傻吊早晚会死于自学西医"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076709231844302849"
+          ]
+        },
+        "author_id": "1883076846281228288",
+        "conversation_id": "2076709234352497121",
+        "created_at": "2026-07-13T16:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076709234352497121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yGE2UzzENQ",
+              "end": 176,
+              "expanded_url": "https://x.com/liynchn331903/status/2076709234352497121/photo/1",
+              "media_key": "3_2076709231844302849",
+              "start": 153,
+              "url": "https://t.co/yGE2UzzENQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076709234352497121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2425,
+          "like_count": 49,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "What are you doing ？？？？？？？\n你的伤口原本就快好了然后你他妈又去阻止它愈合 \n还有！表皮擦伤根本不会坏死  我快被气窒息了\n你的器材根本没无菌 接着这么整\n蜂窝性组织炎都算好了\n你现在这是他妈全菌出击阿 一点不怕感染？ 手术室那是无菌的啊 然后你现在把拿刀二度伤害伤口叫微创？\n草 https://t.co/yGE2UzzENQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 62,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 159,
+          "like_count": 898,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 612
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T08:59:02.000Z",
+        "description": "13.08.05\n我會時不時發點怪東西\n友跨（好吧可能真的翻車了\n初中喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/azez21/%E…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/azez21/%E9%A6%96%E9%A0%81",
+                "start": 0,
+                "url": "https://t.co/Bypq1lF4VO"
+              }
+            ]
+          }
+        },
+        "id": "1883076846281228288",
+        "location": "myhome",
+        "name": "AZEZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054200736368750594/Nssvvqku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 291,
+          "like_count": 6310,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 1635
+        },
+        "url": "https://t.co/Bypq1lF4VO",
+        "username": "liynchn331903",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2074403043303440711",
+    "created_at": "2026-07-08T08:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074778840141054073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074778840141054073",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074403043303440711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 看到这个图又焦虑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_2074192174535839744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkCyw8akAA0Thy.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2074403043303440711",
+        "created_at": "2026-07-08T08:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074778840141054073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074778840141054073",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074403043303440711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 看到这个图又焦虑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074192174535839744"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2074403043303440711",
+        "created_at": "2026-07-07T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074403043303440711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/heLnY1M2S1",
+              "end": 39,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2074403043303440711/photo/1",
+              "media_key": "3_2074192174535839744",
+              "start": 16,
+              "url": "https://t.co/heLnY1M2S1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074403043303440711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 13645,
+          "like_count": 299,
+          "quote_count": 17,
+          "reply_count": 22,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "焦虑型和回避型谈恋爱这辈子有了 https://t.co/heLnY1M2S1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的😀",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 157,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 530
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13632,
+          "following_count": 1752,
+          "like_count": 26483,
+          "listed_count": 16,
+          "media_count": 5591,
+          "tweet_count": 29300
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

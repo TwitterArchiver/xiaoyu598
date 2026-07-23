@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2072191303354609887",
+    "created_at": "2026-07-01T13:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072306279595532628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597065444136919040",
+          "start": 0,
+          "username": "impart6324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072306279595532628",
+    "in_reply_to_user_id": "1597065444136919040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072191303354609887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@impart6324 怎么还有反二的事"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 96100,
+        "height": 480,
+        "media_key": "13_2072191195179298816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072191195179298816/img/-z0Pk6whFT-I9qQr.jpg",
+        "public_metrics": {
+          "view_count": 74
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072191195179298816/vid/avc1/480x270/9I9z5mFS4-eG0V42.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072191195179298816/vid/avc1/640x360/wI4CXCor3finFit2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072191195179298816/vid/avc1/854x480/ENDqukZUAfUoLVJS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072191195179298816/pl/u6hoouPtpK5vitQN.m3u8"
+          }
+        ],
+        "width": 854
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072191195179347968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHm6b9bcAADo_f.jpg",
+        "width": 946
+      },
+      {
+        "height": 1922,
+        "media_key": "3_2072191195187732480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHm6b_bYAAQmw7.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2072191303354609887",
+        "created_at": "2026-07-01T13:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072306279595532628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072306279595532628",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072191303354609887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 怎么还有反二的事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072191195179298816",
+            "3_2072191195179347968",
+            "3_2072191195187732480"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2072191303354609887",
+        "created_at": "2026-07-01T05:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072191303354609887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mpb4ZqBsVi",
+              "end": 41,
+              "expanded_url": "https://x.com/impart6324/status/2072191303354609887/video/1",
+              "media_key": "13_2072191195179298816",
+              "start": 18,
+              "url": "https://t.co/Mpb4ZqBsVi"
+            },
+            {
+              "display_url": "pic.x.com/Mpb4ZqBsVi",
+              "end": 41,
+              "expanded_url": "https://x.com/impart6324/status/2072191303354609887/video/1",
+              "media_key": "3_2072191195179347968",
+              "start": 18,
+              "url": "https://t.co/Mpb4ZqBsVi"
+            },
+            {
+              "display_url": "pic.x.com/Mpb4ZqBsVi",
+              "end": 41,
+              "expanded_url": "https://x.com/impart6324/status/2072191303354609887/video/1",
+              "media_key": "3_2072191195187732480",
+              "start": 18,
+              "url": "https://t.co/Mpb4ZqBsVi"
+            },
+            {
+              "display_url": "x.com/gfwfrog/status…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/gfwfrog/status/2028788031893725681",
+              "start": 42,
+              "url": "https://t.co/e6uSgQ2N7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072191303354609887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028788031893725681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "得反思一下为什么会认识到这么神的人 https://t.co/Mpb4ZqBsVi https://t.co/e6uSgQ2N7v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 143,
+          "like_count": 508,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 385
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052396352647385088/BhETq8DR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 507,
+          "like_count": 11447,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 422
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

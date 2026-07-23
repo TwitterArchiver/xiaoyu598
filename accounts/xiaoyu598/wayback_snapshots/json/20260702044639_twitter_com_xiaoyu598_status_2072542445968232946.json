@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072341578887397376"
+      ],
+      "media_source_tweet_id": [
+        "2072341601389781039"
+      ]
+    },
+    "author_id": "1686682563937792000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072542445968232946",
+    "created_at": "2026-07-02T04:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072542445968232946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1918000112527392770",
+          "start": 3,
+          "username": "subkgs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0SDSLtCZY7",
+          "end": 39,
+          "expanded_url": "https://x.com/subkgs/status/2072341601389781039/photo/1",
+          "media_key": "3_2072341578887397376",
+          "start": 16,
+          "url": "https://t.co/0SDSLtCZY7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072542445968232946",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072341601389781039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @subkgs: 세잘남 https://t.co/0SDSLtCZY7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 371,
+        "media_key": "3_2072341578887397376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJvr67bAAA60ZQ.png",
+        "width": 415
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072341578887397376"
+          ],
+          "media_source_tweet_id": [
+            "2072341601389781039"
+          ]
+        },
+        "author_id": "1686682563937792000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072542445968232946",
+        "created_at": "2026-07-02T04:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072542445968232946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1918000112527392770",
+              "start": 3,
+              "username": "subkgs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0SDSLtCZY7",
+              "end": 39,
+              "expanded_url": "https://x.com/subkgs/status/2072341601389781039/photo/1",
+              "media_key": "3_2072341578887397376",
+              "start": 16,
+              "url": "https://t.co/0SDSLtCZY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072542445968232946",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072341601389781039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @subkgs: 세잘남 https://t.co/0SDSLtCZY7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072341578887397376"
+          ]
+        },
+        "author_id": "1918000112527392770",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072341601389781039",
+        "created_at": "2026-07-01T15:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072341601389781039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0SDSLtCZY7",
+              "end": 27,
+              "expanded_url": "https://x.com/subkgs/status/2072341601389781039/photo/1",
+              "media_key": "3_2072341578887397376",
+              "start": 4,
+              "url": "https://t.co/0SDSLtCZY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072341601389781039",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 9146,
+          "like_count": 841,
+          "quote_count": 27,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "세잘남 https://t.co/0SDSLtCZY7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 143,
+          "like_count": 531,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 402
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:50:43.000Z",
+        "description": "본체 @KGSotk ⚠️스포일러밭ㅣ잡계정\n중계랑 오타쿠말이랑 게임(이거많이함)\nⓘ애융@Future_miraiii\nⓗﾅﾑｺ@namucozannu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "KGSotk"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "Future_miraiii"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "namucozannu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/oaRTMjLdiDw",
+                "end": 23,
+                "expanded_url": "https://youtu.be/oaRTMjLdiDw",
+                "start": 0,
+                "url": "https://t.co/a2ahb2EUHU"
+              }
+            ]
+          }
+        },
+        "id": "1918000112527392770",
+        "location": "인간적으로 너무 덥지 않나요 🧊nowplay➤",
+        "name": "손칼국수",
+        "pinned_tweet_id": "1950146181901783402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948354810312626176/VITSwyQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 37,
+          "like_count": 167,
+          "listed_count": 9,
+          "media_count": 603,
+          "tweet_count": 2699
+        },
+        "url": "https://t.co/a2ahb2EUHU",
+        "username": "subkgs",
+        "verified": false
+      }
+    ]
+  }
+}

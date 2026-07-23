@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2074519601963250030",
+    "created_at": "2026-07-08T01:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T02:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074663306116337846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1966023688006078464",
+          "start": 0,
+          "username": "callme_doubi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074663306116337846",
+    "in_reply_to_user_id": "1966023688006078464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074519601963250030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@callme_doubi 感觉像pc不成被仙人跳气急败坏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_2074519579397914624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoskPGbAAA1TfE.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2074519601963250030",
+        "created_at": "2026-07-08T01:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074663306116337846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1966023688006078464",
+              "start": 0,
+              "username": "callme_doubi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074663306116337846",
+        "in_reply_to_user_id": "1966023688006078464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074519601963250030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@callme_doubi 感觉像pc不成被仙人跳气急败坏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074519579397914624"
+          ]
+        },
+        "author_id": "1966023688006078464",
+        "conversation_id": "2074519601963250030",
+        "created_at": "2026-07-07T15:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074519601963250030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ytL6UtOaD",
+              "end": 32,
+              "expanded_url": "https://x.com/callme_doubi/status/2074519601963250030/photo/1",
+              "media_key": "3_2074519579397914624",
+              "start": 9,
+              "url": "https://t.co/0ytL6UtOaD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074519601963250030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13284,
+          "like_count": 754,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "存档 ta给删了 https://t.co/0ytL6UtOaD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 156,
+          "like_count": 727,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 513
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T06:19:22.000Z",
+        "description": "高质推文拥有者 女王姿态 保持优雅 将懵逼贯彻到底 缩写黑话一概不知 阿弥陀佛",
+        "id": "1966023688006078464",
+        "location": "随意搬运",
+        "name": "豆比",
+        "pinned_tweet_id": "2074645227298824677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051485163281055744/F-PqCl9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3832,
+          "following_count": 116,
+          "like_count": 6475,
+          "listed_count": 1,
+          "media_count": 560,
+          "tweet_count": 5250
+        },
+        "url": "",
+        "username": "callme_doubi",
+        "verified": false
+      }
+    ]
+  }
+}

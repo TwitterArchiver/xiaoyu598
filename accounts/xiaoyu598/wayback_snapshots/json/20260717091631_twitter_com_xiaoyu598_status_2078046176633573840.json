@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2077390123126423820",
+    "created_at": "2026-07-17T09:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078046176633573840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1554936634139090944",
+          "start": 0,
+          "username": "tukesiwomenzou1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078046176633573840",
+    "in_reply_to_user_id": "1554936634139090944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077390123126423820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tukesiwomenzou1 每次都觉得吃点垃圾食物又能如何呢...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2077390123126423820",
+        "created_at": "2026-07-17T09:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078046176633573840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1554936634139090944",
+              "start": 0,
+              "username": "tukesiwomenzou1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078046176633573840",
+        "in_reply_to_user_id": "1554936634139090944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077390123126423820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tukesiwomenzou1 每次都觉得吃点垃圾食物又能如何呢...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554936634139090944",
+        "conversation_id": "2077390123126423820",
+        "created_at": "2026-07-15T13:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077390123126423820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077390123126423820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 42980,
+          "like_count": 855,
+          "quote_count": 5,
+          "reply_count": 83,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "人只有在减脂的时候才知道为什么吃喝排在嫖赌前面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 62,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 163,
+          "like_count": 951,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 647
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T21:06:08.000Z",
+        "description": "我本就是最干净纯粹光明正大的存在",
+        "id": "1554936634139090944",
+        "location": "距你-1m",
+        "name": "Coconut",
+        "pinned_tweet_id": "2055634228990394615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889040074643513344/08Ciy0ji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 82,
+          "like_count": 7138,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 3105
+        },
+        "url": "",
+        "username": "tukesiwomenzou1",
+        "verified": false
+      }
+    ]
+  }
+}

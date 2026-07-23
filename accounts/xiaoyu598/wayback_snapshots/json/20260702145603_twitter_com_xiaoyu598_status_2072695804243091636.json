@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2072672453210542099",
+    "created_at": "2026-07-02T14:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072695804243091636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2067447448549949440",
+          "start": 0,
+          "username": "BGNhwhN2cs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072695804243091636",
+    "in_reply_to_user_id": "2067447448549949440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072672453210542099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BGNhwhN2cs unk能不能互fo我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072671855698382848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOcEj7aEAAdzZT.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072672399179575298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOckMja8AIoHm6.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2072672453210542099",
+        "created_at": "2026-07-02T14:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072695804243091636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067447448549949440",
+              "start": 0,
+              "username": "BGNhwhN2cs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072695804243091636",
+        "in_reply_to_user_id": "2067447448549949440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072672453210542099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BGNhwhN2cs unk能不能互fo我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072671855698382848",
+            "3_2072672399179575298"
+          ]
+        },
+        "author_id": "2067447448549949440",
+        "conversation_id": "2072672453210542099",
+        "created_at": "2026-07-02T13:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072672453210542099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rKY21WrxXR",
+              "end": 100,
+              "expanded_url": "https://x.com/BGNhwhN2cs/status/2072672453210542099/photo/1",
+              "media_key": "3_2072671855698382848",
+              "start": 77,
+              "url": "https://t.co/rKY21WrxXR"
+            },
+            {
+              "display_url": "pic.x.com/rKY21WrxXR",
+              "end": 100,
+              "expanded_url": "https://x.com/BGNhwhN2cs/status/2072672453210542099/photo/1",
+              "media_key": "3_2072672399179575298",
+              "start": 77,
+              "url": "https://t.co/rKY21WrxXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072672453210542099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 703,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是Unk，我的账号又又又又又被封了😭😭，我的三代目第二次被封禁了😭😭，四代目也被封了，这里是五代目😭😭，求求大家真的不要再举报了😭😭\n可恶的🐜🐲 https://t.co/rKY21WrxXR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 146,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T03:21:40.000Z",
+        "description": "我的账号啊✋😭🤚\n可恶的🐜🐲",
+        "id": "2067447448549949440",
+        "name": "Unk🍥(5.0互fo寻回)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072669520611991552/t4ky8V3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 45,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "BGNhwhN2cs",
+        "verified": false
+      }
+    ]
+  }
+}

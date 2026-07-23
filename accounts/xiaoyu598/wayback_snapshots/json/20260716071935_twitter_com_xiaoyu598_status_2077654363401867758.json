@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2077562823249645800",
+    "created_at": "2026-07-16T07:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T08:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077654363401867758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1844356739539533829",
+          "start": 0,
+          "username": "xccpma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077654363401867758",
+    "in_reply_to_user_id": "1844356739539533829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077562823249645800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xccpma 差点以为是在零食店里买的p1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2077562784473341953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNT8WFca4AEED-1.jpg",
+        "width": 3428
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2077562784481730560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNT8WFea4AAB9s-.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2077562823249645800",
+        "created_at": "2026-07-16T07:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077654363401867758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1844356739539533829",
+              "start": 0,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077654363401867758",
+        "in_reply_to_user_id": "1844356739539533829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077562823249645800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xccpma 差点以为是在零食店里买的p1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077562784473341953",
+            "3_2077562784481730560"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2077562823249645800",
+        "created_at": "2026-07-16T01:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077562823249645800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWnwEs4H8u",
+              "end": 49,
+              "expanded_url": "https://x.com/xccpma/status/2077562823249645800/photo/1",
+              "media_key": "3_2077562784473341953",
+              "start": 26,
+              "url": "https://t.co/SWnwEs4H8u"
+            },
+            {
+              "display_url": "pic.x.com/SWnwEs4H8u",
+              "end": 49,
+              "expanded_url": "https://x.com/xccpma/status/2077562823249645800/photo/1",
+              "media_key": "3_2077562784481730560",
+              "start": 26,
+              "url": "https://t.co/SWnwEs4H8u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077562823249645800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2608,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "get新品牌😋\n\n话说这种零食店的便宜零食是正版吗 https://t.co/SWnwEs4H8u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 62,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 162,
+          "like_count": 921,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 629
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 189,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

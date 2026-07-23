@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2073941333576757268",
+    "created_at": "2026-07-06T04:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073993324713931082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1980983841990033408",
+          "start": 0,
+          "username": "imjadestan"
+        },
+        {
+          "end": 26,
+          "id": "1833844728997244928",
+          "start": 12,
+          "username": "facaibaofu668"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073993324713931082",
+    "in_reply_to_user_id": "1980983841990033408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073963008167149746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imjadestan @facaibaofu668 我好想抽那个，感觉很好抽的样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2073941333576757268",
+        "created_at": "2026-07-06T04:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073993324713931082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980983841990033408",
+              "start": 0,
+              "username": "imjadestan"
+            },
+            {
+              "end": 26,
+              "id": "1833844728997244928",
+              "start": 12,
+              "username": "facaibaofu668"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073993324713931082",
+        "in_reply_to_user_id": "1980983841990033408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073963008167149746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imjadestan @facaibaofu668 我好想抽那个，感觉很好抽的样子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980983841990033408",
+        "conversation_id": "2073941333576757268",
+        "created_at": "2026-07-06T02:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073963008167149746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1833844728997244928",
+              "start": 0,
+              "username": "facaibaofu668"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073963008167149746",
+        "in_reply_to_user_id": "1833844728997244928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 149,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073941333576757268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@facaibaofu668 有个韩国烟抽起来是巧克力的味道，自己抽闻不到，但别人闻都是香的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 149,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T13:05:39.000Z",
+        "description": "痛苦是因为无能",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kimi33424",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kimi33424",
+                "start": 0,
+                "url": "https://t.co/nqAYynr1gz"
+              }
+            ]
+          }
+        },
+        "id": "1980983841990033408",
+        "location": "圆蛤镇",
+        "name": "kimi",
+        "pinned_tweet_id": "2055949109161595216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055995091286904832/q6PPSPWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 82,
+          "like_count": 1614,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 976
+        },
+        "url": "https://t.co/nqAYynr1gz",
+        "username": "imjadestan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T12:27:36.000Z",
+        "description": "🚪88\n我喜欢画画然后听歌\n亲爱的，我听说爱斯基摩人用热吻消除语言差异\n我的提问箱https://t.co/Vh5bxHJ7EW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yun63187",
+                "end": 64,
+                "expanded_url": "https://ngl.link/yun63187",
+                "start": 41,
+                "url": "https://t.co/Vh5bxHJ7EW"
+              }
+            ]
+          }
+        },
+        "id": "1833844728997244928",
+        "location": "利物浦",
+        "name": "悲伤青少女",
+        "pinned_tweet_id": "2043372426248036759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962011260305989633/DZUTG-Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3101,
+          "following_count": 224,
+          "like_count": 2575,
+          "listed_count": 6,
+          "media_count": 514,
+          "tweet_count": 2055
+        },
+        "url": "",
+        "username": "facaibaofu668",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2074509929055170969",
+    "created_at": "2026-07-08T07:08:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:08:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074752489178730816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1965778226627911680",
+          "start": 0,
+          "username": "cidao2310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074752489178730816",
+    "in_reply_to_user_id": "1965778226627911680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074509929055170969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cidao2310 大部分都会自嬷成猫咪兔子吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2074509929055170969",
+        "created_at": "2026-07-08T07:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074752489178730816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965778226627911680",
+              "start": 0,
+              "username": "cidao2310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074752489178730816",
+        "in_reply_to_user_id": "1965778226627911680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074509929055170969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cidao2310 大部分都会自嬷成猫咪兔子吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965778226627911680",
+        "conversation_id": "2074509929055170969",
+        "created_at": "2026-07-07T15:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074509929055170969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074509929055170969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2765,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现男娘都喜欢用“只”这个量词形容自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的😀",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 156,
+          "like_count": 756,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 522
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T14:03:57.000Z",
+        "description": "我是叨叨。一百年后，我们都死了。\n提问箱📪 https://t.co/gK9nreqZ6m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cidao31181",
+                "end": 45,
+                "expanded_url": "https://ngl.link/cidao31181",
+                "start": 22,
+                "url": "https://t.co/gK9nreqZ6m"
+              }
+            ]
+          }
+        },
+        "id": "1965778226627911680",
+        "location": "小舟",
+        "name": "兔子的脚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029816491932364801/lEpnxFAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 208,
+          "like_count": 2128,
+          "listed_count": 0,
+          "media_count": 375,
+          "tweet_count": 3427
+        },
+        "url": "",
+        "username": "cidao2310",
+        "verified": false
+      }
+    ]
+  }
+}

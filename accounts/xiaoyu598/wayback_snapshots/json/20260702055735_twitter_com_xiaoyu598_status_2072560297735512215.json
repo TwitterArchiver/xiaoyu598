@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2072560297735512215",
+    "created_at": "2026-07-02T05:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T06:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072560297735512215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haruuu_ilyluo/…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/haruuu_ilyluo/status/2072558925673865438",
+          "start": 46,
+          "url": "https://t.co/Zu0g0oaGIz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072560297735512215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072558925673865438",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给我笑疯了，你觉得是你们的business然而事实就是无人在意你们，狼人想删就删啦你受着吧 https://t.co/Zu0g0oaGIz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2072560297735512215",
+        "created_at": "2026-07-02T05:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072560297735512215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haruuu_ilyluo/…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/haruuu_ilyluo/status/2072558925673865438",
+              "start": 46,
+              "url": "https://t.co/Zu0g0oaGIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072560297735512215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072558925673865438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给我笑疯了，你觉得是你们的business然而事实就是无人在意你们，狼人想删就删啦你受着吧 https://t.co/Zu0g0oaGIz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1337742281386803202",
+        "conversation_id": "2072558925673865438",
+        "created_at": "2026-07-02T05:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072558925673865438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyu598/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/xiaoyu598/status/2072491574685225036",
+              "start": 30,
+              "url": "https://t.co/dNP9HgsVAD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072558925673865438",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072491574685225036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "always all up on our business https://t.co/dNP9HgsVAD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 143,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-12T12:53:22.000Z",
+        "description": "#周棋洛: “Your existence itself is a miracle to me.” \n\n♡ #MLQC + #恋与深空🌌+ #방탄소년단 ♡SPOILERS!\n♡priv - @rafayelswife",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "周棋洛"
+              },
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "MLQC"
+              },
+              {
+                "end": 67,
+                "start": 62,
+                "tag": "恋与深空"
+              },
+              {
+                "end": 76,
+                "start": 70,
+                "tag": "방탄소년단"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 109,
+                "start": 96,
+                "username": "rafayelswife"
+              }
+            ]
+          }
+        },
+        "id": "1337742281386803202",
+        "location": "in qi yu's fish tank",
+        "name": "Haru⁷",
+        "pinned_tweet_id": "1462012194183278598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069640925312122880/Yo8khaNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2839,
+          "following_count": 269,
+          "like_count": 46580,
+          "listed_count": 7,
+          "media_count": 2820,
+          "tweet_count": 18192
+        },
+        "url": "",
+        "username": "Haruuu_Ilyluo",
+        "verified": false
+      }
+    ]
+  }
+}

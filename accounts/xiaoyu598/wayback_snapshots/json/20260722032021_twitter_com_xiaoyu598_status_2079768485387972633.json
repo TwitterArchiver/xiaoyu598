@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2079768485387972633",
+    "created_at": "2026-07-22T03:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079768485387972633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2040496801401425920",
+          "start": 3,
+          "username": "Xxkg3g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079768485387972633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079647241891971143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xxkg3g: 被我缠上和遇见鬼没有区别 我粘死过人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2079768485387972633",
+        "created_at": "2026-07-22T03:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079768485387972633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2040496801401425920",
+              "start": 3,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079768485387972633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079647241891971143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xxkg3g: 被我缠上和遇见鬼没有区别 我粘死过人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2079647241891971143",
+        "created_at": "2026-07-21T19:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079647241891971143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079647241891971143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1944,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "被我缠上和遇见鬼没有区别 我粘死过人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 62,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 172,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 725
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 第二人格@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079649460766818304/3FUhplj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 346,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1248
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,1238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078733185199083520",
+        "3_2078733290589368321",
+        "3_2078733295974776832"
+      ],
+      "media_source_tweet_id": [
+        "2078733325787939119",
+        "2078733325787939119",
+        "2078733325787939119"
+      ]
+    },
+    "author_id": "1686682563937792000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "IVE",
+          "id": "1532098538275889152",
+          "name": "LIZ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597222604800",
+          "name": "Beauty/Hygiene - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "TONYMOLY (토니모리)",
+          "id": "1052302797956214784",
+          "name": "TONYMOLY (토니모리)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "IVE",
+          "id": "1532098538275889152",
+          "name": "LIZ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "K-Beauty",
+          "id": "1052251027544584193",
+          "name": "K-beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "TONYMOLY (토니모리)",
+          "id": "1052302797956214784",
+          "name": "TONYMOLY (토니모리)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "IVE",
+          "id": "1532098538275889152",
+          "name": "LIZ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "IVE",
+          "id": "1532098538275889152",
+          "name": "LIZ"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "IVE",
+          "id": "1532098538275889152",
+          "name": "LIZ"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1458459580900335616",
+          "name": "IVE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "IVE",
+          "id": "1532098538275889152",
+          "name": "LIZ"
+        }
+      }
+    ],
+    "conversation_id": "2078852333321306551",
+    "created_at": "2026-07-19T14:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078852333321306551"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "리즈"
+        },
+        {
+          "end": 50,
+          "start": 46,
+          "tag": "LIZ"
+        },
+        {
+          "end": 54,
+          "start": 51,
+          "tag": "リズ"
+        },
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "아이브"
+        },
+        {
+          "end": 64,
+          "start": 60,
+          "tag": "IVE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1679443772491563009",
+          "start": 3,
+          "username": "GrapeCheese_Liz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B8buZ38WoO",
+          "end": 88,
+          "expanded_url": "https://x.com/GrapeCheese_Liz/status/2078733325787939119/photo/1",
+          "media_key": "3_2078733185199083520",
+          "start": 65,
+          "url": "https://t.co/B8buZ38WoO"
+        },
+        {
+          "display_url": "pic.x.com/B8buZ38WoO",
+          "end": 88,
+          "expanded_url": "https://x.com/GrapeCheese_Liz/status/2078733325787939119/photo/1",
+          "media_key": "3_2078733290589368321",
+          "start": 65,
+          "url": "https://t.co/B8buZ38WoO"
+        },
+        {
+          "display_url": "pic.x.com/B8buZ38WoO",
+          "end": 88,
+          "expanded_url": "https://x.com/GrapeCheese_Liz/status/2078733325787939119/photo/1",
+          "media_key": "3_2078733295974776832",
+          "start": 65,
+          "url": "https://t.co/B8buZ38WoO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078852333321306551",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 474
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078733325787939119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GrapeCheese_Liz: 260719 TONYMOLY LIZ\n\n#리즈 #LIZ #リズ #아이브 #IVE https://t.co/B8buZ38WoO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3870,
+        "media_key": "3_2078733185199083520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkk0X6bkAATu9i.jpg",
+        "width": 2903
+      },
+      {
+        "height": 3808,
+        "media_key": "3_2078733290589368321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkk6ghbsAEYp9U.jpg",
+        "width": 2539
+      },
+      {
+        "height": 2785,
+        "media_key": "3_2078733295974776832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkk60lagAAOQfY.jpg",
+        "width": 1857
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078733185199083520",
+            "3_2078733290589368321",
+            "3_2078733295974776832"
+          ]
+        },
+        "author_id": "1679443772491563009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222604800",
+              "name": "Beauty/Hygiene - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "TONYMOLY (토니모리)",
+              "id": "1052302797956214784",
+              "name": "TONYMOLY (토니모리)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "K-Beauty",
+              "id": "1052251027544584193",
+              "name": "K-beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TONYMOLY (토니모리)",
+              "id": "1052302797956214784",
+              "name": "TONYMOLY (토니모리)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          }
+        ],
+        "conversation_id": "2078733325787939119",
+        "created_at": "2026-07-19T06:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078733325787939119"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "리즈"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "LIZ"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "リズ"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "아이브"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "IVE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8buZ38WoO",
+              "end": 67,
+              "expanded_url": "https://x.com/GrapeCheese_Liz/status/2078733325787939119/photo/1",
+              "media_key": "3_2078733185199083520",
+              "start": 44,
+              "url": "https://t.co/B8buZ38WoO"
+            },
+            {
+              "display_url": "pic.x.com/B8buZ38WoO",
+              "end": 67,
+              "expanded_url": "https://x.com/GrapeCheese_Liz/status/2078733325787939119/photo/1",
+              "media_key": "3_2078733290589368321",
+              "start": 44,
+              "url": "https://t.co/B8buZ38WoO"
+            },
+            {
+              "display_url": "pic.x.com/B8buZ38WoO",
+              "end": 67,
+              "expanded_url": "https://x.com/GrapeCheese_Liz/status/2078733325787939119/photo/1",
+              "media_key": "3_2078733295974776832",
+              "start": 44,
+              "url": "https://t.co/B8buZ38WoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078733325787939119",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 318,
+          "impression_count": 48515,
+          "like_count": 2681,
+          "quote_count": 52,
+          "reply_count": 0,
+          "retweet_count": 474
+        },
+        "reply_settings": "everyone",
+        "text": "260719 TONYMOLY LIZ\n\n#리즈 #LIZ #リズ #아이브 #IVE https://t.co/B8buZ38WoO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078733185199083520",
+            "3_2078733290589368321",
+            "3_2078733295974776832"
+          ],
+          "media_source_tweet_id": [
+            "2078733325787939119",
+            "2078733325787939119",
+            "2078733325787939119"
+          ]
+        },
+        "author_id": "1686682563937792000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222604800",
+              "name": "Beauty/Hygiene - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "TONYMOLY (토니모리)",
+              "id": "1052302797956214784",
+              "name": "TONYMOLY (토니모리)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "K-Beauty",
+              "id": "1052251027544584193",
+              "name": "K-beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TONYMOLY (토니모리)",
+              "id": "1052302797956214784",
+              "name": "TONYMOLY (토니모리)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1458459580900335616",
+              "name": "IVE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "IVE",
+              "id": "1532098538275889152",
+              "name": "LIZ"
+            }
+          }
+        ],
+        "conversation_id": "2078852333321306551",
+        "created_at": "2026-07-19T14:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078852333321306551"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "리즈"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "LIZ"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "リズ"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "아이브"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "IVE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1679443772491563009",
+              "start": 3,
+              "username": "GrapeCheese_Liz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8buZ38WoO",
+              "end": 88,
+              "expanded_url": "https://x.com/GrapeCheese_Liz/status/2078733325787939119/photo/1",
+              "media_key": "3_2078733185199083520",
+              "start": 65,
+              "url": "https://t.co/B8buZ38WoO"
+            },
+            {
+              "display_url": "pic.x.com/B8buZ38WoO",
+              "end": 88,
+              "expanded_url": "https://x.com/GrapeCheese_Liz/status/2078733325787939119/photo/1",
+              "media_key": "3_2078733290589368321",
+              "start": 65,
+              "url": "https://t.co/B8buZ38WoO"
+            },
+            {
+              "display_url": "pic.x.com/B8buZ38WoO",
+              "end": 88,
+              "expanded_url": "https://x.com/GrapeCheese_Liz/status/2078733325787939119/photo/1",
+              "media_key": "3_2078733295974776832",
+              "start": 65,
+              "url": "https://t.co/B8buZ38WoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078852333321306551",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 474
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078733325787939119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GrapeCheese_Liz: 260719 TONYMOLY LIZ\n\n#리즈 #LIZ #リズ #아이브 #IVE https://t.co/B8buZ38WoO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 62,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 165,
+          "like_count": 985,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 668
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T10:53:14.000Z",
+        "description": "고양이일까 곰돌이일까...수달이니..?\n#리즈 #LIZ #リズ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "리즈"
+              },
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "LIZ"
+              },
+              {
+                "end": 34,
+                "start": 31,
+                "tag": "リズ"
+              }
+            ]
+          }
+        },
+        "id": "1679443772491563009",
+        "location": "지원군 냥캣리",
+        "name": "Lizzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939739028083154947/B8vwKCcm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6405,
+          "following_count": 3,
+          "like_count": 2490,
+          "listed_count": 84,
+          "media_count": 204,
+          "tweet_count": 204
+        },
+        "url": "",
+        "username": "GrapeCheese_Liz",
+        "verified": true
+      }
+    ]
+  }
+}

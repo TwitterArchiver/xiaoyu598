@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2077340184564392008",
+    "created_at": "2026-07-16T03:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077593770108031359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043636692989685760",
+          "start": 0,
+          "username": "Haoxiangsiaaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077593770108031359",
+    "in_reply_to_user_id": "2043636692989685760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077340184564392008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haoxiangsiaaaa v圈一大堆网络太妹，为了p大点事都能大打出手瓜条写起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077340175383089153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQx4h9bUAE3N2y.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077340175454310400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQx4iOaEAAtza9.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2077340184564392008",
+        "created_at": "2026-07-16T03:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077593770108031359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043636692989685760",
+              "start": 0,
+              "username": "Haoxiangsiaaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077593770108031359",
+        "in_reply_to_user_id": "2043636692989685760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077340184564392008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haoxiangsiaaaa v圈一大堆网络太妹，为了p大点事都能大打出手瓜条写起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077340175383089153",
+            "3_2077340175454310400"
+          ]
+        },
+        "author_id": "2043636692989685760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077340184564392008",
+        "created_at": "2026-07-15T10:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077340184564392008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SU86qJSHcd",
+              "end": 113,
+              "expanded_url": "https://x.com/Haoxiangsiaaaa/status/2077340184564392008/photo/1",
+              "media_key": "3_2077340175383089153",
+              "start": 90,
+              "url": "https://t.co/SU86qJSHcd"
+            },
+            {
+              "display_url": "pic.x.com/SU86qJSHcd",
+              "end": 113,
+              "expanded_url": "https://x.com/Haoxiangsiaaaa/status/2077340184564392008/photo/1",
+              "media_key": "3_2077340175454310400",
+              "start": 90,
+              "url": "https://t.co/SU86qJSHcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077340184564392008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16771,
+          "like_count": 88,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "混v圈的真他妈傻逼 认错人了给人家一顿骂一堆人加她骂她 这个作者还休学三年有心理问题还在吃药 最后就只愿意给一百还威胁人家下架视频还要开户她 你这个人真是死全家了卧槽了😹😹纯婊子 https://t.co/SU86qJSHcd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 62,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 161,
+          "like_count": 916,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T10:26:33.000Z",
+        "description": "我有说过我是什么好人吗",
+        "id": "2043636692989685760",
+        "name": "有意思吗",
+        "pinned_tweet_id": "2075101261960245658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062920514692435968/sDU77NlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 27,
+          "like_count": 486,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "Haoxiangsiaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

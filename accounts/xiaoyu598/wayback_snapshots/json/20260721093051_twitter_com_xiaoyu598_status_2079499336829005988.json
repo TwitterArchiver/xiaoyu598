@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2079373654203437365",
+    "created_at": "2026-07-21T09:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079499336829005988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1842887070869807104",
+          "start": 0,
+          "username": "xngse621576"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079499336829005988",
+    "in_reply_to_user_id": "1842887070869807104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079373654203437365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xngse621576 老公冷冷的，原来是死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2079373654203437365",
+        "created_at": "2026-07-21T09:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079499336829005988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1842887070869807104",
+              "start": 0,
+              "username": "xngse621576"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079499336829005988",
+        "in_reply_to_user_id": "1842887070869807104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079373654203437365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xngse621576 老公冷冷的，原来是死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842887070869807104",
+        "conversation_id": "2079373654203437365",
+        "created_at": "2026-07-21T01:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079373654203437365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079373654203437365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1721,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对方变冷会有的迹象:\n1.不再主动找你说话\n2.你心情不好不再哄你\n3.不关心你\n4.肌肉松弛瞳孔散大\n5.乳酸发酵身体呈现酸性\n6.血流停止皮肤产生斑点\n7.眼角膜呈混浊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 62,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 171,
+          "like_count": 1044,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 709
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-06T11:18:20.000Z",
+        "description": "你的固执委屈隐忍瓶子纸壳旧家电我照单全收",
+        "id": "1842887070869807104",
+        "name": "Xngse",
+        "pinned_tweet_id": "2079122720831455458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069446221849391104/YKkOllas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 124,
+          "like_count": 2684,
+          "listed_count": 4,
+          "media_count": 20,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "xngse621576",
+        "verified": false
+      }
+    ]
+  }
+}

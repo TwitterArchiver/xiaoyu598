@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2079171088177852720",
+    "created_at": "2026-07-20T14:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T15:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079207749393817836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025216486760157184",
+          "start": 0,
+          "username": "Cosmo2267651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079207749393817836",
+    "in_reply_to_user_id": "2025216486760157184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079171088177852720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cosmo2267651 看有没有人发现吧，感觉会被呕吐物塞死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2079171088177852720",
+        "created_at": "2026-07-20T14:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079207749393817836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025216486760157184",
+              "start": 0,
+              "username": "Cosmo2267651"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079207749393817836",
+        "in_reply_to_user_id": "2025216486760157184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079171088177852720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cosmo2267651 看有没有人发现吧，感觉会被呕吐物塞死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025216486760157184",
+        "conversation_id": "2079171088177852720",
+        "created_at": "2026-07-20T11:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079171088177852720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079171088177852720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃100t晚安会似吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 62,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 169,
+          "like_count": 1013,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 685
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T14:30:21.000Z",
+        "description": "额💊🔪同类互fo。男的，很友好的，欢迎扩列，https://t.co/ngyfA7Q25G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhhhhh79341",
+                "end": 45,
+                "expanded_url": "https://ngl.link/hhhhhh79341",
+                "start": 22,
+                "url": "https://t.co/ngyfA7Q25G"
+              }
+            ]
+          }
+        },
+        "id": "2025216486760157184",
+        "location": "成都",
+        "name": "renhaoqiguai",
+        "pinned_tweet_id": "2077278367787978891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079167989019201536/0vUgeQ45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 516,
+          "like_count": 2525,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "Cosmo2267651",
+        "verified": false
+      }
+    ]
+  }
+}

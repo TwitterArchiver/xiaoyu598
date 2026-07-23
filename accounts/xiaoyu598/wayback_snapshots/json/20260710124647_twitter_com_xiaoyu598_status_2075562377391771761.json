@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2075562377391771761",
+    "created_at": "2026-07-10T12:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075562377391771761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1280001743162609664",
+          "start": 3,
+          "username": "Poca2381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075562377391771761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075291414456615329",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Poca2381: 我社交精力高时的表现体现为：给人评论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2075562377391771761",
+        "created_at": "2026-07-10T12:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075562377391771761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1280001743162609664",
+              "start": 3,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075562377391771761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075291414456615329",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Poca2381: 我社交精力高时的表现体现为：给人评论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2075291414456615329",
+        "created_at": "2026-07-09T18:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075291414456615329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075291414456615329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 535,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我社交精力高时的表现体现为：给人评论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的😀",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 160,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 586
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22594,
+          "following_count": 9875,
+          "like_count": 153125,
+          "listed_count": 51,
+          "media_count": 5359,
+          "tweet_count": 53538
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

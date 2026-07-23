@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2072628349080584615",
+    "created_at": "2026-07-02T14:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072693304848986511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2704551668",
+          "start": 0,
+          "username": "LaplaceMio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072693304848986511",
+    "in_reply_to_user_id": "2704551668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072628349080584615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaplaceMio 我也是……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2072628349080584615",
+        "created_at": "2026-07-02T14:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072693304848986511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2704551668",
+              "start": 0,
+              "username": "LaplaceMio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072693304848986511",
+        "in_reply_to_user_id": "2704551668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072628349080584615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaplaceMio 我也是……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2704551668",
+        "conversation_id": "2072628349080584615",
+        "created_at": "2026-07-02T10:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072628349080584615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072628349080584615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超级倒霉的一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 145,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-03T17:25:55.000Z",
+        "description": "为什么不先介绍一下你自己呢",
+        "id": "2704551668",
+        "name": "LaplaceMio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025779362046644224/tTI17P-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 322,
+          "like_count": 20988,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 3614
+        },
+        "url": "",
+        "username": "LaplaceMio",
+        "verified": false
+      }
+    ]
+  }
+}

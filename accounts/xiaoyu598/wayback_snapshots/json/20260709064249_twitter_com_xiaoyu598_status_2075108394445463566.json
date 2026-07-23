@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2075108394445463566",
+    "created_at": "2026-07-09T06:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075108394445463566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1738574376457646080",
+          "start": 3,
+          "username": "pofCat2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075108394445463566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074741709297131766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pofCat2: 哦哦虽然我不是你女朋友 但我就不能查你岗吗？你在干嘛 说话。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2075108394445463566",
+        "created_at": "2026-07-09T06:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075108394445463566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1738574376457646080",
+              "start": 3,
+              "username": "pofCat2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075108394445463566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074741709297131766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pofCat2: 哦哦虽然我不是你女朋友 但我就不能查你岗吗？你在干嘛 说话。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738574376457646080",
+        "conversation_id": "2074741709297131766",
+        "created_at": "2026-07-08T06:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074741709297131766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074741709297131766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13394,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦虽然我不是你女朋友 但我就不能查你岗吗？你在干嘛 说话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的😀",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 159,
+          "like_count": 830,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 567
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T14:57:00.000Z",
+        "description": "平静一些幸福一些ovo",
+        "id": "1738574376457646080",
+        "name": "泡芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056425564060434432/gFxd3q7E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3326,
+          "following_count": 30,
+          "like_count": 4813,
+          "listed_count": 7,
+          "media_count": 38,
+          "tweet_count": 985
+        },
+        "url": "",
+        "username": "pofCat2",
+        "verified": true
+      }
+    ]
+  }
+}

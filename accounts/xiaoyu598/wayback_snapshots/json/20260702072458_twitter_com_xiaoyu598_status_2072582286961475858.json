@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2072297157852299459",
+    "created_at": "2026-07-02T07:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T08:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072582286961475858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1215141763716997120",
+          "start": 0,
+          "username": "AntiPar2ival"
+        },
+        {
+          "end": 29,
+          "id": "1872130770",
+          "start": 14,
+          "username": "Canadianguyehh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072582286961475858",
+    "in_reply_to_user_id": "1215141763716997120",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072308799323382265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AntiPar2ival @Canadianguyehh Agree..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2072297157852299459",
+        "created_at": "2026-07-02T07:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072582286961475858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1215141763716997120",
+              "start": 0,
+              "username": "AntiPar2ival"
+            },
+            {
+              "end": 29,
+              "id": "1872130770",
+              "start": 14,
+              "username": "Canadianguyehh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072582286961475858",
+        "in_reply_to_user_id": "1215141763716997120",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072308799323382265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AntiPar2ival @Canadianguyehh Agree..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1215141763716997120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          }
+        ],
+        "conversation_id": "2072297157852299459",
+        "created_at": "2026-07-01T13:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072308799323382265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1872130770",
+              "start": 0,
+              "username": "Canadianguyehh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072308799323382265",
+        "in_reply_to_user_id": "1872130770",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 51004,
+          "like_count": 1392,
+          "quote_count": 2,
+          "reply_count": 42,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072297157852299459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Canadianguyehh Nintendo was the first one to start this. \n\n$80 games and empty game boxes."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 145,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-09T05:22:39.000Z",
+        "description": "Truth-teller | Rebel | Storyteller Politics | Games | Comics | Movies | Wrestling | Pop Culture The system’s rotten. I just call it like it is.",
+        "id": "1215141763716997120",
+        "location": "Austin, TX",
+        "name": "AP on 𝕏",
+        "pinned_tweet_id": "2051748914009669964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870167873076768769/S_eyRBmp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9046,
+          "following_count": 5481,
+          "like_count": 53132,
+          "listed_count": 27,
+          "media_count": 1999,
+          "tweet_count": 100760
+        },
+        "url": "",
+        "username": "AntiPar2ival",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-16T16:04:18.000Z",
+        "description": "Christian, Father of 4, Husband, Youtuber, Professional Tinfoil Hat Wearer\n\nEmail: Canadianguyeh@outlook.com \n\npfp by: @Droilius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 119,
+                "username": "Droilius"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/CanadianG…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/user/CanadianGuyEh777",
+                "start": 0,
+                "url": "https://t.co/49w3H3AIsw"
+              }
+            ]
+          }
+        },
+        "id": "1872130770",
+        "location": "Canada",
+        "name": "Canadian Guy Eh",
+        "pinned_tweet_id": "2072043437268893726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775967090064683008/EbeqUIea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19373,
+          "following_count": 1596,
+          "like_count": 43030,
+          "listed_count": 56,
+          "media_count": 6574,
+          "tweet_count": 36129
+        },
+        "url": "https://t.co/49w3H3AIsw",
+        "username": "Canadianguyehh",
+        "verified": true
+      }
+    ]
+  }
+}

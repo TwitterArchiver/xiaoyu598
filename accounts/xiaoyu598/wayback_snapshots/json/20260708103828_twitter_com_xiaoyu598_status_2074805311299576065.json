@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2074744695251693875",
+    "created_at": "2026-07-08T10:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074805311299576065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "763395299129700352",
+          "start": 0,
+          "username": "mrpanda10086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074805311299576065",
+    "in_reply_to_user_id": "763395299129700352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074788727218651480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrpanda10086 这类糖水里面是不是也加了糖呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2074744695251693875",
+        "created_at": "2026-07-08T10:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074805311299576065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "763395299129700352",
+              "start": 0,
+              "username": "mrpanda10086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074805311299576065",
+        "in_reply_to_user_id": "763395299129700352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074788727218651480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrpanda10086 这类糖水里面是不是也加了糖呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "763395299129700352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2074744695251693875",
+        "created_at": "2026-07-08T09:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074788727218651480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1686682563937792000",
+              "start": 0,
+              "username": "xiaoyu598"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074788727218651480",
+        "in_reply_to_user_id": "1686682563937792000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074744695251693875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyu598 我有发言权！我开始喝红豆薏米水那种的（不是打广告，也很好喝，一点点甜还健康，完美代餐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的😀",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 157,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 538
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-10T15:23:17.000Z",
+        "description": "panda",
+        "id": "763395299129700352",
+        "location": "Hangzhou",
+        "name": "panda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074068862690361344/QF1Cwgw__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 43,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "mrpanda10086",
+        "verified": false
+      }
+    ]
+  }
+}

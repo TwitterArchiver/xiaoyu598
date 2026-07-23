@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2073346146945454362",
+    "created_at": "2026-07-05T13:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073767819620323659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965246583379034117",
+          "start": 0,
+          "username": "hyunjennagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073767819620323659",
+    "in_reply_to_user_id": "1965246583379034117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073346146945454362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyunjennagua 差点以为是锯木头"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26936,
+        "height": 508,
+        "media_key": "13_2073346054553317376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073346054553317376/img/YdzBmOI8vrGrThxW.jpg",
+        "public_metrics": {
+          "view_count": 859
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073346054553317376/vid/avc1/510x270/lvtNT_miynTucD93.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073346054553317376/vid/avc1/680x360/cFnX2Y5_a_l978FA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073346054553317376/vid/avc1/960x508/l-nJjFlLFTLNj3gF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073346054553317376/pl/aoHYsi97J0dwP7SK.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2073346146945454362",
+        "created_at": "2026-07-05T13:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073767819620323659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073767819620323659",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073346146945454362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 差点以为是锯木头"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073346054553317376"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2073346146945454362",
+        "created_at": "2026-07-04T10:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073346146945454362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rjZz2oqzYZ",
+              "end": 23,
+              "expanded_url": "https://x.com/hyunjennagua/status/2073346146945454362/video/1",
+              "media_key": "13_2073346054553317376",
+              "start": 0,
+              "url": "https://t.co/rjZz2oqzYZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073346146945454362",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1692,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rjZz2oqzYZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 149,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 454
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2071859776011833409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 993,
+          "like_count": 6278,
+          "listed_count": 1,
+          "media_count": 328,
+          "tweet_count": 3296
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

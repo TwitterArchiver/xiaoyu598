@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2072731456129171876",
+    "created_at": "2026-07-03T07:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T08:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072947639004627446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1833297075456643073",
+          "start": 0,
+          "username": "MX_XYB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072947639004627446",
+    "in_reply_to_user_id": "1833297075456643073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072731456129171876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MX_XYB 就这么和猫猫狗狗抢吃的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2534,
+        "media_key": "3_2072731439142240256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPSQxjbgAABO1T.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2564,
+        "media_key": "3_2072731446129934336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPSRLlbQAAvjbB.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2072731456129171876",
+        "created_at": "2026-07-03T07:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072947639004627446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1833297075456643073",
+              "start": 0,
+              "username": "MX_XYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072947639004627446",
+        "in_reply_to_user_id": "1833297075456643073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072731456129171876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MX_XYB 就这么和猫猫狗狗抢吃的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072731439142240256",
+            "3_2072731446129934336"
+          ]
+        },
+        "author_id": "1833297075456643073",
+        "conversation_id": "2072731456129171876",
+        "created_at": "2026-07-02T17:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072731456129171876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AEiilSnZBE",
+              "end": 27,
+              "expanded_url": "https://x.com/MX_XYB/status/2072731456129171876/photo/1",
+              "media_key": "3_2072731439142240256",
+              "start": 4,
+              "url": "https://t.co/AEiilSnZBE"
+            },
+            {
+              "display_url": "pic.x.com/AEiilSnZBE",
+              "end": 27,
+              "expanded_url": "https://x.com/MX_XYB/status/2072731456129171876/photo/1",
+              "media_key": "3_2072731446129934336",
+              "start": 4,
+              "url": "https://t.co/AEiilSnZBE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072731456129171876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12518,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哭哭了 https://t.co/AEiilSnZBE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 146,
+          "like_count": 589,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T00:11:52.000Z",
+        "description": "交易/写作/好好生活/提问箱https://t.co/aeyDXG507k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/B1NG84658",
+                "end": 37,
+                "expanded_url": "https://ngl.link/B1NG84658",
+                "start": 14,
+                "url": "https://t.co/aeyDXG507k"
+              }
+            ]
+          }
+        },
+        "id": "1833297075456643073",
+        "name": "广陵路",
+        "pinned_tweet_id": "2066920298998616291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072272226389520384/X9sRmcLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16185,
+          "following_count": 355,
+          "like_count": 6416,
+          "listed_count": 201,
+          "media_count": 1615,
+          "tweet_count": 6264
+        },
+        "url": "",
+        "username": "MX_XYB",
+        "verified": false
+      }
+    ]
+  }
+}

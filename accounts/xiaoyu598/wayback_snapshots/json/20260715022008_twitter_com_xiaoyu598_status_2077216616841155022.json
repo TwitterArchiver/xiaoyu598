@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2076987263691706571",
+    "created_at": "2026-07-15T02:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T03:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077216616841155022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884546510919979008",
+          "start": 0,
+          "username": "iamThuja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077216616841155022",
+    "in_reply_to_user_id": "1884546510919979008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076987263691706571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamThuja 宿主在食用蜜雪后被防御塔扫射"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2076987251414953984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLw5puacAAW_zj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2076987263691706571",
+        "created_at": "2026-07-15T02:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077216616841155022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884546510919979008",
+              "start": 0,
+              "username": "iamThuja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077216616841155022",
+        "in_reply_to_user_id": "1884546510919979008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076987263691706571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamThuja 宿主在食用蜜雪后被防御塔扫射"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076987251414953984"
+          ]
+        },
+        "author_id": "1884546510919979008",
+        "conversation_id": "2076987263691706571",
+        "created_at": "2026-07-14T11:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076987263691706571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rsQvqxca5",
+              "end": 39,
+              "expanded_url": "https://x.com/iamThuja/status/2076987263691706571/photo/1",
+              "media_key": "3_2076987251414953984",
+              "start": 16,
+              "url": "https://t.co/9rsQvqxca5"
+            },
+            {
+              "display_url": "x.com/iamThuja/statu…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/iamThuja/status/2076897183417413742",
+              "start": 40,
+              "url": "https://t.co/es3DfRfYDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076987263691706571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1563,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076897183417413742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宿主在食用蜜雪后夺回身体控制权 https://t.co/9rsQvqxca5 https://t.co/es3DfRfYDd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 62,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 162,
+          "like_count": 906,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 621
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T10:18:10.000Z",
+        "description": "@theRealThuja唯一小号，@notThujaS原老号。默认一切到处瞎鉴证追着叫的嗣爹嗣妈/我线下真不是大老粗，喝高了会泄露隐私⛔️先去问AI查我成分立场再开火好不，各位\\\\欢迎勇士把我搬回墙里，感激不尽（我是直男。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "theRealThuja"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "notThujaS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/Wwc59b2vAo"
+              }
+            ]
+          }
+        },
+        "id": "1884546510919979008",
+        "location": "发射桥鲁鲁工位上",
+        "name": "传奇出生乌鲁鲁（巡飞弹只飞别人浮木）",
+        "pinned_tweet_id": "2076987263691706571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055663647347908608/v3bgVl7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 981,
+          "like_count": 8555,
+          "listed_count": 4,
+          "media_count": 327,
+          "tweet_count": 3815
+        },
+        "url": "https://t.co/Wwc59b2vAo",
+        "username": "iamThuja",
+        "verified": false
+      }
+    ]
+  }
+}

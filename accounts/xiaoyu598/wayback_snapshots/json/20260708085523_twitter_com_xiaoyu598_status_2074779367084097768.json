@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2074762087000363462",
+    "created_at": "2026-07-08T08:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074779367084097768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2704551668",
+          "start": 0,
+          "username": "LaplaceMio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074779367084097768",
+    "in_reply_to_user_id": "2704551668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074762087000363462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaplaceMio 香烟滞销了帮帮我们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2074762087000363462",
+        "created_at": "2026-07-08T08:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074779367084097768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2704551668",
+              "start": 0,
+              "username": "LaplaceMio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074779367084097768",
+        "in_reply_to_user_id": "2704551668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074762087000363462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaplaceMio 香烟滞销了帮帮我们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2704551668",
+        "conversation_id": "2074762087000363462",
+        "created_at": "2026-07-08T07:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074762087000363462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074762087000363462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么感觉这季有好几个抽烟相关的番，是香烟滞销了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的😀",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 157,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 531
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-03T17:25:55.000Z",
+        "description": "为什么不先介绍一下你自己呢",
+        "id": "2704551668",
+        "name": "LaplaceMio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025779362046644224/tTI17P-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 321,
+          "like_count": 21357,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 3663
+        },
+        "url": "",
+        "username": "LaplaceMio",
+        "verified": false
+      }
+    ]
+  }
+}

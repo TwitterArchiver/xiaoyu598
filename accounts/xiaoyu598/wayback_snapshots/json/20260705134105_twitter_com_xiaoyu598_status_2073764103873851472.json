@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2073758039614902299",
+    "created_at": "2026-07-05T13:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073764103873851472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964331185590718464",
+          "start": 0,
+          "username": "breakcoreWTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073764103873851472",
+    "in_reply_to_user_id": "1964331185590718464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073758039614902299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@breakcoreWTF 看起来好好喝，是什么酒呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1120,
+        "media_key": "3_2073758024293044224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd375QaUAAj4-C.jpg",
+        "width": 1992
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2073758024347648000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd375dbgAA7OTo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2073758024318259200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd375WbEAA-8CN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2073758039614902299",
+        "created_at": "2026-07-05T13:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073764103873851472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073764103873851472",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073758039614902299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 看起来好好喝，是什么酒呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073758024293044224",
+            "3_2073758024347648000",
+            "3_2073758024318259200"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073758039614902299",
+        "created_at": "2026-07-05T13:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073758039614902299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MdzQJjVJln",
+              "end": 27,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2073758039614902299/photo/1",
+              "media_key": "3_2073758024293044224",
+              "start": 4,
+              "url": "https://t.co/MdzQJjVJln"
+            },
+            {
+              "display_url": "pic.x.com/MdzQJjVJln",
+              "end": 27,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2073758039614902299/photo/1",
+              "media_key": "3_2073758024347648000",
+              "start": 4,
+              "url": "https://t.co/MdzQJjVJln"
+            },
+            {
+              "display_url": "pic.x.com/MdzQJjVJln",
+              "end": 27,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2073758039614902299/photo/1",
+              "media_key": "3_2073758024318259200",
+              "start": 4,
+              "url": "https://t.co/MdzQJjVJln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073758039614902299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝酒中 https://t.co/MdzQJjVJln"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 149,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071376088018956288/SAB5MTfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 738,
+          "like_count": 22507,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 5399
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

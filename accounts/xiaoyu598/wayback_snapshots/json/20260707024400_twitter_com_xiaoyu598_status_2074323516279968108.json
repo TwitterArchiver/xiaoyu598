@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2074173222472524177",
+    "created_at": "2026-07-07T02:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074323516279968108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2074131584093970433",
+          "start": 0,
+          "username": "fuckingshit0721"
+        },
+        {
+          "end": 29,
+          "id": "2020542952104435712",
+          "start": 17,
+          "username": "1999shiroko"
+        },
+        {
+          "end": 39,
+          "id": "1844296703282925568",
+          "start": 30,
+          "username": "0xJoveXu"
+        },
+        {
+          "end": 48,
+          "id": "780002448526106624",
+          "start": 40,
+          "username": "xcbcQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074323516279968108",
+    "in_reply_to_user_id": "2074131584093970433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074208529175531893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckingshit0721 @1999shiroko @0xJoveXu @xcbcQAQ 我能不能要一个喵🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2074173222472524177",
+        "created_at": "2026-07-07T02:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074323516279968108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2074131584093970433",
+              "start": 0,
+              "username": "fuckingshit0721"
+            },
+            {
+              "end": 29,
+              "id": "2020542952104435712",
+              "start": 17,
+              "username": "1999shiroko"
+            },
+            {
+              "end": 39,
+              "id": "1844296703282925568",
+              "start": 30,
+              "username": "0xJoveXu"
+            },
+            {
+              "end": 48,
+              "id": "780002448526106624",
+              "start": 40,
+              "username": "xcbcQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074323516279968108",
+        "in_reply_to_user_id": "2074131584093970433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074208529175531893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckingshit0721 @1999shiroko @0xJoveXu @xcbcQAQ 我能不能要一个喵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074131584093970433",
+        "conversation_id": "2074173222472524177",
+        "created_at": "2026-07-06T19:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074208529175531893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2069818040896868353",
+              "start": 0,
+              "username": "xydawang11"
+            },
+            {
+              "end": 24,
+              "id": "2020542952104435712",
+              "start": 12,
+              "username": "1999shiroko"
+            },
+            {
+              "end": 34,
+              "id": "1844296703282925568",
+              "start": 25,
+              "username": "0xJoveXu"
+            },
+            {
+              "end": 57,
+              "id": "780002448526106624",
+              "start": 49,
+              "username": "xcbcQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074208529175531893",
+        "in_reply_to_user_id": "2069818040896868353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3772,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074205375851815379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xydawang11 @1999shiroko @0xJoveXu 不可以 因为你的图是盗来的\n@xcbcQAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 155,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 496
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-06T14:02:40.000Z",
+        "description": "万物生发复归根，凡事从此始喵🏳️‍🌈\n茫茫冻土身相随，有心炽如火喵🏳️‍⚧️",
+        "id": "2074131584093970433",
+        "name": "sin🍥",
+        "pinned_tweet_id": "2074208529175531893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074175326490693632/MHVw21ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 0,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "fuckingshit0721",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-08T16:59:27.000Z",
+        "description": "纯良卡莫纳人/基金会司辰/OW特工",
+        "id": "2020542952104435712",
+        "name": "二十八斤鲈鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020543009025314816/sLJy2rJ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 46,
+          "like_count": 677,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "1999shiroko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T08:39:40.000Z",
+        "description": "推创作者\n联系方式：｜WeChat ID：JoveXuG｜https://t.co/FZJIW2uXIU\n社群频道：https://t.co/2O8fCj93XH\n工具推荐｜空投获取｜个人成长｜价值投资",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/JoveXu",
+                "end": 52,
+                "expanded_url": "http://t.me/JoveXu",
+                "start": 29,
+                "url": "https://t.co/FZJIW2uXIU"
+              },
+              {
+                "display_url": "t.me/jovepindao",
+                "end": 81,
+                "expanded_url": "http://t.me/jovepindao",
+                "start": 58,
+                "url": "https://t.co/2O8fCj93XH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/JoveXu",
+                "end": 23,
+                "expanded_url": "http://t.me/JoveXu",
+                "start": 0,
+                "url": "https://t.co/FZJIW2uXIU"
+              }
+            ]
+          }
+        },
+        "id": "1844296703282925568",
+        "location": "不含任何投资建议，DYOR！",
+        "name": "Jove",
+        "pinned_tweet_id": "2074173222472524177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068489799300993024/RBrPI1BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24933,
+          "following_count": 7720,
+          "like_count": 40795,
+          "listed_count": 76,
+          "media_count": 1225,
+          "tweet_count": 37567
+        },
+        "url": "https://t.co/FZJIW2uXIU",
+        "username": "0xJoveXu",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-25T11:14:10.000Z",
+        "description": "男的 176/47 偶尔发点微博不能发的\n是Ph.D\n没有小号 不卖图没有收费要素 盗图死全家捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/hkhlhwh",
+                "end": 23,
+                "expanded_url": "http://weibo.com/hkhlhwh",
+                "start": 0,
+                "url": "https://t.co/pPlGfG26lq"
+              }
+            ]
+          }
+        },
+        "id": "780002448526106624",
+        "location": "United Kingdom",
+        "name": "小翅膀厨",
+        "pinned_tweet_id": "2070726795117121573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650899806506696707/kYaTFXfp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26774,
+          "following_count": 629,
+          "like_count": 2258,
+          "listed_count": 154,
+          "media_count": 135,
+          "tweet_count": 714
+        },
+        "url": "https://t.co/pPlGfG26lq",
+        "username": "xcbcQAQ",
+        "verified": true
+      }
+    ]
+  }
+}

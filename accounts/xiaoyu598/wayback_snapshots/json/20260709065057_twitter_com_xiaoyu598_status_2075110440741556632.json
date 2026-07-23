@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2074823735119597919",
+    "created_at": "2026-07-09T06:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075110440741556632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761423076850589696",
+          "start": 0,
+          "username": "nakamori222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075110440741556632",
+    "in_reply_to_user_id": "1761423076850589696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074823735119597919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nakamori222 就算是串的也傻吊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_2074823732208775168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtBMQnasAA1E2L.jpg",
+        "width": 1272
+      },
+      {
+        "height": 1568,
+        "media_key": "3_2074823732162670592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtBMQcbMAAfz_h.jpg",
+        "width": 1272
+      },
+      {
+        "height": 613,
+        "media_key": "3_2074823731470626817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtBMN3bcAEjiGa.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2074823735119597919",
+        "created_at": "2026-07-09T06:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075110440741556632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761423076850589696",
+              "start": 0,
+              "username": "nakamori222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075110440741556632",
+        "in_reply_to_user_id": "1761423076850589696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074823735119597919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakamori222 就算是串的也傻吊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074823732208775168",
+            "3_2074823732162670592",
+            "3_2074823731470626817"
+          ]
+        },
+        "author_id": "1761423076850589696",
+        "conversation_id": "2074823735119597919",
+        "created_at": "2026-07-08T11:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074823735119597919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PgjWNoPMdA",
+              "end": 44,
+              "expanded_url": "https://x.com/nakamori222/status/2074823735119597919/photo/1",
+              "media_key": "3_2074823732208775168",
+              "start": 21,
+              "url": "https://t.co/PgjWNoPMdA"
+            },
+            {
+              "display_url": "pic.x.com/PgjWNoPMdA",
+              "end": 44,
+              "expanded_url": "https://x.com/nakamori222/status/2074823735119597919/photo/1",
+              "media_key": "3_2074823732162670592",
+              "start": 21,
+              "url": "https://t.co/PgjWNoPMdA"
+            },
+            {
+              "display_url": "pic.x.com/PgjWNoPMdA",
+              "end": 44,
+              "expanded_url": "https://x.com/nakamori222/status/2074823735119597919/photo/1",
+              "media_key": "3_2074823731470626817",
+              "start": 21,
+              "url": "https://t.co/PgjWNoPMdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074823735119597919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 10298,
+          "like_count": 118,
+          "quote_count": 7,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈头都笑掉了，这真的不是串吗？😅😇🤣 https://t.co/PgjWNoPMdA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的😀",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 159,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 568
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T16:09:42.000Z",
+        "description": "不迎合任何人，自留地 @kaze2077",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "kaze2077"
+              }
+            ]
+          }
+        },
+        "id": "1761423076850589696",
+        "location": "宛平南路599号",
+        "name": "Nakamori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064671316356034560/qIOKQVO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4641,
+          "following_count": 154,
+          "like_count": 72928,
+          "listed_count": 21,
+          "media_count": 464,
+          "tweet_count": 12092
+        },
+        "url": "",
+        "username": "nakamori222",
+        "verified": false
+      }
+    ]
+  }
+}

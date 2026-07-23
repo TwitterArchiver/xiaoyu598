@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2074025532539507195",
+    "created_at": "2026-07-06T06:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T07:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074025532539507195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1998751032650969088",
+          "start": 3,
+          "username": "Fox_Sakura233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074025532539507195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073750976394318092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fox_Sakura233: 明年又有一批10后地雷妹入圈，美金刚金刚晚安苯海索苯海拉明，哪一个不毒，什么都没有了，没有一个人去救他们，他没能力改变这狗屎环境\n一片药片如何消灭社会一切不公平与歧视，遗忘几十年的痛苦，不能拯救所有人的公平与正义，到死也不会降临的真理 那样…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2074025532539507195",
+        "created_at": "2026-07-06T06:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074025532539507195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1998751032650969088",
+              "start": 3,
+              "username": "Fox_Sakura233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074025532539507195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073750976394318092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fox_Sakura233: 明年又有一批10后地雷妹入圈，美金刚金刚晚安苯海索苯海拉明，哪一个不毒，什么都没有了，没有一个人去救他们，他没能力改变这狗屎环境\n一片药片如何消灭社会一切不公平与歧视，遗忘几十年的痛苦，不能拯救所有人的公平与正义，到死也不会降临的真理 那样…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998751032650969088",
+        "conversation_id": "2073750976394318092",
+        "created_at": "2026-07-05T12:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073750976394318092"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073750976394318092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3482,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "明年又有一批10后地雷妹入圈，美金刚金刚晚安苯海索苯海拉明，哪一个不毒，什么都没有了，没有一个人去救他们，他没能力改变这狗屎环境\n一片药片如何消灭社会一切不公平与歧视，遗忘几十年的痛苦，不能拯救所有人的公平与正义，到死也不会降临的真理 那样的正义并不属于人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 151,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 466
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T13:46:18.000Z",
+        "description": "02 | ♂ |リスカ| OD | 病み垢 | 去勢済み | くず\n | 希死念慮 | 情緒不安定 |ZH/EN/JP|\n精神活性物質Wiki：https://t.co/XzFTNu4ouS｜本人发布的内容很危险，请合理使用，小心成瘾问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 95,
+                "expanded_url": "https://jile.bid/",
+                "start": 72,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          }
+        },
+        "id": "1998751032650969088",
+        "name": "sakura👾",
+        "pinned_tweet_id": "2069373938770256251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 554,
+          "like_count": 727,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 424
+        },
+        "url": "https://t.co/XzFTNu4ouS",
+        "username": "Fox_Sakura233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2076262987590197674",
+    "created_at": "2026-07-13T09:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T10:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076603650609393833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054099511279296512",
+          "start": 0,
+          "username": "666666666ZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076603650609393833",
+    "in_reply_to_user_id": "2054099511279296512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076559315876692261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@666666666ZT yes and? 拿个性别女就出来骄傲的炫耀闹麻了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1445,
+        "media_key": "3_2076559312714182656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFrsV1bsAAJeJJ.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2076262987590197674",
+        "created_at": "2026-07-13T09:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076603650609393833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054099511279296512",
+              "start": 0,
+              "username": "666666666ZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076603650609393833",
+        "in_reply_to_user_id": "2054099511279296512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076559315876692261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666666666ZT yes and? 拿个性别女就出来骄傲的炫耀闹麻了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076559312714182656"
+          ]
+        },
+        "author_id": "2054099511279296512",
+        "conversation_id": "2076262987590197674",
+        "created_at": "2026-07-13T06:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076559315876692261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1686682563937792000",
+              "start": 0,
+              "username": "xiaoyu598"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3pG8iAMrc",
+              "end": 37,
+              "expanded_url": "https://x.com/666666666ZT/status/2076559315876692261/photo/1",
+              "media_key": "3_2076559312714182656",
+              "start": 14,
+              "url": "https://t.co/U3pG8iAMrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076559315876692261",
+        "in_reply_to_user_id": "1686682563937792000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076480462265196653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyu598 叫啥 https://t.co/U3pG8iAMrc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏但全世界的人我都会黑遍的😀",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 160,
+          "like_count": 882,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 605
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤，没有飞机账号，请注意！只和同类互关，闲鱼名称：许安清姐姐",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076557615912636478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 282,
+          "like_count": 29,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 456
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": true
+      }
+    ]
+  }
+}
