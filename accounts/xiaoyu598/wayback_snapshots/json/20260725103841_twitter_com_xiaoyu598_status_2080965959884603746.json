@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2080887839819247772",
+    "created_at": "2026-07-25T10:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080965959884603746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701574041507934208",
+          "start": 0,
+          "username": "shji1080972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080965959884603746",
+    "in_reply_to_user_id": "1701574041507934208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080887839819247772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shji1080972 沙沙说得对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2080887839819247772",
+        "created_at": "2026-07-25T10:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080965959884603746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701574041507934208",
+              "start": 0,
+              "username": "shji1080972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080965959884603746",
+        "in_reply_to_user_id": "1701574041507934208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080887839819247772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shji1080972 沙沙说得对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701574041507934208",
+        "conversation_id": "2080887839819247772",
+        "created_at": "2026-07-25T05:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080887839819247772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080887839819247772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味，你是杀人还是抢劫了得被隔离"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语，耍起哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 228,
+          "like_count": 1315,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 824
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-12T12:30:50.000Z",
+        "description": "",
+        "id": "1701574041507934208",
+        "name": "世界",
+        "pinned_tweet_id": "2024489611322675684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080799574189572096/r8IkyT9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 6,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 925
+        },
+        "url": "",
+        "username": "shji1080972",
+        "verified": false
+      }
+    ]
+  }
+}

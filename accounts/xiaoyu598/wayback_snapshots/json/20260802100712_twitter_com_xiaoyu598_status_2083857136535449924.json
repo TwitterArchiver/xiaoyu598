@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2083857136535449924",
+    "created_at": "2026-08-02T10:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083857136535449924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/victor_zhang23…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/victor_zhang233/status/2083611309216575693",
+          "start": 142,
+          "url": "https://t.co/LLepmpIV1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083857136535449924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083611309216575693",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们这个是什么群?你们这是害人不浅，你们搞这个群干什么?谁是群主?快点出来，你那个群主。再这样我就报警了啊，我跟你们说，你们这一帮人，一天到晚，搞这些什么游戏呀，动漫呐，会害死你们的，你们没有前途，我跟你说，你们这400多个人。好好学习不好吗?一天到晚这样上网有什么意思?是不是人? https://t.co/LLepmpIV1c"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2083857136535449924",
+        "created_at": "2026-08-02T10:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083857136535449924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/victor_zhang23…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/victor_zhang233/status/2083611309216575693",
+              "start": 142,
+              "url": "https://t.co/LLepmpIV1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083857136535449924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083611309216575693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们这个是什么群?你们这是害人不浅，你们搞这个群干什么?谁是群主?快点出来，你那个群主。再这样我就报警了啊，我跟你们说，你们这一帮人，一天到晚，搞这些什么游戏呀，动漫呐，会害死你们的，你们没有前途，我跟你说，你们这400多个人。好好学习不好吗?一天到晚这样上网有什么意思?是不是人? https://t.co/LLepmpIV1c"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2083611309216575693",
+        "created_at": "2026-08-01T17:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083611309216575693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083611309216575693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1928,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "你们这个是什么群?你们这是害人不浅，你们搞这个群干什么?谁是群主?快点出来，你那个群主。再这样我就报警了啊，我跟你们说，你们这一帮人，一天到晚，搞这些什么游戏呀，动漫呐，会害死你们的，你们没有前途，我跟你说，你们这400多个人。好好学习不好吗?一天到晚这样上网有什么意思?是不是人?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 236,
+          "like_count": 1522,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 894
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子\n我喜欢这个人➡️ @fooogfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "fooogfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 494,
+          "like_count": 11251,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 2559
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

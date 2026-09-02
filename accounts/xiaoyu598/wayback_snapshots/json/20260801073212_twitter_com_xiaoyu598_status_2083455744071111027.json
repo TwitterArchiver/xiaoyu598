@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2083455744071111027",
+    "created_at": "2026-08-01T07:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083455744071111027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fubuki_027/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/fubuki_027/status/2083403303325724761",
+          "start": 21,
+          "url": "https://t.co/OUQvmAOAYY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083455744071111027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083403303325724761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咱对对象依赖度好高，没有他就活不下去了🥹 https://t.co/OUQvmAOAYY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2083455744071111027",
+        "created_at": "2026-08-01T07:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083455744071111027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fubuki_027/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/fubuki_027/status/2083403303325724761",
+              "start": 21,
+              "url": "https://t.co/OUQvmAOAYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083455744071111027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083403303325724761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱对对象依赖度好高，没有他就活不下去了🥹 https://t.co/OUQvmAOAYY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472419244126388226",
+        "conversation_id": "2083403303325724761",
+        "created_at": "2026-08-01T04:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083403303325724761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2083400058461208586",
+              "start": 21,
+              "url": "https://t.co/zn8Z4sq59L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083403303325724761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083400058461208586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱对对象依赖度好高，没有她就活不下去了🥹 https://t.co/zn8Z4sq59L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语，耍起哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 240,
+          "like_count": 1495,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 874
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-19T04:11:30.000Z",
+        "description": "🏳️‍⚧️我喜欢你🏳️‍⚧️ | INFP | MtX | 无证含糖 | 已炸柜家暴党 | 想割手爱od | 重生日2026.5.8 | 小号 @Rinfen_027 | 随缘回fo请多指教🥺 | 永远的爱人@HyacinthWithYou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Rinfen_027"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "HyacinthWithYou"
+              }
+            ]
+          }
+        },
+        "id": "1472419244126388226",
+        "name": "Rinfen27.🍥",
+        "pinned_tweet_id": "2079027688413806821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066320077000228864/GiHJ7Exj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 1588,
+          "like_count": 5006,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 2797
+        },
+        "url": "",
+        "username": "Fubuki_027",
+        "verified": false
+      }
+    ]
+  }
+}

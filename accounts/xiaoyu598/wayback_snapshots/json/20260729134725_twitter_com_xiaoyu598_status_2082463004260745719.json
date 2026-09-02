@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2082463004260745719",
+    "created_at": "2026-07-29T13:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082463004260745719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558346182316896256",
+          "start": 3,
+          "username": "hoxer15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082463004260745719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 306
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081796441966874854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoxer15: 自从那个什么小心震荡一出来我就觉得很难听很恶心。居然还有人拍手势舞。给我难受哭了都生理性恶心了。听到就头晕犯恶心。中国已经不是美育不美育的事了。现在大家也是完全疯了开始在粪坑里起舞了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2082463004260745719",
+        "created_at": "2026-07-29T13:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082463004260745719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558346182316896256",
+              "start": 3,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082463004260745719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 306
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081796441966874854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoxer15: 自从那个什么小心震荡一出来我就觉得很难听很恶心。居然还有人拍手势舞。给我难受哭了都生理性恶心了。听到就头晕犯恶心。中国已经不是美育不美育的事了。现在大家也是完全疯了开始在粪坑里起舞了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558346182316896256",
+        "conversation_id": "2081796441966874854",
+        "created_at": "2026-07-27T17:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081796441966874854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081796441966874854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 619862,
+          "like_count": 8759,
+          "quote_count": 41,
+          "reply_count": 859,
+          "retweet_count": 306
+        },
+        "reply_settings": "everyone",
+        "text": "自从那个什么小心震荡一出来我就觉得很难听很恶心。居然还有人拍手势舞。给我难受哭了都生理性恶心了。听到就头晕犯恶心。中国已经不是美育不美育的事了。现在大家也是完全疯了开始在粪坑里起舞了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语，耍起哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 238,
+          "like_count": 1417,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 852
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "我叫小物/07/4i /ENTP/摩羯/没门/不交友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link",
+                "end": 23,
+                "expanded_url": "https://ngl.link/",
+                "start": 0,
+                "url": "https://t.co/K4hFwJcLab"
+              }
+            ]
+          }
+        },
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2079133729247895669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067447429633585153/2Ju5yaaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 208,
+          "like_count": 26999,
+          "listed_count": 0,
+          "media_count": 690,
+          "tweet_count": 14738
+        },
+        "url": "https://t.co/K4hFwJcLab",
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}

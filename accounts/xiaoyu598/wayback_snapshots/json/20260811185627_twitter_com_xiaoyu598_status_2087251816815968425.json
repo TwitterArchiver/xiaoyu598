@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2086829595354173634",
+    "created_at": "2026-08-11T18:56:27.000Z",
+    "display_text_range": [
+      28,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T19:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087251816815968425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1879799070254096386",
+          "start": 0,
+          "username": "SherryJxpbp"
+        },
+        {
+          "end": 27,
+          "id": "1490675894238986251",
+          "start": 13,
+          "username": "SayoriCat8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087251816815968425",
+    "in_reply_to_user_id": "1879799070254096386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086829595354173634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SherryJxpbp @SayoriCat8964 我小时候也想过，我服了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2086829595354173634",
+        "created_at": "2026-08-11T18:56:27.000Z",
+        "display_text_range": [
+          28,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T19:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087251816815968425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1879799070254096386",
+              "start": 0,
+              "username": "SherryJxpbp"
+            },
+            {
+              "end": 27,
+              "id": "1490675894238986251",
+              "start": 13,
+              "username": "SayoriCat8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087251816815968425",
+        "in_reply_to_user_id": "1879799070254096386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086829595354173634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SherryJxpbp @SayoriCat8964 我小时候也想过，我服了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879799070254096386",
+        "conversation_id": "2086829595354173634",
+        "created_at": "2026-08-10T14:58:41.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086829595354173634"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086829595354173634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 44660,
+          "like_count": 902,
+          "quote_count": 18,
+          "reply_count": 227,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "呃其实我小时候喜欢幻想我喜欢的人全家都死了，然后我们家把他收养了，让他和我住在一起。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087251816815968425",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 234,
+          "like_count": 1631,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 935
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-16T07:53:30.000Z",
+        "description": "变身！小猫惡魔：☆…//★ 06 enfp 金牛 此号发的东西有点乱七八糟请见谅…互关可➕v \n防丢失小号：@Sherrysh2d \n定期回复信箱——匿名信箱📬：https://t.co/09pzHIo5EO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Sherrysh2d"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sherryl25621",
+                "end": 104,
+                "expanded_url": "https://ngl.link/sherryl25621",
+                "start": 81,
+                "url": "https://t.co/09pzHIo5EO"
+              }
+            ]
+          }
+        },
+        "id": "1879799070254096386",
+        "is_identity_verified": false,
+        "location": "🚪纯绿88 🚪半绿188",
+        "most_recent_tweet_id": "2087195618674610598",
+        "name": "Sherry-J",
+        "pinned_tweet_id": "2064687600393466065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1879799070254096386/1737031936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074071258590011392/mgyQIZMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7874,
+          "following_count": 351,
+          "like_count": 6786,
+          "listed_count": 22,
+          "media_count": 363,
+          "tweet_count": 4375
+        },
+        "url": "",
+        "username": "SherryJxpbp",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "enby/🌹/双極性障害/BPD/💗@Usam8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "Usam8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sayoricat8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sayoricat8964",
+                "start": 0,
+                "url": "https://t.co/sYom873U47"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "is_identity_verified": false,
+        "location": "小马里亚 马哈顿",
+        "most_recent_tweet_id": "2087210561742491921",
+        "name": "善良纱世理✨",
+        "pinned_tweet_id": "2079755765771026899",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490675894238986251/1786276714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010690434545356800/p494Qex-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3287,
+          "following_count": 1313,
+          "like_count": 152629,
+          "listed_count": 13,
+          "media_count": 1756,
+          "tweet_count": 23223
+        },
+        "url": "https://t.co/sYom873U47",
+        "username": "SayoriCat8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

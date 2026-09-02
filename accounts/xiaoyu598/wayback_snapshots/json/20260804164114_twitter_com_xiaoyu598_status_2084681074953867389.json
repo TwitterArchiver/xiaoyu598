@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2084681074953867389",
+    "created_at": "2026-08-04T16:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084681074953867389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943697421948903424",
+          "start": 3,
+          "username": "xioyouyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084681074953867389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 113
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084156393003831738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xioyouyu: 推特和小遗书都在给我制造焦虑，我以后只看红果短剧了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2084681074953867389",
+        "created_at": "2026-08-04T16:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084681074953867389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943697421948903424",
+              "start": 3,
+              "username": "xioyouyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084681074953867389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084156393003831738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xioyouyu: 推特和小遗书都在给我制造焦虑，我以后只看红果短剧了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943697421948903424",
+        "conversation_id": "2084156393003831738",
+        "created_at": "2026-08-03T05:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084156393003831738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084156393003831738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 93449,
+          "like_count": 2147,
+          "quote_count": 20,
+          "reply_count": 222,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "推特和小遗书都在给我制造焦虑，我以后只看红果短剧了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 238,
+          "like_count": 1577,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 913
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-11T15:42:58.000Z",
+        "description": "我只是一个脆弱的小女孩…",
+        "id": "1943697421948903424",
+        "name": "^-^",
+        "pinned_tweet_id": "2084542519627657456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078117540358955008/woGi4upN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2680,
+          "following_count": 28,
+          "like_count": 656,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "xioyouyu",
+        "verified": false
+      }
+    ]
+  }
+}

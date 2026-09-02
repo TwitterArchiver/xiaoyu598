@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2084676564135051713",
+    "created_at": "2026-08-04T16:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084676564135051713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2059212406451240960",
+          "start": 3,
+          "username": "Cxq6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084676564135051713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084552463160611291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cxq6666: 推现在言论自由的程度还不如QQ空间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2084676564135051713",
+        "created_at": "2026-08-04T16:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084676564135051713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2059212406451240960",
+              "start": 3,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084676564135051713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084552463160611291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cxq6666: 推现在言论自由的程度还不如QQ空间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2084552463160611291",
+        "created_at": "2026-08-04T08:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084552463160611291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084552463160611291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7359,
+          "like_count": 208,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "推现在言论自由的程度还不如QQ空间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 237,
+          "like_count": 1567,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 911
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 190,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 715
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}

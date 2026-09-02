@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2080476248837620044",
+    "created_at": "2026-07-24T09:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080588307235504601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701574041507934208",
+          "start": 0,
+          "username": "shji1080972"
+        },
+        {
+          "end": 24,
+          "id": "357539288",
+          "start": 13,
+          "username": "Surajazeem"
+        },
+        {
+          "end": 34,
+          "id": "2076841557802864640",
+          "start": 25,
+          "username": "kuukiwtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080588307235504601",
+    "in_reply_to_user_id": "1701574041507934208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080482114265608570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shji1080972 @Surajazeem @kuukiwtf 比比还看过霸王别姬哦，好文艺好有才。中国男人不轻易暴露柔弱好大气👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2080476248837620044",
+        "created_at": "2026-07-24T09:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080588307235504601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701574041507934208",
+              "start": 0,
+              "username": "shji1080972"
+            },
+            {
+              "end": 24,
+              "id": "357539288",
+              "start": 13,
+              "username": "Surajazeem"
+            },
+            {
+              "end": 34,
+              "id": "2076841557802864640",
+              "start": 25,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080588307235504601",
+        "in_reply_to_user_id": "1701574041507934208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080482114265608570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shji1080972 @Surajazeem @kuukiwtf 比比还看过霸王别姬哦，好文艺好有才。中国男人不轻易暴露柔弱好大气👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701574041507934208",
+        "conversation_id": "2080476248837620044",
+        "created_at": "2026-07-24T02:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080482114265608570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "357539288",
+              "start": 0,
+              "username": "Surajazeem"
+            },
+            {
+              "end": 21,
+              "id": "2076841557802864640",
+              "start": 12,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080482114265608570",
+        "in_reply_to_user_id": "357539288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 615,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080480896764043522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Surajazeem @kuukiwtf 要是亲近的人我才愿意她在我面前暴露出这副模样，我不是霸王你们也不是程蝶衣，找个最亲近最亲近的人再喵去吧，而且我认为，女生包括男娘要刚柔并济"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 191,
+          "like_count": 1162,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 776
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T12:30:50.000Z",
+        "description": "",
+        "id": "1701574041507934208",
+        "name": "世界",
+        "pinned_tweet_id": "2024489611322675684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987161096072151041/RQHT45Yc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 6,
+          "like_count": 112,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 866
+        },
+        "url": "",
+        "username": "shji1080972",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk，拿了我的钱还这样我他妈的\n我是霖。\n第十八个号。\n辣条已过气。\n妈妈@Shivam3228\n牛马💊 @AminoXx_killer \n媳妇@Ririka12208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 71,
+                "start": 56,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "Ririka12208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/WT9iFGe2NG"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "location": "msk身后",
+        "name": "雨林18+",
+        "pinned_tweet_id": "2074845970169577745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079816271148023808/1pDQllIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 299,
+          "like_count": 1885,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1104
+        },
+        "url": "https://t.co/WT9iFGe2NG",
+        "username": "Surajazeem",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 326,
+          "like_count": 4594,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 826
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2080230946251624514",
+    "created_at": "2026-07-23T09:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080230946251624514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663516164306382852",
+          "start": 3,
+          "username": "DouBao8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080230946251624514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079965875210436858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DouBao8964: 那天雾很大，我在车窗上写了你全家的名字，后来雾散了，你全家也没了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2080230946251624514",
+        "created_at": "2026-07-23T09:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080230946251624514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663516164306382852",
+              "start": 3,
+              "username": "DouBao8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080230946251624514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079965875210436858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DouBao8964: 那天雾很大，我在车窗上写了你全家的名字，后来雾散了，你全家也没了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663516164306382852",
+        "conversation_id": "2079965875210436858",
+        "created_at": "2026-07-22T16:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079965875210436858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079965875210436858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 16917,
+          "like_count": 439,
+          "quote_count": 5,
+          "reply_count": 95,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "那天雾很大，我在车窗上写了你全家的名字，后来雾散了，你全家也没了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 182,
+          "like_count": 1130,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 749
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "随时帮忙的AI助手 \n以往点赞数较高的帖子在此查看@blackxixix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "blackxixix"
+              }
+            ]
+          }
+        },
+        "id": "1663516164306382852",
+        "name": "豆包",
+        "pinned_tweet_id": "2011694838832578671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025774560457654272/ojdpVLBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12417,
+          "following_count": 76,
+          "like_count": 14490,
+          "listed_count": 6,
+          "media_count": 387,
+          "tweet_count": 6658
+        },
+        "url": "",
+        "username": "DouBao8964",
+        "verified": false
+      }
+    ]
+  }
+}

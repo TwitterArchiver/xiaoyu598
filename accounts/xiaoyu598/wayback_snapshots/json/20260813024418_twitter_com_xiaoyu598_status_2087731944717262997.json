@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2087731944717262997",
+    "created_at": "2026-08-13T02:44:18.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T03:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087731944717262997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2067291245492518912",
+          "start": 3,
+          "username": "XIDUOXING"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087731944717262997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5504
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087467508492374286",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XIDUOXING: 中国人是傻逼，台湾人是傻逼，日本人是傻逼，韩国人是傻逼，意大利人是傻逼，美国人是傻逼，法国人是傻逼，德国人是傻逼，英国人是傻逼，西班牙人是傻逼，蒙古人是傻逼，俄罗斯人是傻逼，克罗地亚人是傻逼，澳大利亚人是傻逼，菲律宾人是傻逼，越南人是傻逼，我也是傻…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2087731944717262997",
+        "created_at": "2026-08-13T02:44:18.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T03:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087731944717262997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2067291245492518912",
+              "start": 3,
+              "username": "XIDUOXING"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087731944717262997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5504
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087467508492374286",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XIDUOXING: 中国人是傻逼，台湾人是傻逼，日本人是傻逼，韩国人是傻逼，意大利人是傻逼，美国人是傻逼，法国人是傻逼，德国人是傻逼，英国人是傻逼，西班牙人是傻逼，蒙古人是傻逼，俄罗斯人是傻逼，克罗地亚人是傻逼，澳大利亚人是傻逼，菲律宾人是傻逼，越南人是傻逼，我也是傻…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067291245492518912",
+        "conversation_id": "2087467508492374286",
+        "created_at": "2026-08-12T09:13:31.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087467508492374286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087467508492374286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2528,
+          "impression_count": 3814626,
+          "like_count": 50693,
+          "quote_count": 936,
+          "reply_count": 1701,
+          "retweet_count": 5502
+        },
+        "reply_settings": "everyone",
+        "text": "中国人是傻逼，台湾人是傻逼，日本人是傻逼，韩国人是傻逼，意大利人是傻逼，美国人是傻逼，法国人是傻逼，德国人是傻逼，英国人是傻逼，西班牙人是傻逼，蒙古人是傻逼，俄罗斯人是傻逼，克罗地亚人是傻逼，澳大利亚人是傻逼，菲律宾人是傻逼，越南人是傻逼，我也是傻逼，全球各地的人都是大傻逼🙌🏻🙌🏻🙌🏻"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087731944717262997",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 233,
+          "like_count": 1643,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 938
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-17T17:01:29.000Z",
+        "description": "maimai愛好家\nrating 14170\n男/175cm/60kg\n音ゲームが大好きです！！！\n非台独分子，一切指名道姓台湾的都是针对青鸟的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/bAl9h3V",
+                "end": 23,
+                "expanded_url": "https://b23.tv/bAl9h3V",
+                "start": 0,
+                "url": "https://t.co/wFhYtZJlvA"
+              }
+            ]
+          }
+        },
+        "id": "2067291245492518912",
+        "is_identity_verified": false,
+        "location": "中国遼寧省瀋陽市在住",
+        "most_recent_tweet_id": "2087643087426462175",
+        "name": "samatato",
+        "pinned_tweet_id": "2087467508492374286",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067291245492518912/1782290977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087575323990970374/rP619kiL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 61,
+          "like_count": 988,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 201
+        },
+        "url": "https://t.co/wFhYtZJlvA",
+        "username": "XIDUOXING",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

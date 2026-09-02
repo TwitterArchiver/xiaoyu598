@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083841415361236992"
+      ]
+    },
+    "author_id": "1686682563937792000",
+    "conversation_id": "2083841424462868620",
+    "created_at": "2026-08-02T09:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T10:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083841424462868620"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g14PdIhXD3",
+          "end": 32,
+          "expanded_url": "https://x.com/xiaoyu598/status/2083841424462868620/photo/1",
+          "media_key": "3_2083841415361236992",
+          "start": 9,
+          "url": "https://t.co/g14PdIhXD3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083841424462868620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推特，一个小乐乐 https://t.co/g14PdIhXD3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 285,
+        "media_key": "3_2083841415361236992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtKugLakAALMXh.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083841415361236992"
+          ]
+        },
+        "author_id": "1686682563937792000",
+        "conversation_id": "2083841424462868620",
+        "created_at": "2026-08-02T09:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083841424462868620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g14PdIhXD3",
+              "end": 32,
+              "expanded_url": "https://x.com/xiaoyu598/status/2083841424462868620/photo/1",
+              "media_key": "3_2083841415361236992",
+              "start": 9,
+              "url": "https://t.co/g14PdIhXD3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083841424462868620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特，一个小乐乐 https://t.co/g14PdIhXD3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 235,
+          "like_count": 1521,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 891
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      }
+    ]
+  }
+}

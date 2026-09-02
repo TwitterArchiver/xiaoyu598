@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2083750722617868313",
+    "created_at": "2026-08-02T15:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083942252980871396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1694822083375865856",
+          "start": 0,
+          "username": "shengxiu760722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083942252980871396",
+    "in_reply_to_user_id": "1694822083375865856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083750722617868313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shengxiu760722 就这样在推特上偶遇画过我哦擦的老师（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1807,
+        "media_key": "3_2083750719598084096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOr4PUIbwAA67jW.jpg",
+        "width": 1291
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2083750722617868313",
+        "created_at": "2026-08-02T15:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083942252980871396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1694822083375865856",
+              "start": 0,
+              "username": "shengxiu760722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083942252980871396",
+        "in_reply_to_user_id": "1694822083375865856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083750722617868313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shengxiu760722 就这样在推特上偶遇画过我哦擦的老师（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083750719598084096"
+          ]
+        },
+        "author_id": "1694822083375865856",
+        "conversation_id": "2083750722617868313",
+        "created_at": "2026-08-02T03:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083750722617868313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2eJoOGAa4W",
+              "end": 28,
+              "expanded_url": "https://x.com/shengxiu760722/status/2083750722617868313/photo/1",
+              "media_key": "3_2083750719598084096",
+              "start": 5,
+              "url": "https://t.co/2eJoOGAa4W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083750722617868313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 9876,
+          "like_count": 1049,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "发发自设 https://t.co/2eJoOGAa4W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 239,
+          "like_count": 1541,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 901
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-24T21:20:56.000Z",
+        "description": "= oc/同人/絵画/AI🚫\n禁止转载",
+        "id": "1694822083375865856",
+        "name": "フメ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784283115537502208/XkOYbkNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25855,
+          "following_count": 265,
+          "like_count": 900,
+          "listed_count": 99,
+          "media_count": 98,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "shengxiu760722",
+        "verified": false
+      }
+    ]
+  }
+}

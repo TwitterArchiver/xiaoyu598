@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2080649058646155352",
+    "created_at": "2026-07-24T13:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080650148720554216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2010357366466990080",
+          "start": 0,
+          "username": "shennaichuan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080650148720554216",
+    "in_reply_to_user_id": "2010357366466990080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080649058646155352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennaichuan_ 好想偷井盖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 606,
+        "media_key": "3_2080649047556444160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_zSPXbUAA4v2V.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2080649058646155352",
+        "created_at": "2026-07-24T13:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080650148720554216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080650148720554216",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080649058646155352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 好想偷井盖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080649047556444160"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2080649058646155352",
+        "created_at": "2026-07-24T13:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080649058646155352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7gZWCKwCyh",
+              "end": 23,
+              "expanded_url": "https://x.com/shennaichuan_/status/2080649058646155352/photo/1",
+              "media_key": "3_2080649047556444160",
+              "start": 0,
+              "url": "https://t.co/7gZWCKwCyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080649058646155352",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7gZWCKwCyh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语，耍起哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 196,
+          "like_count": 1191,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 794
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4914,
+          "following_count": 634,
+          "like_count": 880,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 3446
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      }
+    ]
+  }
+}

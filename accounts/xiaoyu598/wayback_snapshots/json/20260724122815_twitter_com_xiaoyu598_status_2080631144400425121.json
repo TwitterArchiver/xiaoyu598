@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2080631144400425121",
+    "created_at": "2026-07-24T12:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080631144400425121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuukiwtf/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/kuukiwtf/status/2080479385765970238",
+          "start": 18,
+          "url": "https://t.co/Pj3opGHm4M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080631144400425121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080479385765970238",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你們那種有很多fo的帳戶怎樣註冊的 https://t.co/Pj3opGHm4M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2080631144400425121",
+        "created_at": "2026-07-24T12:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080631144400425121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuukiwtf/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/kuukiwtf/status/2080479385765970238",
+              "start": 18,
+              "url": "https://t.co/Pj3opGHm4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080631144400425121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080479385765970238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你們那種有很多fo的帳戶怎樣註冊的 https://t.co/Pj3opGHm4M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2080479385765970238",
+        "created_at": "2026-07-24T02:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:25:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080479350902931593",
+          "2080479385765970238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NEO_NA45/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/NEO_NA45/status/2080457677646504205",
+              "start": 18,
+              "url": "https://t.co/M4VJAI0tWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080479385765970238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 502,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080457677646504205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你們那種有很多fo的帳戶怎樣註冊的 https://t.co/M4VJAI0tWo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语，耍起哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 194,
+          "like_count": 1173,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 784
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 331,
+          "like_count": 4674,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 834
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

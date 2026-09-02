@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2080326191572226357",
+    "created_at": "2026-07-24T13:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080639190065406114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1775096487913164800",
+          "start": 0,
+          "username": "xiaoaoyangg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080639190065406114",
+    "in_reply_to_user_id": "1775096487913164800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080326191572226357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoaoyangg 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2080326191572226357",
+        "created_at": "2026-07-24T13:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080639190065406114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775096487913164800",
+              "start": 0,
+              "username": "xiaoaoyangg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080639190065406114",
+        "in_reply_to_user_id": "1775096487913164800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080326191572226357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoaoyangg 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775096487913164800",
+        "conversation_id": "2080326191572226357",
+        "created_at": "2026-07-23T16:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080326191572226357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080326191572226357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 564,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我总感觉我跟朋友是有点距离\n明明认识了很久 平时也一直说话\n但最近就是感觉突然好像不太认识她了\n就跟陌生人一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语，耍起哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 194,
+          "like_count": 1185,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 792
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-02T09:42:46.000Z",
+        "description": "10s 🇭🇰\n碎碎念｜看成分/互动回fol",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xixiaoyangg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xixiaoyangg",
+                "start": 0,
+                "url": "https://t.co/Nh0VE2GDil"
+              }
+            ]
+          }
+        },
+        "id": "1775096487913164800",
+        "name": "小羊🐑",
+        "pinned_tweet_id": "2071685558406205553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071684356339544064/6pvu-epv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 41,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/Nh0VE2GDil",
+        "username": "xiaoaoyangg",
+        "verified": false
+      }
+    ]
+  }
+}

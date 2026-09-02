@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2080648117863825642",
+    "created_at": "2026-07-25T04:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080873654246896035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1729436345913995265",
+          "start": 0,
+          "username": "p1NRed1_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080873654246896035",
+    "in_reply_to_user_id": "1729436345913995265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080648117863825642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@p1NRed1_A 摸摸你（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2080648117863825642",
+        "created_at": "2026-07-25T04:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080873654246896035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080873654246896035",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080648117863825642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 摸摸你（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2080648117863825642",
+        "created_at": "2026-07-24T13:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080648117863825642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080648117863825642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 416,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "焦虑的要疯掉了我真的要疯掉了我要疯掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语，耍起哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 214,
+          "like_count": 1269,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 811
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 587,
+          "like_count": 1800,
+          "listed_count": 3,
+          "media_count": 440,
+          "tweet_count": 7120
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

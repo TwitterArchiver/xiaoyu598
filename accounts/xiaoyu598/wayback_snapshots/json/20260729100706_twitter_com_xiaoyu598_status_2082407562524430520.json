@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2082407562524430520",
+    "created_at": "2026-07-29T10:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082407562524430520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/colesperson/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/colesperson/status/2081838476933349806",
+          "start": 14,
+          "url": "https://t.co/II8n5uzkOl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082407562524430520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081838476933349806",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冷静下来想想劳荣枝会怎么做 https://t.co/II8n5uzkOl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2082407562524430520",
+        "created_at": "2026-07-29T10:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082407562524430520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/colesperson/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/colesperson/status/2081838476933349806",
+              "start": 14,
+              "url": "https://t.co/II8n5uzkOl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082407562524430520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081838476933349806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冷静下来想想劳荣枝会怎么做 https://t.co/II8n5uzkOl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590939682568736769",
+        "conversation_id": "2081838476933349806",
+        "created_at": "2026-07-27T20:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081838476933349806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081838476933349806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 139809,
+          "like_count": 1843,
+          "quote_count": 37,
+          "reply_count": 197,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "你是不是觉得自己21岁还很小啊？劳荣枝21岁的时候已经开始杀人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语，耍起哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 234,
+          "like_count": 1408,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 851
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "🚪8964，用来给南方大山里的孩子买姨妈巾/姨父巾用",
+        "id": "1590939682568736769",
+        "location": "Manhattan, NY",
+        "name": "汉命贵0975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983668137922064384/aKdXx6yC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2395,
+          "following_count": 1406,
+          "like_count": 30436,
+          "listed_count": 6,
+          "media_count": 937,
+          "tweet_count": 10816
+        },
+        "url": "",
+        "username": "ColesPerson",
+        "verified": false
+      }
+    ]
+  }
+}

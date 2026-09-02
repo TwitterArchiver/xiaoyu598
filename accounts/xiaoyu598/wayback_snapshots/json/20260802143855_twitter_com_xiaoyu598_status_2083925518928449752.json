@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2083746803942600952",
+    "created_at": "2026-08-02T14:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083925518928449752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1409564127916224512",
+          "start": 0,
+          "username": "VgWgypKER24wJEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083925518928449752",
+    "in_reply_to_user_id": "1409564127916224512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083746803942600952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VgWgypKER24wJEX 那太好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2083746803942600952",
+        "created_at": "2026-08-02T14:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083925518928449752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1409564127916224512",
+              "start": 0,
+              "username": "VgWgypKER24wJEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083925518928449752",
+        "in_reply_to_user_id": "1409564127916224512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083746803942600952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VgWgypKER24wJEX 那太好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409564127916224512",
+        "conversation_id": "2083746803942600952",
+        "created_at": "2026-08-02T02:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083746803942600952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083746803942600952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 18672,
+          "like_count": 153,
+          "quote_count": 24,
+          "reply_count": 77,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下，我是你的高需求焦虑型男友，每天晚上非要跟你打电话，等你睡着了还要发一堆骚扰你的话，熬到2点，睡醒了就立马找你，要你陪我，所有软件换着看你在不在线，找不到你就哭着喊着说你不爱我了，无时无刻都要跟你在一起，有分离焦虑，5分钟不回我就打电话轰炸你说你出轨了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 238,
+          "like_count": 1536,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 899
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-28T17:27:45.000Z",
+        "description": "万达广场附近抽象爱做饭厨子🧑‍🍳｜平时写点什么关于爱与生活的！#谈谈 提问箱📩https://t.co/V22SZQXdgV",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 31,
+                "tag": "谈谈"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aidou68117",
+                "end": 62,
+                "expanded_url": "https://ngl.link/aidou68117",
+                "start": 39,
+                "url": "https://t.co/V22SZQXdgV"
+              }
+            ]
+          }
+        },
+        "id": "1409564127916224512",
+        "location": "距离800m",
+        "name": "Aiduo",
+        "pinned_tweet_id": "2036826855203016802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956171892169302017/ktOwPGje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949,
+          "following_count": 3634,
+          "like_count": 103782,
+          "listed_count": 2,
+          "media_count": 322,
+          "tweet_count": 5289
+        },
+        "url": "",
+        "username": "VgWgypKER24wJEX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2083095430968275118",
+    "created_at": "2026-07-31T07:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083095430968275118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 32,
+          "id": "1720665183188922368",
+          "start": 27,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/victor_zhang23…",
+          "end": 124,
+          "expanded_url": "https://twitter.com/victor_zhang233/status/2082921102276534517",
+          "start": 101,
+          "url": "https://t.co/1R1HOuZB5M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083095430968275118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082921102276534517",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在我经常互动的粉丝中，告诉我符合的人\n好好想想再做啊\n@grok\n父亲：\n母亲：\n哥哥：\n弟弟：\n姐姐：\n妹妹： \n闺蜜：\n朋友：\n前辈：\n后辈：\n男朋友：\n女朋友：\n邻家哥哥：\n邻家姐姐：\n跟踪狂： https://t.co/1R1HOuZB5M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2083095430968275118",
+        "created_at": "2026-07-31T07:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083095430968275118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1720665183188922368",
+              "start": 27,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/victor_zhang23…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/victor_zhang233/status/2082921102276534517",
+              "start": 101,
+              "url": "https://t.co/1R1HOuZB5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083095430968275118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082921102276534517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我经常互动的粉丝中，告诉我符合的人\n好好想想再做啊\n@grok\n父亲：\n母亲：\n哥哥：\n弟弟：\n姐姐：\n妹妹： \n闺蜜：\n朋友：\n前辈：\n后辈：\n男朋友：\n女朋友：\n邻家哥哥：\n邻家姐姐：\n跟踪狂： https://t.co/1R1HOuZB5M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2082921102276534517",
+        "created_at": "2026-07-30T20:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T21:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082921102276534517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1720665183188922368",
+              "start": 27,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/chu_00b2/statu…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/chu_00b2/status/2082889718505857248",
+              "start": 101,
+              "url": "https://t.co/E4Nwe5BNeY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082921102276534517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 663,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082889718505857248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我经常互动的粉丝中，告诉我符合的人\n好好想想再做啊\n@grok\n父亲：\n母亲：\n哥哥：\n弟弟：\n姐姐：\n妹妹： \n闺蜜：\n朋友：\n前辈：\n后辈：\n男朋友：\n女朋友：\n邻家哥哥：\n邻家姐姐：\n跟踪狂： https://t.co/E4Nwe5BNeY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语，耍起哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 245,
+          "like_count": 1478,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 863
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8889147,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7238,
+          "media_count": 9203171,
+          "tweet_count": 132995854
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 493,
+          "like_count": 11121,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 2535
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

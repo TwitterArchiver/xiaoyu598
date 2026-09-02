@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2080471271918432380",
+    "created_at": "2026-07-24T01:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T02:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080471271918432380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2034586230881722368",
+          "start": 3,
+          "username": "hgds03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080471271918432380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080235430310740022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds03: 每个时期都以为自己开智了 然后过一年再看依旧蠢的不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2080471271918432380",
+        "created_at": "2026-07-24T01:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080471271918432380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2034586230881722368",
+              "start": 3,
+              "username": "hgds03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080471271918432380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080235430310740022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds03: 每个时期都以为自己开智了 然后过一年再看依旧蠢的不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034586230881722368",
+        "conversation_id": "2080235430310740022",
+        "created_at": "2026-07-23T10:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080235430310740022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080235430310740022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10990,
+          "like_count": 463,
+          "quote_count": 8,
+          "reply_count": 38,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "每个时期都以为自己开智了 然后过一年再看依旧蠢的不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 189,
+          "like_count": 1147,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 762
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T11:02:47.000Z",
+        "description": "我们只是网友，你把手机摔了我就死了，放过彼此OK？放下手中的屠刀，神在救你\n匿名箱📮https://t.co/2OAcbUUA79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hgds03",
+                "end": 65,
+                "expanded_url": "https://ngl.link/hgds03",
+                "start": 42,
+                "url": "https://t.co/2OAcbUUA79"
+              }
+            ]
+          }
+        },
+        "id": "2034586230881722368",
+        "location": "世界上最忧郁的人",
+        "name": "哈根达斯",
+        "pinned_tweet_id": "2079990876038930610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6208,
+          "following_count": 643,
+          "like_count": 7549,
+          "listed_count": 9,
+          "media_count": 127,
+          "tweet_count": 1079
+        },
+        "url": "",
+        "username": "hgds03",
+        "verified": true
+      }
+    ]
+  }
+}

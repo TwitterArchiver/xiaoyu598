@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2083596007271805261",
+    "created_at": "2026-08-01T17:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083608596403880247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2059326143640276992",
+          "start": 0,
+          "username": "Huhiosc3x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083608596403880247",
+    "in_reply_to_user_id": "2059326143640276992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083596007271805261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huhiosc3x 不会有心瘾吗……我每天晚上吃一颗感觉不吃就心悸……我都怀疑是我心理作用"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083596007271805261].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083596007271805261",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083596007271805261"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2083596007271805261",
+        "created_at": "2026-08-01T17:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083608596403880247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2059326143640276992",
+              "start": 0,
+              "username": "Huhiosc3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083608596403880247",
+        "in_reply_to_user_id": "2059326143640276992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083596007271805261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huhiosc3x 不会有心瘾吗……我每天晚上吃一颗感觉不吃就心悸……我都怀疑是我心理作用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语，耍起哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 243,
+          "like_count": 1507,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 881
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-26T17:32:17.000Z",
+        "description": "可以叫我hh｜同类互fo大欢迎｜被禁评了回复用引用｜餐券顺女，友跨｜清了波没有回关的如果有误清请务必私信告知我！不会单取任何人！",
+        "id": "2059326143640276992",
+        "name": "Huhio",
+        "pinned_tweet_id": "2082781051978735903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059327200395190273/aPIop2p8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 209,
+          "like_count": 1401,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1097
+        },
+        "url": "",
+        "username": "Huhiosc3x",
+        "verified": false
+      }
+    ]
+  }
+}

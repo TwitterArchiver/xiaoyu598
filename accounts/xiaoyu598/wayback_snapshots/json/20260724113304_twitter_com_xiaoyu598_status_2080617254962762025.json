@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080376110483689472"
+      ],
+      "media_source_tweet_id": [
+        "2080376134554796461"
+      ]
+    },
+    "author_id": "1686682563937792000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2080617254962762025",
+    "created_at": "2026-07-24T11:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T12:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080617254962762025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1986526126051893248",
+          "start": 3,
+          "username": "GaiaSerenity"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YWVuJMqjXA",
+          "end": 41,
+          "expanded_url": "https://x.com/GaiaSerenity/status/2080376134554796461/video/1",
+          "media_key": "13_2080376110483689472",
+          "start": 18,
+          "url": "https://t.co/YWVuJMqjXA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080617254962762025",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4198
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080376134554796461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GaiaSerenity: https://t.co/YWVuJMqjXA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12133,
+        "height": 630,
+        "media_key": "13_2080376110483689472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080376110483689472/img/9ijtJOUHDXCZu0DQ.jpg",
+        "public_metrics": {
+          "view_count": 275224
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080376110483689472/vid/avc1/306x270/XzBg1nFdX6z1J72m.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080376110483689472/vid/avc1/408x360/W0cYHXikg6fLZUjx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080376110483689472/vid/avc1/714x630/fMh8bWhGaFT-4c1h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080376110483689472/pl/yhHebtg4f2X5NlhR.m3u8?v=cfc"
+          }
+        ],
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080376110483689472"
+          ]
+        },
+        "author_id": "1986526126051893248",
+        "conversation_id": "2080376134554796461",
+        "created_at": "2026-07-23T19:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080376134554796461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWVuJMqjXA",
+              "end": 23,
+              "expanded_url": "https://x.com/GaiaSerenity/status/2080376134554796461/video/1",
+              "media_key": "13_2080376110483689472",
+              "start": 0,
+              "url": "https://t.co/YWVuJMqjXA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080376134554796461",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2790,
+          "impression_count": 937243,
+          "like_count": 33583,
+          "quote_count": 479,
+          "reply_count": 216,
+          "retweet_count": 4198
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YWVuJMqjXA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080376110483689472"
+          ],
+          "media_source_tweet_id": [
+            "2080376134554796461"
+          ]
+        },
+        "author_id": "1686682563937792000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080617254962762025",
+        "created_at": "2026-07-24T11:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080617254962762025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1986526126051893248",
+              "start": 3,
+              "username": "GaiaSerenity"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWVuJMqjXA",
+              "end": 41,
+              "expanded_url": "https://x.com/GaiaSerenity/status/2080376134554796461/video/1",
+              "media_key": "13_2080376110483689472",
+              "start": 18,
+              "url": "https://t.co/YWVuJMqjXA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080617254962762025",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4198
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080376134554796461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GaiaSerenity: https://t.co/YWVuJMqjXA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语，耍起哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 193,
+          "like_count": 1171,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 781
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T20:08:49.000Z",
+        "description": "safe place",
+        "id": "1986526126051893248",
+        "name": "Gaia ☀︎︎︎",
+        "pinned_tweet_id": "2080376134554796461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989107111389777922/MrwzyGb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25356,
+          "following_count": 3462,
+          "like_count": 7914,
+          "listed_count": 77,
+          "media_count": 1627,
+          "tweet_count": 5198
+        },
+        "url": "",
+        "username": "GaiaSerenity",
+        "verified": true
+      }
+    ]
+  }
+}

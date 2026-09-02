@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2088348852772536375",
+    "created_at": "2026-08-15T05:52:38.000Z",
+    "display_text_range": [
+      12,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T06:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088504114229780705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2084973651229626368",
+          "start": 0,
+          "username": "Yuki132831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088504114229780705",
+    "in_reply_to_user_id": "2084973651229626368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088348852772536375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki132831 有次我学校1v7，3人手骨折，一个人昏迷，还有俩人ICU，一个人肋骨骨折，我一点事没有，当时打架越打越兴奋，因为拳头刚好想喝血了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2088348852772536375",
+        "created_at": "2026-08-15T05:52:38.000Z",
+        "display_text_range": [
+          12,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088504114229780705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2084973651229626368",
+              "start": 0,
+              "username": "Yuki132831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088504114229780705",
+        "in_reply_to_user_id": "2084973651229626368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088348852772536375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki132831 有次我学校1v7，3人手骨折，一个人昏迷，还有俩人ICU，一个人肋骨骨折，我一点事没有，当时打架越打越兴奋，因为拳头刚好想喝血了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084973651229626368",
+        "conversation_id": "2088348852772536375",
+        "created_at": "2026-08-14T19:35:40.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088348852772536375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088348852772536375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2120,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有次我学校1v7，3人手骨折，一个人昏迷，还有俩人ICU，一个人肋骨骨折，我一点事没有，当时打架越打越兴奋，因为拳头刚好想喝血了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088504114229780705",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 236,
+          "like_count": 1669,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 946
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T12:04:41.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n\n前世@Yuki312813 @Yuki281331 \n备用@Yuki283113",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "Yuki312813"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "Yuki281331"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Yuki283113"
+              }
+            ]
+          }
+        },
+        "id": "2084973651229626368",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088484229583651266",
+        "name": "岐哥，梦想吐了。3.0。",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084973651229626368/1785932825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085301763590987776/Dysa2o87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 334,
+          "like_count": 1264,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 716
+        },
+        "url": "",
+        "username": "Yuki132831",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

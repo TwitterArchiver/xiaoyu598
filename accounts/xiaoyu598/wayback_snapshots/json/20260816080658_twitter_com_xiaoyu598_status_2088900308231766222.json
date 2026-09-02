@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2088900308231766222",
+    "created_at": "2026-08-16T08:06:58.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T09:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088900308231766222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004456046295973888",
+          "start": 3,
+          "username": "kohoshitsumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088900308231766222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088882765802664148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kohoshitsumu: 总结一下发现了我是npc的一些证据:\n1.经常长时间发呆\n2.只会在别人先触发对话的情况下开口说话\n3.刷我的好感度可能会获赠小礼物\n4.建模潦草\n5.生命值很低\n6.重复做一件事情\n7.间接性数据丢失忘记自己做了什么\n8.第2天会恢复原始状…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2088900308231766222",
+        "created_at": "2026-08-16T08:06:58.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088900308231766222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004456046295973888",
+              "start": 3,
+              "username": "kohoshitsumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088900308231766222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088882765802664148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kohoshitsumu: 总结一下发现了我是npc的一些证据:\n1.经常长时间发呆\n2.只会在别人先触发对话的情况下开口说话\n3.刷我的好感度可能会获赠小礼物\n4.建模潦草\n5.生命值很低\n6.重复做一件事情\n7.间接性数据丢失忘记自己做了什么\n8.第2天会恢复原始状…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004456046295973888",
+        "conversation_id": "2088882765802664148",
+        "created_at": "2026-08-16T06:57:15.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088882765802664148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qiujiudev/stat…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/qiujiudev/status/2088879948375478453",
+              "start": 155,
+              "url": "https://t.co/pr5p46IqLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088882765802664148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088879948375478453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总结一下发现了我是npc的一些证据:\n1.经常长时间发呆\n2.只会在别人先触发对话的情况下开口说话\n3.刷我的好感度可能会获赠小礼物\n4.建模潦草\n5.生命值很低\n6.重复做一件事情\n7.间接性数据丢失忘记自己做了什么\n8.第2天会恢复原始状态每日固定任务默认凌晨零点重置\n9.偶尔变成恶劣的居民随机辱骂玩家 https://t.co/pr5p46IqLt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088900308231766222",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 229,
+          "like_count": 1676,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 949
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T07:35:49.000Z",
+        "description": "｜女｜生产日期：𝟚𝟘𝟙𝟙/𝟘𝟜/𝟚𝟘｜猫🐈｜🚫🏫休学🎒🚫｜❤️💻𝙄𝙉𝙏𝙀𝙍𝙉𝙀𝙏重度依赖💻❤️｜社恐｜自闭｜抑郁｜焦虑｜双相｜画渣｜学渣｜人生目标达成度：-𝟒𝟎𝟒%/𝟏𝟎𝟎%｜陪我玩回𝚏𝚘｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kohoshitsumu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kohoshitsumu",
+                "start": 0,
+                "url": "https://t.co/Qk6Y5IYAxK"
+              }
+            ]
+          }
+        },
+        "id": "2004456046295973888",
+        "is_identity_verified": false,
+        "location": "只想永居于梦",
+        "most_recent_tweet_id": "2088899339234300331",
+        "name": "小星紡ーこほしつむ",
+        "pinned_tweet_id": "2082824480762872031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004456046295973888/1784463809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078476911836086272/XWUEOnTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 323,
+          "like_count": 29104,
+          "listed_count": 0,
+          "media_count": 682,
+          "tweet_count": 2699
+        },
+        "url": "https://t.co/Qk6Y5IYAxK",
+        "username": "kohoshitsumu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

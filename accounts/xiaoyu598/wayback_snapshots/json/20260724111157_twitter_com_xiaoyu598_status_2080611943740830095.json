@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2080285229013746042",
+    "created_at": "2026-07-24T11:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T12:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080611943740830095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1079483498686164992",
+          "start": 0,
+          "username": "KisaragiSue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080611943740830095",
+    "in_reply_to_user_id": "1079483498686164992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080285229013746042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KisaragiSue 最支持的一回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2080285229013746042",
+        "created_at": "2026-07-24T11:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080611943740830095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080611943740830095",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080285229013746042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue 最支持的一回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2080285229013746042",
+        "created_at": "2026-07-23T13:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080285229013746042"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080285229013746042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 548,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的毒虫oder都是纯傻逼都tm赶紧好似没一个值得可怜的包括过去的窝自己都一样，什么精神疾病什么原生家庭什么性别焦虑什么生活痛苦全尼玛逼是纯纯的借口，脑子天天被化学物质强奸还喊爽呢，你最后逃避了个鸡毛？要么磕死自己一了百了要么醒来接着难受，你觉得爽，觉得起飞觉得他妈幻觉真好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语，耍起哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 192,
+          "like_count": 1165,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 781
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2517,
+          "following_count": 587,
+          "like_count": 44096,
+          "listed_count": 4,
+          "media_count": 1188,
+          "tweet_count": 23267
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      }
+    ]
+  }
+}

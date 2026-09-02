@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2074050096568885751",
+    "created_at": "2026-07-06T08:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074050096568885751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pp74154174/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/pp74154174/status/2073613218141086129",
+          "start": 10,
+          "url": "https://t.co/OsHQGJoh0c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074050096568885751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073613218141086129",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我对我心肝的态度： https://t.co/OsHQGJoh0c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1467,
+        "media_key": "3_2073613208305442816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMb0OfqaoAAxCZm.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2074050096568885751",
+        "created_at": "2026-07-06T08:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074050096568885751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pp74154174/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/pp74154174/status/2073613218141086129",
+              "start": 10,
+              "url": "https://t.co/OsHQGJoh0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074050096568885751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073613218141086129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对我心肝的态度： https://t.co/OsHQGJoh0c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073613208305442816"
+          ]
+        },
+        "author_id": "1501224776177643522",
+        "conversation_id": "2073613218141086129",
+        "created_at": "2026-07-05T03:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073613218141086129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6d2Z8bF15u",
+              "end": 87,
+              "expanded_url": "https://x.com/pp74154174/status/2073613218141086129/photo/1",
+              "media_key": "3_2073613208305442816",
+              "start": 64,
+              "url": "https://t.co/6d2Z8bF15u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073613218141086129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7821,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些骂我老公的死全家的公狗直接去国道领三发大运飞升到赛博坦星球陷入美美深度睡眠都算是死去的家里人在阴间打五万年黑工的福报了 https://t.co/6d2Z8bF15u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语/\n我只有感恩，做人要有一颗感恩的心\n阳光向上不定时地雷妹上体\n我是理中客支黑捏",
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026380698458738688/FkQoGctH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 152,
+          "like_count": 638,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 477
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T15:54:25.000Z",
+        "description": "我有老公呀@osj218000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "osj218000"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuumi80956",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuumi80956",
+                "start": 0,
+                "url": "https://t.co/YGgA5Xpe7w"
+              }
+            ]
+          }
+        },
+        "id": "1501224776177643522",
+        "name": "忧郁灵猪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065397182317121536/sjGVSuuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11013,
+          "following_count": 396,
+          "like_count": 20814,
+          "listed_count": 16,
+          "media_count": 175,
+          "tweet_count": 6820
+        },
+        "url": "https://t.co/YGgA5Xpe7w",
+        "username": "pp74154174",
+        "verified": false
+      }
+    ]
+  }
+}

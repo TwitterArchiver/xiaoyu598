@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2082817443089817809",
+    "created_at": "2026-07-30T13:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082817443089817809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2045127800324288513",
+          "start": 3,
+          "username": "yacht_ono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082817443089817809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 252
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082210757094305956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yacht_ono: 钱，你回来吧我错了，我不该乱花你的，我一直在哭，我好后悔。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2082817443089817809",
+        "created_at": "2026-07-30T13:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082817443089817809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2045127800324288513",
+              "start": 3,
+              "username": "yacht_ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082817443089817809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 252
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082210757094305956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yacht_ono: 钱，你回来吧我错了，我不该乱花你的，我一直在哭，我好后悔。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045127800324288513",
+        "conversation_id": "2082210757094305956",
+        "created_at": "2026-07-28T21:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T22:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082210757094305956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082210757094305956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 42820,
+          "like_count": 2042,
+          "quote_count": 18,
+          "reply_count": 156,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "钱，你回来吧我错了，我不该乱花你的，我一直在哭，我好后悔。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语，耍起哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 238,
+          "like_count": 1432,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 856
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T13:12:15.000Z",
+        "description": "碎碎念寄存处",
+        "id": "2045127800324288513",
+        "location": "🚪52",
+        "name": "yacht",
+        "pinned_tweet_id": "2066917575884460113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082402222894399488/ck8A64Fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 15,
+          "like_count": 404,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "yacht_ono",
+        "verified": false
+      }
+    ]
+  }
+}

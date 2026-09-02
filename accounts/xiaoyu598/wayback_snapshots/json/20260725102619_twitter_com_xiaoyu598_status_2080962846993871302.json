@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2080962846993871302",
+    "created_at": "2026-07-25T10:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080962846993871302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976989354318086145",
+          "start": 3,
+          "username": "Abyss9a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080962846993871302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080680335965344082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Abyss9a: 如果微信有消息就不会来刷推特了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2080962846993871302",
+        "created_at": "2026-07-25T10:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080962846993871302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976989354318086145",
+              "start": 3,
+              "username": "Abyss9a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080962846993871302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080680335965344082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Abyss9a: 如果微信有消息就不会来刷推特了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976989354318086145",
+        "conversation_id": "2080680335965344082",
+        "created_at": "2026-07-24T15:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080680335965344082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080680335965344082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 19189,
+          "like_count": 283,
+          "quote_count": 5,
+          "reply_count": 86,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "如果微信有消息就不会来刷推特了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语，耍起哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 225,
+          "like_count": 1297,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 819
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T12:32:55.000Z",
+        "description": "iiii s",
+        "id": "1976989354318086145",
+        "location": "河北",
+        "name": "Abyss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057783725937823744/pQPnn8z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 4,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "Abyss9a",
+        "verified": false
+      }
+    ]
+  }
+}

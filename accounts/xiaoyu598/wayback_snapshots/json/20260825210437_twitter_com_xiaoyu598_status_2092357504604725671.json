@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2092357504604725671",
+    "created_at": "2026-08-25T21:04:37.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T22:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092357504604725671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shimmyjimmy06/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/shimmyjimmy06/status/2092136506291114134",
+          "start": 4,
+          "url": "https://t.co/RHn77kywPP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092357504604725671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092136506291114134",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我素质 https://t.co/RHn77kywPP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2092357504604725671",
+        "created_at": "2026-08-25T21:04:37.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T22:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092357504604725671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shimmyjimmy06/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/shimmyjimmy06/status/2092136506291114134",
+              "start": 4,
+              "url": "https://t.co/RHn77kywPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092357504604725671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092136506291114134",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我素质 https://t.co/RHn77kywPP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027426463713206272",
+        "conversation_id": "2092136506291114134",
+        "created_at": "2026-08-25T06:26:27.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T07:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092136506291114134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092136506291114134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 53595,
+          "like_count": 1063,
+          "quote_count": 9,
+          "reply_count": 134,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "最讨厌他妈说脏话的人，真你妈没素质，谁几把再说脏话我就不跟谁玩了，操你妈逼，说了多少遍别他妈骂人，很他妈没素质，他妈了个逼，妈死了都，你们什么时候见过我骂人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092357504604725671",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 235,
+          "like_count": 1740,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 965
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-27T16:51:59.000Z",
+        "description": "福建唯一柏拉图之人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jimmychenzizzz…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jimmychenzizzzzz1",
+                "start": 0,
+                "url": "https://t.co/Pe26qbl113"
+              }
+            ]
+          }
+        },
+        "id": "2027426463713206272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092258110681592237",
+        "name": "猪2熏",
+        "pinned_tweet_id": "2081617032869785933",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027426463713206272/1782834216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048006848071233536/hdjUcc1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 112,
+          "like_count": 708,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 586
+        },
+        "url": "https://t.co/Pe26qbl113",
+        "username": "shimmyjimmy06",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

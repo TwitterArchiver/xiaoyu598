@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2083232210195538057",
+    "created_at": "2026-08-01T08:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083462782729756734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1944046901940432897",
+          "start": 0,
+          "username": "rikki0ds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083462782729756734",
+    "in_reply_to_user_id": "1944046901940432897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083232210195538057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rikki0ds 没见过女同说自己是母蛆的，一眼皮下男试图骗女的和他搞文爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083232199692914688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkgpe9aEAALWq0.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2083232210195538057",
+        "created_at": "2026-08-01T08:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083462782729756734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1944046901940432897",
+              "start": 0,
+              "username": "rikki0ds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083462782729756734",
+        "in_reply_to_user_id": "1944046901940432897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083232210195538057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rikki0ds 没见过女同说自己是母蛆的，一眼皮下男试图骗女的和他搞文爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083232199692914688"
+          ]
+        },
+        "author_id": "1944046901940432897",
+        "conversation_id": "2083232210195538057",
+        "created_at": "2026-07-31T16:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083232210195538057"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "wlw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y37BAFcuDM",
+              "end": 47,
+              "expanded_url": "https://x.com/rikki0ds/status/2083232210195538057/photo/1",
+              "media_key": "3_2083232199692914688",
+              "start": 24,
+              "url": "https://t.co/y37BAFcuDM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083232210195538057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3725,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的会有女同这样发帖吗……皮下男吧？？#wlw https://t.co/y37BAFcuDM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语，耍起哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 242,
+          "like_count": 1498,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 876
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-12T14:51:29.000Z",
+        "description": "完L\nLesbians，家有女友^ω^",
+        "id": "1944046901940432897",
+        "location": "平井桃的b",
+        "name": "rikki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083395307619135488/a1EHfgqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 128,
+          "like_count": 5851,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "rikki0ds",
+        "verified": false
+      }
+    ]
+  }
+}

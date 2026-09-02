@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2080121254145872147",
+    "created_at": "2026-07-23T13:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080289497292714453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044236966254821377",
+          "start": 0,
+          "username": "QiuFu161"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080289497292714453",
+    "in_reply_to_user_id": "2044236966254821377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080121254145872147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuFu161 牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2080121230838091776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4TPQ3aUAAP7A9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2080121243794321408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4TQBIasAAoXFh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2080121254145872147",
+        "created_at": "2026-07-23T13:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080289497292714453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044236966254821377",
+              "start": 0,
+              "username": "QiuFu161"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080289497292714453",
+        "in_reply_to_user_id": "2044236966254821377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080121254145872147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuFu161 牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080121230838091776",
+            "3_2080121243794321408"
+          ]
+        },
+        "author_id": "2044236966254821377",
+        "conversation_id": "2080121254145872147",
+        "created_at": "2026-07-23T02:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080121254145872147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8NflHlwoT",
+              "end": 60,
+              "expanded_url": "https://x.com/QiuFu161/status/2080121254145872147/photo/1",
+              "media_key": "3_2080121230838091776",
+              "start": 37,
+              "url": "https://t.co/l8NflHlwoT"
+            },
+            {
+              "display_url": "pic.x.com/l8NflHlwoT",
+              "end": 60,
+              "expanded_url": "https://x.com/QiuFu161/status/2080121254145872147/photo/1",
+              "media_key": "3_2080121243794321408",
+              "start": 37,
+              "url": "https://t.co/l8NflHlwoT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080121254145872147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1245,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "强强强，依旧拆弹专家\n\n有这份勇气和行动力，以后做什么都会成功的\n\n佩服 https://t.co/l8NflHlwoT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 186,
+          "like_count": 1138,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 752
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T02:11:16.000Z",
+        "description": "ododod，冲刺冲刺冲刺//原推号@chuyinweilai114@06auser@06auser1\n//单推全球最伟大倒车帝总加速师庆丰包子铺主席、包共中央总书记、中央包委主席习近平//远离我吧",
+        "id": "2044236966254821377",
+        "name": "yice",
+        "pinned_tweet_id": "2076555415127835052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075301904578650112/x1XfixFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 125,
+          "like_count": 686,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 233
+        },
+        "url": "",
+        "username": "QiuFu161",
+        "verified": false
+      }
+    ]
+  }
+}

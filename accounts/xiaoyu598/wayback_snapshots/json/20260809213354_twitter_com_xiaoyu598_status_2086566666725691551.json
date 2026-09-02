@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2086566666725691551",
+    "created_at": "2026-08-09T21:33:54.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T22:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086566666725691551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tanda_hazuki/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/tanda_hazuki/status/2086030290536030513",
+          "start": 3,
+          "url": "https://t.co/w1Vagb25ab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086566666725691551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086030290536030513",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈 https://t.co/w1Vagb25ab"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14198,
+        "height": 1920,
+        "media_key": "13_2086030251591974912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086030251591974912/img/7ZhAIuW1EBreHYI8.jpg",
+        "public_metrics": {
+          "view_count": 6324
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086030251591974912/vid/avc1/1080x1920/JfecG9hO3-xG4uh4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086030251591974912/vid/avc1/720x1280/guGfB8h_hygTmDuG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086030251591974912/vid/avc1/480x852/f7ppf3NzftZxIzPa.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086030251591974912/vid/avc1/320x568/q1_PTzDhvaIPbk7g.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086030251591974912/pl/goSAeXdU8_md99rk.m3u8?v=0cd"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2086566666725691551",
+        "created_at": "2026-08-09T21:33:54.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T22:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086566666725691551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tanda_hazuki/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/tanda_hazuki/status/2086030290536030513",
+              "start": 3,
+              "url": "https://t.co/w1Vagb25ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086566666725691551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086030290536030513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈 https://t.co/w1Vagb25ab"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086030251591974912"
+          ]
+        },
+        "author_id": "3853228393",
+        "conversation_id": "2086030290536030513",
+        "created_at": "2026-08-08T10:02:32.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T11:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086030290536030513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "vt.tiktok.com/ZS4b7RkVy/",
+              "end": 32,
+              "expanded_url": "https://vt.tiktok.com/ZS4b7RkVy/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2086030296361930752/9Jjr_xce?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2086030296361930752/9Jjr_xce?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 9,
+              "status": 200,
+              "title": "TikTok · 反田葉月",
+              "unwound_url": "https://www.tiktok.com/@tandachan_28/video/7671569142197177620?_r=1&_t=ZS-98i0DbzwlFM",
+              "url": "https://t.co/OX91fS9JS9"
+            },
+            {
+              "display_url": "pic.x.com/gOSmmQlNYD",
+              "end": 56,
+              "expanded_url": "https://x.com/tanda_hazuki/status/2086030290536030513/video/1",
+              "media_key": "13_2086030251591974912",
+              "start": 33,
+              "url": "https://t.co/gOSmmQlNYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086030290536030513",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2086030251591974912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 30305,
+          "like_count": 2398,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "今日のづきゅん❕\nhttps://t.co/OX91fS9JS9 https://t.co/gOSmmQlNYD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086566666725691551",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 231,
+          "like_count": 1598,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 925
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-10-11T01:05:14.000Z",
+        "description": "🌙moony club.広島県出身./D4DJ Lyrical Lily 桜田美夢/バンドリ sumimi 純田まな役 etc../🎀ﾏﾈｰｼﾞｬｰ垢@tandahazuki_mg #みてみては〜ちゃん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 91,
+                "tag": "みてみては〜ちゃん"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "tandahazuki_mg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/tandahazuki_",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/tandahazuki_",
+                "start": 0,
+                "url": "https://t.co/9SVW7luLa1"
+              }
+            ]
+          }
+        },
+        "id": "3853228393",
+        "is_identity_verified": false,
+        "location": "ストロボ",
+        "most_recent_tweet_id": "2086455777062252813",
+        "name": "反田葉月",
+        "pinned_tweet_id": "2084905010601840901",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3853228393/1783861408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034591675679752192/vD9SNOEx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176349,
+          "following_count": 642,
+          "like_count": 75031,
+          "listed_count": 1243,
+          "media_count": 3368,
+          "tweet_count": 11716
+        },
+        "url": "https://t.co/9SVW7luLa1",
+        "username": "tanda_hazuki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

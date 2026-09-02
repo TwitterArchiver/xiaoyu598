@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2080294399389680085",
+    "created_at": "2026-07-23T14:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T15:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080306181458051260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "357539288",
+          "start": 0,
+          "username": "Surajazeem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080306181458051260",
+    "in_reply_to_user_id": "357539288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080294399389680085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Surajazeem 这mecry啥的是个吸毒的人，我想鼓励他不吸毒逃离出来，没想到他说自己是走私毒品的，那我还说啥，我生气很正常吧，走私毒品在中国是死罪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2080294399389680085",
+        "created_at": "2026-07-23T14:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080306181458051260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "357539288",
+              "start": 0,
+              "username": "Surajazeem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080306181458051260",
+        "in_reply_to_user_id": "357539288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080294399389680085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Surajazeem 这mecry啥的是个吸毒的人，我想鼓励他不吸毒逃离出来，没想到他说自己是走私毒品的，那我还说啥，我生气很正常吧，走私毒品在中国是死罪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "357539288",
+        "conversation_id": "2080294399389680085",
+        "created_at": "2026-07-23T14:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080294399389680085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shji1080972/st…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/shji1080972/status/2080289780441493985",
+              "start": 50,
+              "url": "https://t.co/weCod3VbD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080294399389680085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080289780441493985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你走私毒品?你收钱了?收了多少?为啥要这样做，别给自己找个这样的标签了，从现在开始你就该远离这东西 https://t.co/weCod3VbD4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "name": "小语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 186,
+          "like_count": 1144,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 755
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk，拿了我的钱还这样我他妈的\n我是霖。\n第十八个号。\n辣条已过气。\n妈妈@Shivam3228\n牛马💊 @AminoXx_killer \n媳妇@Ririka12208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 71,
+                "start": 56,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "Ririka12208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/WT9iFGe2NG"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "location": "msk身后",
+        "name": "雨林18+",
+        "pinned_tweet_id": "2074845970169577745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079816271148023808/1pDQllIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 291,
+          "like_count": 1754,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1026
+        },
+        "url": "https://t.co/WT9iFGe2NG",
+        "username": "Surajazeem",
+        "verified": false
+      }
+    ]
+  }
+}
