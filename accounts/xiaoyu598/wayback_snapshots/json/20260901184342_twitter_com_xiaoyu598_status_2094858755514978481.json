@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2094858755514978481",
+    "created_at": "2026-09-01T18:43:42.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T19:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094858755514978481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2092801852526190592",
+          "start": 3,
+          "username": "1xi2k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094858755514978481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094437265321898384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1xi2k: 故意好几个小时没碰手机，结果一条消息也没有，无人在意这个词到底是谁发明的，我将恼羞成怒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2094858755514978481",
+        "created_at": "2026-09-01T18:43:42.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T19:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094858755514978481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2092801852526190592",
+              "start": 3,
+              "username": "1xi2k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094858755514978481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094437265321898384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1xi2k: 故意好几个小时没碰手机，结果一条消息也没有，无人在意这个词到底是谁发明的，我将恼羞成怒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092801852526190592",
+        "conversation_id": "2094437265321898384",
+        "created_at": "2026-08-31T14:48:51.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094437265321898384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094437265321898384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 21691,
+          "like_count": 785,
+          "quote_count": 7,
+          "reply_count": 115,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "故意好几个小时没碰手机，结果一条消息也没有，无人在意这个词到底是谁发明的，我将恼羞成怒"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094858755514978481",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 230,
+          "like_count": 1764,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 981
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T02:31:52.000Z",
+        "description": "碎碎念",
+        "id": "2092801852526190592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094646727005655498",
+        "name": "蔪逢春",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092801852526190592/1787798043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094094666799198208/sXNCR08h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 14,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "1xi2k",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

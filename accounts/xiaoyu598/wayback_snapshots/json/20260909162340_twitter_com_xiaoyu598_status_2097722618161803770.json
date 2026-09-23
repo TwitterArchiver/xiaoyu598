@@ -1,0 +1,1000 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Nintendo Direct",
+          "id": "971446280441421826",
+          "name": "Nintendo Direct"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1320755235665526786",
+          "name": "Kirby"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nintendo Direct",
+          "id": "971446280441421826",
+          "name": "Nintendo Direct"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming News",
+          "id": "1034501001544257536",
+          "name": "Gaming news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291094662682271744",
+          "name": "Gaming events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1320755235665526786",
+          "name": "Kirby"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "description": "Nintendo Switch",
+          "id": "856739783577554949",
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nintendo Switch",
+          "id": "856739783577554949",
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "2097722618161803770",
+    "created_at": "2026-09-09T16:23:40.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T17:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097722618161803770"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nintendoameric…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/nintendoamerica/status/2097698889881043325",
+          "start": 35,
+          "url": "https://t.co/XJUDUNYdWN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097722618161803770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097698889881043325",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不敢想有多萌……世界上最可爱的宝宝宝宝宝宝宝宝宝宝宝宝卡比我亲死你😋 https://t.co/XJUDUNYdWN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 173250,
+        "height": 405,
+        "media_key": "13_2097698704589275136",
+        "preview_image_url": "https://pbs.twimg.com/media/HRyGBhYWEAAY4Sy.jpg",
+        "public_metrics": {
+          "view_count": 342001
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097698704589275136/vid/avc1/1280x720/w-SHYpx8e3LMjDL3.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097698704589275136/vid/avc1/640x360/nRNsCFgvNJ3Ipisc.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097698704589275136/pl/DwQTh70vl2ycqAeA.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097698704589275136/vid/avc1/1920x1080/w9v_Acrn2UPkfTjw.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097698704589275136/vid/avc1/480x270/8I6w_L3Fwzi5qqPo.mp4?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Nintendo Direct",
+              "id": "971446280441421826",
+              "name": "Nintendo Direct"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1320755235665526786",
+              "name": "Kirby"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nintendo Direct",
+              "id": "971446280441421826",
+              "name": "Nintendo Direct"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming News",
+              "id": "1034501001544257536",
+              "name": "Gaming news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1320755235665526786",
+              "name": "Kirby"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Nintendo Switch",
+              "id": "856739783577554949",
+              "name": "Nintendo Switch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nintendo Switch",
+              "id": "856739783577554949",
+              "name": "Nintendo Switch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2097722618161803770",
+        "created_at": "2026-09-09T16:23:40.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T17:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097722618161803770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nintendoameric…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/nintendoamerica/status/2097698889881043325",
+              "start": 35,
+              "url": "https://t.co/XJUDUNYdWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097722618161803770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097698889881043325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不敢想有多萌……世界上最可爱的宝宝宝宝宝宝宝宝宝宝宝宝卡比我亲死你😋 https://t.co/XJUDUNYdWN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097698704589275136"
+          ]
+        },
+        "author_id": "5162861",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Nintendo Direct",
+              "id": "971446280441421826",
+              "name": "Nintendo Direct"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1320755235665526786",
+              "name": "Kirby"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nintendo Direct",
+              "id": "971446280441421826",
+              "name": "Nintendo Direct"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming News",
+              "id": "1034501001544257536",
+              "name": "Gaming news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1320755235665526786",
+              "name": "Kirby"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Nintendo Switch",
+              "id": "856739783577554949",
+              "name": "Nintendo Switch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nintendo Switch",
+              "id": "856739783577554949",
+              "name": "Nintendo Switch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2097698889881043325",
+        "created_at": "2026-09-09T14:49:23.000Z",
+        "display_text_range": [
+          0,
+          177
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097698889881043325"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 177,
+              "start": 162,
+              "tag": "NintendoDirect"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLtr5271Aa",
+              "end": 201,
+              "expanded_url": "https://x.com/NintendoAmerica/status/2097698889881043325/video/1",
+              "media_key": "13_2097698704589275136",
+              "start": 178,
+              "url": "https://t.co/JLtr5271Aa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097698889881043325",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097698704589275136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1568,
+          "impression_count": 1087353,
+          "like_count": 19844,
+          "quote_count": 1698,
+          "reply_count": 537,
+          "retweet_count": 5277
+        },
+        "reply_settings": "everyone",
+        "text": "Kirby and the World Beyond releases spring 2027 on Nintendo Switch 2!\n\nGet ready to explore the World Beyond using Copy Abilities in Kirby's latest 3D adventure. #NintendoDirect https://t.co/JLtr5271Aa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097722618161803770",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 226,
+          "like_count": 1788,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 989
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-04-18T22:43:15.000Z",
+        "description": "Welcome to the official Nintendo of America X account, where you'll find the latest Nintendo news! For ESRB ratings go to https://t.co/m7hrBqtrpz.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "esrb.org",
+                "end": 145,
+                "expanded_url": "http://esrb.org",
+                "start": 122,
+                "url": "https://t.co/m7hrBqtrpz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nintendo.com",
+                "end": 23,
+                "expanded_url": "https://www.nintendo.com",
+                "start": 0,
+                "url": "https://t.co/vLQB75RSnM"
+              }
+            ]
+          }
+        },
+        "id": "5162861",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097713703239983207",
+        "name": "Nintendo of America",
+        "pinned_tweet_id": "2097671362324107566",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5162861/1784840390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1539293929031421958/cy-uzR2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15688282,
+          "following_count": 230,
+          "like_count": 336,
+          "listed_count": 16845,
+          "media_count": 17326,
+          "tweet_count": 29839
+        },
+        "url": "https://t.co/vLQB75RSnM",
+        "username": "NintendoAmerica",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

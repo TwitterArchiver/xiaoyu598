@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2097349225243631935",
+    "created_at": "2026-09-08T15:39:56.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T16:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097349225243631935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2009848492915920896",
+          "start": 3,
+          "username": "1ya1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097349225243631935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096678002092630488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1ya1a: 杀你全家确实是我吹牛逼了 但我每天对着你照片导一发你有办法吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2097349225243631935",
+        "created_at": "2026-09-08T15:39:56.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097349225243631935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2009848492915920896",
+              "start": 3,
+              "username": "1ya1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097349225243631935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096678002092630488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1ya1a: 杀你全家确实是我吹牛逼了 但我每天对着你照片导一发你有办法吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009848492915920896",
+        "conversation_id": "2096678002092630488",
+        "created_at": "2026-09-06T19:12:44.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T20:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096678002092630488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096678002092630488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 131005,
+          "like_count": 2081,
+          "quote_count": 11,
+          "reply_count": 354,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "杀你全家确实是我吹牛逼了 但我每天对着你照片导一发你有办法吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097349225243631935",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 225,
+          "like_count": 1780,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 986
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-10T04:43:24.000Z",
+        "description": "",
+        "id": "2009848492915920896",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096678002092630488",
+        "name": "Babe",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096675908824473600/ey0VvE1S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 11,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "1ya1a",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

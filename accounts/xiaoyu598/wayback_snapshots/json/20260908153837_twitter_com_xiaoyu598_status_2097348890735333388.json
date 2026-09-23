@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2097348890735333388",
+    "created_at": "2026-09-08T15:38:37.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T16:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097348890735333388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751497892001685504",
+          "start": 3,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097348890735333388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097286370226229620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @45_206MHz: 注意：\n突然猝死可能是身体在向你求救"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2097348890735333388",
+        "created_at": "2026-09-08T15:38:37.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097348890735333388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751497892001685504",
+              "start": 3,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097348890735333388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097286370226229620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @45_206MHz: 注意：\n突然猝死可能是身体在向你求救"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "2097286370226229620",
+        "created_at": "2026-09-08T11:30:11.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097286370226229620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097286370226229620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 23444,
+          "like_count": 501,
+          "quote_count": 3,
+          "reply_count": 53,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "注意：\n突然猝死可能是身体在向你求救"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097348890735333388",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 225,
+          "like_count": 1778,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 985
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN | en-AU/NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @sudo_45_206 | 逃生舱: @45_206io | 🐱: @MomohaReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "sudo_45_206"
+              },
+              {
+                "end": 89,
+                "start": 80,
+                "username": "45_206io"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "MomohaReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "45.206mhz.com",
+                "end": 23,
+                "expanded_url": "http://45.206mhz.com",
+                "start": 0,
+                "url": "https://t.co/bRhXiVkO12"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "is_identity_verified": false,
+        "location": "maimai DX Circle (Int’l)",
+        "most_recent_tweet_id": "2097286370226229620",
+        "name": "45.206 MHᴢ",
+        "pinned_tweet_id": "2076918385678676330",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751497892001685504/1780239833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4051,
+          "following_count": 485,
+          "like_count": 39345,
+          "listed_count": 3,
+          "media_count": 1035,
+          "tweet_count": 5152
+        },
+        "url": "https://t.co/bRhXiVkO12",
+        "username": "45_206MHz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

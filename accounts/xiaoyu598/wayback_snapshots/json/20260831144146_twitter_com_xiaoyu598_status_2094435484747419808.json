@@ -1,0 +1,610 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1240049426959196160",
+          "name": "Kuzuha"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1240049426959196160",
+          "name": "Kuzuha"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240049426959196160",
+          "name": "Kuzuha"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2094435484747419808",
+    "created_at": "2026-08-31T14:41:46.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094435484747419808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kachiru_i/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/kachiru_i/status/2082766337534009777",
+          "start": 14,
+          "url": "https://t.co/v4IcWHvZXD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094435484747419808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082766337534009777",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "石据妈妈我爱你，我求你多画 https://t.co/v4IcWHvZXD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2082764858689478656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd3mqDaYAAJdYJ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240049426959196160",
+              "name": "Kuzuha"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240049426959196160",
+              "name": "Kuzuha"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240049426959196160",
+              "name": "Kuzuha"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2094435484747419808",
+        "created_at": "2026-08-31T14:41:46.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094435484747419808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kachiru_i/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/kachiru_i/status/2082766337534009777",
+              "start": 14,
+              "url": "https://t.co/v4IcWHvZXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094435484747419808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082766337534009777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "石据妈妈我爱你，我求你多画 https://t.co/v4IcWHvZXD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082764858689478656"
+          ]
+        },
+        "author_id": "125245841",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240049426959196160",
+              "name": "Kuzuha"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240049426959196160",
+              "name": "Kuzuha"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240049426959196160",
+              "name": "Kuzuha"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2082766337534009777",
+        "created_at": "2026-07-30T09:52:45.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082766337534009777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iK6R3zQLOS",
+              "end": 91,
+              "expanded_url": "https://x.com/kachiru_i/status/2082766337534009777/photo/1",
+              "media_key": "3_2082764858689478656",
+              "start": 68,
+              "url": "https://t.co/iK6R3zQLOS"
+            },
+            {
+              "display_url": "x.com/punkworkshop_j…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/punkworkshop_jp/status/2082753314446536829",
+              "start": 92,
+              "url": "https://t.co/BLO6xqn1w9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082766337534009777",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2082764858689478656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 638,
+          "impression_count": 491295,
+          "like_count": 12241,
+          "quote_count": 63,
+          "reply_count": 0,
+          "retweet_count": 1816
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082753314446536829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "「にじさんじ × PUNK WORKSHOP」コラボにて、叶さんと葛葉さんのお姿を撮り下ろさせて頂きました📸\n宜しくお願いいたします～ https://t.co/iK6R3zQLOS https://t.co/BLO6xqn1w9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094435484747419808",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 229,
+          "like_count": 1752,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 977
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-03-22T05:29:47.000Z",
+        "description": "漫画家/絵/作詞\nおおまかなお仕事絵⇒ハイライト\n漫画｜＃ファントムルース #Rosenblood  ＃空挺懐古都市 ＃イルゲネス\n音楽｜＃ELFENSJóN\nｷｬﾗﾃﾞｻﾞ原案｜@CYikemenprince\n Vtuberさん｜@sonny_brisko / @Ayme_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 28,
+                "tag": "ファントムルース"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "tag": "Rosenblood"
+              },
+              {
+                "end": 58,
+                "start": 51,
+                "tag": "空挺懐古都市"
+              },
+              {
+                "end": 65,
+                "start": 59,
+                "tag": "イルゲネス"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "tag": "ELFENSJóN"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 90,
+                "username": "CYikemenprince"
+              },
+              {
+                "end": 129,
+                "start": 116,
+                "username": "sonny_brisko"
+              },
+              {
+                "end": 146,
+                "start": 132,
+                "username": "Ayme_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kachiru",
+                "end": 23,
+                "expanded_url": "https://lit.link/kachiru",
+                "start": 0,
+                "url": "https://t.co/kqrq1HkxZe"
+              }
+            ]
+          }
+        },
+        "id": "125245841",
+        "is_identity_verified": false,
+        "location": "🚫画像の無断使用＆転載＆AI学習・編集禁止",
+        "most_recent_tweet_id": "2094424016367112309",
+        "name": "石据カチル＠エンジョイ勢",
+        "pinned_tweet_id": "2086716189578019057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/125245841/1773387944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1059678281690042368/t-MPfotg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139860,
+          "following_count": 673,
+          "like_count": 12298,
+          "listed_count": 821,
+          "media_count": 2530,
+          "tweet_count": 73992
+        },
+        "url": "https://t.co/kqrq1HkxZe",
+        "username": "kachiru_i",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

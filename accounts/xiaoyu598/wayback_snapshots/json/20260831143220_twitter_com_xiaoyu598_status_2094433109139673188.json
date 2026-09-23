@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2094433109139673188",
+    "created_at": "2026-08-31T14:32:20.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094433109139673188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moesoalt/statu…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/moesoalt/status/2061055043441398048",
+          "start": 26,
+          "url": "https://t.co/ulfillvHll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094433109139673188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061055043441398048",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只有亲妈画的脸是好看的，欧美人的审美糟糕的让我想哭 https://t.co/ulfillvHll"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2061055040257970176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpWo6Ea0AAgz2v.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2061055038274052096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpWoyraoAAWcoo.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1078,
+        "media_key": "3_2061055040375447552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpWo6gbYAAFTXp.jpg",
+        "width": 1916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2094433109139673188",
+        "created_at": "2026-08-31T14:32:20.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094433109139673188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moesoalt/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/moesoalt/status/2061055043441398048",
+              "start": 26,
+              "url": "https://t.co/ulfillvHll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094433109139673188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061055043441398048",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有亲妈画的脸是好看的，欧美人的审美糟糕的让我想哭 https://t.co/ulfillvHll"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061055040257970176",
+            "3_2061055038274052096",
+            "3_2061055040375447552"
+          ]
+        },
+        "author_id": "1930861948591280128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061055043441398048",
+        "created_at": "2026-05-31T11:59:49.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061055043441398048"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 76,
+              "tag": "RenZotto"
+            },
+            {
+              "end": 104,
+              "start": 86,
+              "tag": "RenZotto3rdOutfit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHECH9dVsN",
+              "end": 128,
+              "expanded_url": "https://x.com/moesoalt/status/2061055043441398048/photo/1",
+              "media_key": "3_2061055040257970176",
+              "start": 105,
+              "url": "https://t.co/dHECH9dVsN"
+            },
+            {
+              "display_url": "pic.x.com/dHECH9dVsN",
+              "end": 128,
+              "expanded_url": "https://x.com/moesoalt/status/2061055043441398048/photo/1",
+              "media_key": "3_2061055038274052096",
+              "start": 105,
+              "url": "https://t.co/dHECH9dVsN"
+            },
+            {
+              "display_url": "pic.x.com/dHECH9dVsN",
+              "end": 128,
+              "expanded_url": "https://x.com/moesoalt/status/2061055043441398048/photo/1",
+              "media_key": "3_2061055040375447552",
+              "start": 105,
+              "url": "https://t.co/dHECH9dVsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061055043441398048",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2061055040257970176"
+          },
+          {
+            "media_key": "3_2061055038274052096"
+          },
+          {
+            "media_key": "3_2061055040375447552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3337,
+          "like_count": 138,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "Take the whole planet 🫴🌏\nOur one and only Alien Prince, Ren Zotto-sama!! 👑💚\n#RenZotto #RenZotto3rdOutfit https://t.co/dHECH9dVsN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094433109139673188",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 228,
+          "like_count": 1752,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 976
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-06T05:39:37.000Z",
+        "description": "Ren Zotto😈🛸│もえそちゃん(moeso-chan)(rainb0w_m0e)は🧊しました│よろしければこちらをフォローお願いします🫶Follows welcome!💚│切り抜きの字幕等は参考程度でお願いします Learning English, please bear with me🙏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC0MYe…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC0MYe7gzlM7cyJwkBrua_uw?si=iZp0wy_Oi5rQ3BdD",
+                "start": 0,
+                "url": "https://t.co/bfF4mQEZzh"
+              }
+            ]
+          }
+        },
+        "id": "1930861948591280128",
+        "is_identity_verified": false,
+        "location": "🇯🇵",
+        "most_recent_tweet_id": "2094385654784471169",
+        "name": "もえそちゃん_moeso-chan",
+        "pinned_tweet_id": "2078993472594596074",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1930861948591280128/1762304399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930937336256446464/w8KJbi63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 229,
+          "like_count": 6852,
+          "listed_count": 4,
+          "media_count": 801,
+          "tweet_count": 5946
+        },
+        "url": "https://t.co/bfF4mQEZzh",
+        "username": "moesoalt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

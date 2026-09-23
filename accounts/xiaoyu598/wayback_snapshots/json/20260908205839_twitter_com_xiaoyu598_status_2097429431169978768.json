@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2097429431169978768",
+    "created_at": "2026-09-08T20:58:39.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T21:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097429431169978768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zza2ku/status/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/zza2ku/status/2097132796863266901",
+          "start": 16,
+          "url": "https://t.co/DZemznhOq4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097429431169978768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097132796863266901",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不如两万mg普瑞巴林有节目效果 https://t.co/DZemznhOq4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1746,
+        "media_key": "3_2097132771680673792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqDJQ7bYAAfsMJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1255,
+        "media_key": "3_2097132780060909568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqDJwJboAArECr.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2097132789116346368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqDKR4aoAAI0MB.jpg",
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2097429431169978768",
+        "created_at": "2026-09-08T20:58:39.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T21:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097429431169978768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zza2ku/status/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/zza2ku/status/2097132796863266901",
+              "start": 16,
+              "url": "https://t.co/DZemznhOq4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097429431169978768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097132796863266901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不如两万mg普瑞巴林有节目效果 https://t.co/DZemznhOq4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097132771680673792",
+            "3_2097132780060909568",
+            "3_2097132789116346368"
+          ]
+        },
+        "author_id": "2092971438521077760",
+        "conversation_id": "2097132796863266901",
+        "created_at": "2026-09-08T01:19:56.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T02:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097132796863266901"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "跨圈急事报"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWHCeoqliU",
+              "end": 45,
+              "expanded_url": "https://x.com/zza2ku/status/2097132796863266901/photo/1",
+              "media_key": "3_2097132771680673792",
+              "start": 22,
+              "url": "https://t.co/RWHCeoqliU"
+            },
+            {
+              "display_url": "pic.x.com/RWHCeoqliU",
+              "end": 45,
+              "expanded_url": "https://x.com/zza2ku/status/2097132796863266901/photo/1",
+              "media_key": "3_2097132780060909568",
+              "start": 22,
+              "url": "https://t.co/RWHCeoqliU"
+            },
+            {
+              "display_url": "pic.x.com/RWHCeoqliU",
+              "end": 45,
+              "expanded_url": "https://x.com/zza2ku/status/2097132796863266901/photo/1",
+              "media_key": "3_2097132789116346368",
+              "start": 22,
+              "url": "https://t.co/RWHCeoqliU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097132796863266901",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097132771680673792"
+          },
+          {
+            "media_key": "3_2097132780060909568"
+          },
+          {
+            "media_key": "3_2097132789116346368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 39759,
+          "like_count": 166,
+          "quote_count": 16,
+          "reply_count": 105,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "n55吞药自杀，目前生死不明\n#跨圈急事报 https://t.co/RWHCeoqliU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097429431169978768",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 226,
+          "like_count": 1780,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 987
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:46:37.000Z",
+        "description": "mtf，粉红\n混合性焦虑抑郁障碍",
+        "id": "2092971438521077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097376641010024660",
+        "name": "拆腻丝🏳️‍⚧️",
+        "pinned_tweet_id": "2092974029145886789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092971438521077760/1787838823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094769799742267392/T7q_fo6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 76,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 233
+        },
+        "url": "",
+        "username": "zza2ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2094445390015938666",
+    "created_at": "2026-09-01T18:42:12.000Z",
+    "display_text_range": [
+      25,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T19:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094858378535109045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786565196913541120",
+          "start": 0,
+          "username": "dimangmu8964"
+        },
+        {
+          "end": 24,
+          "id": "1703762928",
+          "start": 14,
+          "username": "1965chich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094858378535109045",
+    "in_reply_to_user_id": "1786565196913541120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094445390015938666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dimangmu8964 @1965chich 娥肚肚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2094445390015938666",
+        "created_at": "2026-09-01T18:42:12.000Z",
+        "display_text_range": [
+          25,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T19:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094858378535109045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786565196913541120",
+              "start": 0,
+              "username": "dimangmu8964"
+            },
+            {
+              "end": 24,
+              "id": "1703762928",
+              "start": 14,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094858378535109045",
+        "in_reply_to_user_id": "1786565196913541120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094445390015938666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dimangmu8964 @1965chich 娥肚肚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786565196913541120",
+        "conversation_id": "2094445390015938666",
+        "created_at": "2026-08-31T15:21:08.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094445390015938666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sypshenlipu/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/sypshenlipu/status/2094390975238132189",
+              "start": 27,
+              "url": "https://t.co/5SMDIusc8j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094445390015938666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 118566,
+          "like_count": 1599,
+          "quote_count": 6,
+          "reply_count": 90,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094390975238132189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "错了，是八个男的，并且其中一个5天没洗澡，被7位嫌弃 https://t.co/5SMDIusc8j"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094858378535109045",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 230,
+          "like_count": 1763,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 980
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T01:15:24.000Z",
+        "description": "红兔脚扑朔，绿蛙眼迷离；蛙兔傍地走，安能辨我是红绿？",
+        "id": "1786565196913541120",
+        "is_identity_verified": false,
+        "location": "驻马店市, 河南省",
+        "most_recent_tweet_id": "2094759427400475066",
+        "name": "迅鴿🕊️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786565196913541120/1772795674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888808700875509760/Myhp0mOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2373,
+          "following_count": 1146,
+          "like_count": 134462,
+          "listed_count": 20,
+          "media_count": 1620,
+          "tweet_count": 34961
+        },
+        "url": "",
+        "username": "dimangmu8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到互联网上的大王KFC的内心世界 非跨/不会尊重人的关小黑屋/敌蜜@akui1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "akui1121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/pdROfRxwRx"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2094856295832858775",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1943737094880604528",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1703762928/1737315994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036915004172296192/eM928-u__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9453,
+          "following_count": 1267,
+          "like_count": 28591,
+          "listed_count": 11,
+          "media_count": 428,
+          "tweet_count": 9270
+        },
+        "url": "https://t.co/pdROfRxwRx",
+        "username": "1965chich",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

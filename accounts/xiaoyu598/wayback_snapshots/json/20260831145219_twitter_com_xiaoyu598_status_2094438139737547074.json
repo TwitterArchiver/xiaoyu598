@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2093773564927504653",
+    "created_at": "2026-08-31T14:52:19.000Z",
+    "display_text_range": [
+      35,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094438139737547074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1464941699889696768",
+          "start": 0,
+          "username": "drugs_artists"
+        },
+        {
+          "end": 25,
+          "id": "2063957681984225280",
+          "start": 15,
+          "username": "YuwenMewo"
+        },
+        {
+          "end": 34,
+          "id": "1132729630245265408",
+          "start": 26,
+          "username": "pr80net"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094438139737547074",
+    "in_reply_to_user_id": "1464941699889696768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093773564927504653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drugs_artists @YuwenMewo @pr80net 好突然。。。rip"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3248,
+        "media_key": "3_2093773553435045888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ6T9ByacAAEccY.jpg",
+        "width": 3064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2093773564927504653",
+        "created_at": "2026-08-31T14:52:19.000Z",
+        "display_text_range": [
+          35,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094438139737547074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1464941699889696768",
+              "start": 0,
+              "username": "drugs_artists"
+            },
+            {
+              "end": 25,
+              "id": "2063957681984225280",
+              "start": 15,
+              "username": "YuwenMewo"
+            },
+            {
+              "end": 34,
+              "id": "1132729630245265408",
+              "start": 26,
+              "username": "pr80net"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094438139737547074",
+        "in_reply_to_user_id": "1464941699889696768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093773564927504653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drugs_artists @YuwenMewo @pr80net 好突然。。。rip"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093773553435045888"
+          ]
+        },
+        "author_id": "1464941699889696768",
+        "conversation_id": "2093773564927504653",
+        "created_at": "2026-08-29T18:51:32.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T19:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093773564927504653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1132729630245265408",
+              "start": 8,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQHd4BwmR8",
+              "end": 186,
+              "expanded_url": "https://x.com/drugs_artists/status/2093773564927504653/photo/1",
+              "media_key": "3_2093773553435045888",
+              "start": 163,
+              "url": "https://t.co/rQHd4BwmR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093773564927504653",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093773553435045888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 30357,
+          "like_count": 283,
+          "quote_count": 21,
+          "reply_count": 119,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n永夜安港@pr80net现运营人\n扎克另一个运营者\n璐璐璐森堡 真名王嘉雨 化名姚志云\n死因是服用60t右美+两瓶西柚汁与 84mg专注达和普瑞巴林\n早上八点睡觉中逐渐呼吸抑制窒息猝死\n1点他妈喊他发货时人就已经没了\n我本想看护 但他对我说Leave me alone 我很自责\n已经火化了骨灰寄存在殡仪馆\n沉重悼念 https://t.co/rQHd4BwmR8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094438139737547074",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 232,
+          "like_count": 1755,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 979
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-28T12:58:24.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|4i男娘INFPI|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!年号雨玄二年名人堂梦工厂RC-沐雨零售策划药产品联系我的tg：@drug_artist 我的双子星：@qiyueqiye11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 97,
+                "username": "drug_artist"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "qiyueqiye11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/7EyvDSe3J6"
+              }
+            ]
+          }
+        },
+        "id": "1464941699889696768",
+        "is_identity_verified": false,
+        "location": "Xanax天国8mg自治区",
+        "most_recent_tweet_id": "2093775431778673017",
+        "name": "沐雨八世",
+        "pinned_tweet_id": "2093068227492651062",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464941699889696768/1787861084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093066704456953856/2BIY4fKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 45,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/7EyvDSe3J6",
+        "username": "drugs_artists",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己\n我的telegram群：https://t.co/7n12aPlryP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+UFtO_LPe9vA0O…",
+                "end": 101,
+                "expanded_url": "https://t.me/+UFtO_LPe9vA0OTJk",
+                "start": 78,
+                "url": "https://t.co/7n12aPlryP"
+              }
+            ]
+          }
+        },
+        "id": "2063957681984225280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094433204795261027",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2093322955522720113",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063957681984225280/1781144220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2392,
+          "following_count": 87,
+          "like_count": 206,
+          "listed_count": 8,
+          "media_count": 771,
+          "tweet_count": 2889
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @17_ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "17_ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2093429909016441180",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2093316083445063776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 614,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

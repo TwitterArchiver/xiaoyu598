@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2094065031000571961",
+    "created_at": "2026-08-31T14:04:23.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094426073156993411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964331185590718464",
+          "start": 0,
+          "username": "breakcoreWTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094426073156993411",
+    "in_reply_to_user_id": "1964331185590718464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094065031000571961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@breakcoreWTF 聆听这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2094065031000571961",
+        "created_at": "2026-08-31T14:04:23.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094426073156993411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094426073156993411",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094065031000571961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 聆听这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2094065031000571961",
+        "created_at": "2026-08-30T14:09:43.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094065031000571961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094065031000571961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 526,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妹一直在我旁边小心震荡啥意思"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094426073156993411",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 228,
+          "like_count": 1751,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 972
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关请私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2094415561086345466",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 807,
+          "like_count": 44849,
+          "listed_count": 0,
+          "media_count": 448,
+          "tweet_count": 7998
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

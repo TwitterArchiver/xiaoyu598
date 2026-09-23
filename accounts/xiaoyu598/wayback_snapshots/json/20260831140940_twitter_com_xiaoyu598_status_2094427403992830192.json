@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2094332905925267560",
+    "created_at": "2026-08-31T14:09:40.000Z",
+    "display_text_range": [
+      17,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094427403992830192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1347569655834169344",
+          "start": 0,
+          "username": "ccngov"
+        },
+        {
+          "end": 16,
+          "id": "2090348740250906624",
+          "start": 8,
+          "username": "Uuucvea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094427403992830192",
+    "in_reply_to_user_id": "1347569655834169344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094427217153429597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccngov @Uuucvea 我小时候的才华只能我一个人欣赏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2094332905925267560",
+        "created_at": "2026-08-31T14:09:40.000Z",
+        "display_text_range": [
+          17,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094427403992830192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1347569655834169344",
+              "start": 0,
+              "username": "ccngov"
+            },
+            {
+              "end": 16,
+              "id": "2090348740250906624",
+              "start": 8,
+              "username": "Uuucvea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094427403992830192",
+        "in_reply_to_user_id": "1347569655834169344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094427217153429597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccngov @Uuucvea 我小时候的才华只能我一个人欣赏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347569655834169344",
+        "conversation_id": "2094332905925267560",
+        "created_at": "2026-08-31T14:08:55.000Z",
+        "display_text_range": [
+          20,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094427217153429597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1686682563937792000",
+              "start": 0,
+              "username": "xiaoyu598"
+            },
+            {
+              "end": 19,
+              "id": "2090348740250906624",
+              "start": 11,
+              "username": "Uuucvea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094427217153429597",
+        "in_reply_to_user_id": "1686682563937792000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094427120478928903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyu598 @Uuucvea 那一起读一读？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094427403992830192",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076856954274942976/64Lus63F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 228,
+          "like_count": 1751,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 974
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-08T15:43:48.000Z",
+        "description": "I like Paradox games and Nemlei games\nTankie\nMy Personal Menace❤️: @xiaoyu598",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "xiaoyu598"
+              }
+            ]
+          }
+        },
+        "id": "1347569655834169344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094427217153429597",
+        "name": "ZGCH",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1347569655834169344/1781577988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076857335973076992/hDgxIw8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 7,
+          "like_count": 694,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "ccngov",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T08:03:03.000Z",
+        "description": "礼貌你我他｜172cm｜46kg｜年龄是永远18岁｜屁话巨多的碎碎念大王\n此账号用来发抽象文字和日常碎碎念（屁话真多）每天不定时发帖 帖子内容..是想到啥发啥",
+        "id": "2090348740250906624",
+        "is_identity_verified": false,
+        "location": "🚪188 288 588",
+        "most_recent_tweet_id": "2094401588626374989",
+        "name": "Uuu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090348740250906624/1787213505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090350108348932096/B6xaOmpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3473,
+          "following_count": 11,
+          "like_count": 707,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1061
+        },
+        "url": "",
+        "username": "Uuucvea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
