@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103655428236431360"
+      ],
+      "media_source_tweet_id": [
+        "2103655437933613149"
+      ]
+    },
+    "author_id": "1686682563937792000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2103941970385326323",
+    "created_at": "2026-09-26T20:17:09.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T21:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103941970385326323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1333662019833131010",
+          "start": 3,
+          "username": "_kohachi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2X3QOqW490",
+          "end": 48,
+          "expanded_url": "https://x.com/_kohachi/status/2103655437933613149/photo/1",
+          "media_key": "3_2103655428236431360",
+          "start": 25,
+          "url": "https://t.co/2X3QOqW490"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103941970385326323",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103655428236431360"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 493
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103655437933613149",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_kohachi: がとーしょこらぽよ！ https://t.co/2X3QOqW490"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103655428236431360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGvd2Ha0AAEzV7.jpg",
+        "width": 1532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103655428236431360"
+          ],
+          "media_source_tweet_id": [
+            "2103655437933613149"
+          ]
+        },
+        "author_id": "1686682563937792000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2103941970385326323",
+        "created_at": "2026-09-26T20:17:09.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T21:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103941970385326323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1333662019833131010",
+              "start": 3,
+              "username": "_kohachi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2X3QOqW490",
+              "end": 48,
+              "expanded_url": "https://x.com/_kohachi/status/2103655437933613149/photo/1",
+              "media_key": "3_2103655428236431360",
+              "start": 25,
+              "url": "https://t.co/2X3QOqW490"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103941970385326323",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103655428236431360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 493
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103655437933613149",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_kohachi: がとーしょこらぽよ！ https://t.co/2X3QOqW490"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103655428236431360"
+          ]
+        },
+        "author_id": "1333662019833131010",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2103655437933613149",
+        "created_at": "2026-09-26T01:18:35.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T02:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103655437933613149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2X3QOqW490",
+              "end": 34,
+              "expanded_url": "https://x.com/_kohachi/status/2103655437933613149/photo/1",
+              "media_key": "3_2103655428236431360",
+              "start": 11,
+              "url": "https://t.co/2X3QOqW490"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103655437933613149",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103655428236431360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 57147,
+          "like_count": 4442,
+          "quote_count": 20,
+          "reply_count": 5,
+          "retweet_count": 493
+        },
+        "reply_settings": "everyone",
+        "text": "がとーしょこらぽよ！ https://t.co/2X3QOqW490"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103941970385326323",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097726038239584256/UxOH9Qjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 222,
+          "like_count": 1804,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1005
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-01T06:39:58.000Z",
+        "description": "カービィちゃんがだいすきなひとです🌟⋆꙳",
+        "id": "1333662019833131010",
+        "is_identity_verified": false,
+        "location": "プププランド",
+        "most_recent_tweet_id": "2103799600423518438",
+        "name": "こはち🍫",
+        "pinned_tweet_id": "2020385316012716252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1333662019833131010/1745684051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078277686867410945/x7dOka61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 100,
+          "like_count": 14830,
+          "listed_count": 4,
+          "media_count": 458,
+          "tweet_count": 3708
+        },
+        "url": "",
+        "username": "_kohachi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

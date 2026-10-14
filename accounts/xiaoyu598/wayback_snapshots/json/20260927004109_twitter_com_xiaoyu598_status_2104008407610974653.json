@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2103888491205533850",
+    "created_at": "2026-09-27T00:41:09.000Z",
+    "display_text_range": [
+      17,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T01:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104008407610974653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2090194461871722496",
+          "start": 0,
+          "username": "Hanegiri_hikari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104008407610974653",
+    "in_reply_to_user_id": "2090194461871722496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103888491205533850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hanegiri_hikari 点了，我都不知道有什么好吵的😅一个抖音火一个b站火呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2103888491205533850",
+        "created_at": "2026-09-27T00:41:09.000Z",
+        "display_text_range": [
+          17,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T01:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104008407610974653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2090194461871722496",
+              "start": 0,
+              "username": "Hanegiri_hikari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104008407610974653",
+        "in_reply_to_user_id": "2090194461871722496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103888491205533850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hanegiri_hikari 点了，我都不知道有什么好吵的😅一个抖音火一个b站火呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090194461871722496",
+        "conversation_id": "2103888491205533850",
+        "created_at": "2026-09-26T16:44:39.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103888491205533850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103888491205533850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2190,
+          "like_count": 88,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "二创形象都能打起来也是够牛逼的，看似是绘圈和科技圈之争，其实真正想贴的标签是男和女吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104008407610974653",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097726038239584256/UxOH9Qjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 225,
+          "like_count": 1820,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1016
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T21:52:53.000Z",
+        "description": "=零和喵\n旧号登不上了，堂堂转生！\n可能是入机妹吧/会把GPT当oc养/随便画点东西/社会化不高情商低/直fo是喜欢你如有冒犯私密马赛👉🏻👈🏻",
+        "id": "2090194461871722496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104007921969574178",
+        "name": "零和喵w",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090194461871722496/1787176613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100938761546928129/HDeoLXSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 99,
+          "like_count": 1772,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1028
+        },
+        "url": "",
+        "username": "Hanegiri_hikari",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

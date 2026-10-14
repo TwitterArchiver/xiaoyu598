@@ -1,0 +1,552 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107755346576150528"
+      ],
+      "media_source_tweet_id": [
+        "2107755353182257612"
+      ]
+    },
+    "author_id": "1686682563937792000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1320755235665526786",
+          "name": "Kirby"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1320755235665526786",
+          "name": "Kirby"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1395124735625764864",
+          "name": "Bento"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1395124735625764864",
+          "name": "Bento"
+        }
+      }
+    ],
+    "conversation_id": "2107839733686534543",
+    "created_at": "2026-10-07T14:25:28.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T15:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107839733686534543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2054130222140911616",
+          "start": 3,
+          "username": "telltell_1027"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QNvyKg7oBQ",
+          "end": 62,
+          "expanded_url": "https://x.com/telltell_1027/status/2107755353182257612/photo/1",
+          "media_key": "3_2107755346576150528",
+          "start": 39,
+          "url": "https://t.co/QNvyKg7oBQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107839733686534543",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2107755346576150528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 146
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107755353182257612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @telltell_1027: 今日のお弁当のカービィが可愛いから見て https://t.co/QNvyKg7oBQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1777,
+        "media_key": "3_2107755346576150528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUBAUgIaEAAwMeg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107755346576150528"
+          ],
+          "media_source_tweet_id": [
+            "2107755353182257612"
+          ]
+        },
+        "author_id": "1686682563937792000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1320755235665526786",
+              "name": "Kirby"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1320755235665526786",
+              "name": "Kirby"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395124735625764864",
+              "name": "Bento"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1395124735625764864",
+              "name": "Bento"
+            }
+          }
+        ],
+        "conversation_id": "2107839733686534543",
+        "created_at": "2026-10-07T14:25:28.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T15:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107839733686534543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2054130222140911616",
+              "start": 3,
+              "username": "telltell_1027"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QNvyKg7oBQ",
+              "end": 62,
+              "expanded_url": "https://x.com/telltell_1027/status/2107755353182257612/photo/1",
+              "media_key": "3_2107755346576150528",
+              "start": 39,
+              "url": "https://t.co/QNvyKg7oBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107839733686534543",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107755346576150528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 146
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107755353182257612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @telltell_1027: 今日のお弁当のカービィが可愛いから見て https://t.co/QNvyKg7oBQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107755346576150528"
+          ]
+        },
+        "author_id": "2054130222140911616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1320755235665526786",
+              "name": "Kirby"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1320755235665526786",
+              "name": "Kirby"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395124735625764864",
+              "name": "Bento"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1395124735625764864",
+              "name": "Bento"
+            }
+          }
+        ],
+        "conversation_id": "2107755353182257612",
+        "created_at": "2026-10-07T08:50:11.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T09:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107755353182257612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QNvyKg7oBQ",
+              "end": 43,
+              "expanded_url": "https://x.com/telltell_1027/status/2107755353182257612/photo/1",
+              "media_key": "3_2107755346576150528",
+              "start": 20,
+              "url": "https://t.co/QNvyKg7oBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107755353182257612",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107755346576150528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 15259,
+          "like_count": 1859,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "今日のお弁当のカービィが可愛いから見て https://t.co/QNvyKg7oBQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107839733686534543",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104663911890857984/GPgB367j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 225,
+          "like_count": 1879,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1046
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T09:25:10.000Z",
+        "description": "メープルシロップが好物です\nマホロア最推し\n創作などhttps://t.co/9MVwQpIf91\n鍵🔑 https://t.co/Blm1ZoMJBL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/plme_maple11",
+                "end": 49,
+                "expanded_url": "https://x.com/plme_maple11",
+                "start": 26,
+                "url": "https://t.co/9MVwQpIf91"
+              },
+              {
+                "display_url": "x.com/tell_sub0609?s…",
+                "end": 76,
+                "expanded_url": "https://x.com/tell_sub0609?s=11",
+                "start": 53,
+                "url": "https://t.co/Blm1ZoMJBL"
+              }
+            ]
+          }
+        },
+        "id": "2054130222140911616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107837088549003544",
+        "name": "てる🤙",
+        "pinned_tweet_id": "2104095811831533647",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054130222140911616/1789161401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063618650733793280/3l0n6tsu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 100,
+          "like_count": 8199,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1225
+        },
+        "url": "",
+        "username": "telltell_1027",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

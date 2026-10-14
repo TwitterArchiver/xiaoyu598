@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2103528500132983154",
+    "created_at": "2026-09-25T16:54:10.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T17:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103528500132983154"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/arashiko_lll/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/arashiko_lll/status/1631003434790043648",
+          "start": 13,
+          "url": "https://t.co/JCgsOLl6ob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103528500132983154",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1631003434790043648",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "雅莫🫪雅莫😋雅莫😭雅莫🥰 https://t.co/JCgsOLl6ob"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1631002961257304065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FqJ8jUVaEAEbtS-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2103528500132983154",
+        "created_at": "2026-09-25T16:54:10.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T17:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103528500132983154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arashiko_lll/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/arashiko_lll/status/1631003434790043648",
+              "start": 13,
+              "url": "https://t.co/JCgsOLl6ob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103528500132983154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1631003434790043648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雅莫🫪雅莫😋雅莫😭雅莫🥰 https://t.co/JCgsOLl6ob"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1631002961257304065"
+          ]
+        },
+        "author_id": "1300852048049573888",
+        "conversation_id": "1631003434790043648",
+        "created_at": "2023-03-01T18:48:16.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2023-03-01T19:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1631003434790043648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/irxue80plp",
+              "end": 41,
+              "expanded_url": "https://x.com/Arashiko_falcom/status/1631003434790043648/photo/1",
+              "media_key": "3_1631002961257304065",
+              "start": 18,
+              "url": "https://t.co/irxue80plp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1631003434790043648",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_1631002961257304065"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10648,
+          "like_count": 125,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "就不翻译了，我是懒狗，总之ヤコモル https://t.co/irxue80plp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103528500132983154",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097726038239584256/UxOH9Qjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 220,
+          "like_count": 1788,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 999
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T17:44:41.000Z",
+        "description": "简中 JP/ENok /20↑腐あり/ゲーム雑多/ファルコム/ファタモル/最近は亰ザナ",
+        "id": "1300852048049573888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103481548943343866",
+        "name": "嵐子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300852048049573888/1598982793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633175877080186880/Hgu9RjFz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3816,
+          "following_count": 435,
+          "like_count": 989,
+          "listed_count": 35,
+          "media_count": 181,
+          "tweet_count": 837
+        },
+        "url": "",
+        "username": "Arashiko_lll",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

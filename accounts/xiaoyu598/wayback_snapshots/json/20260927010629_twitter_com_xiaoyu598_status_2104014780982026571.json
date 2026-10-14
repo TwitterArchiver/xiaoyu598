@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2104014780982026571",
+    "created_at": "2026-09-27T01:06:29.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T02:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104014780982026571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1804721568955912192",
+          "start": 3,
+          "username": "tart_egg25188"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104014780982026571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103687547683754003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tart_egg25188: 我最擅长的有氧运动是忍气吞声"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2104014780982026571",
+        "created_at": "2026-09-27T01:06:29.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T02:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104014780982026571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1804721568955912192",
+              "start": 3,
+              "username": "tart_egg25188"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104014780982026571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103687547683754003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tart_egg25188: 我最擅长的有氧运动是忍气吞声"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804721568955912192",
+        "conversation_id": "2103687547683754003",
+        "created_at": "2026-09-26T03:26:10.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T04:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103687547683754003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103687547683754003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13974,
+          "like_count": 359,
+          "quote_count": 3,
+          "reply_count": 58,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "我最擅长的有氧运动是忍气吞声"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104014780982026571",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097726038239584256/UxOH9Qjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 225,
+          "like_count": 1828,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1021
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T03:42:29.000Z",
+        "description": "和我一起涨粉吧～关注我的朋友都会得到回关\n00后/商科硕士/雅思7.5/web3/萌妹/互联网该溜子",
+        "id": "1804721568955912192",
+        "is_identity_verified": false,
+        "location": "我要发好多好多好多文案",
+        "most_recent_tweet_id": "2104007361543163994",
+        "name": "egg tart（互～回～）",
+        "pinned_tweet_id": "2100048059917070714",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804721568955912192/1789077908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098170890928455680/Sm19-I1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4954,
+          "following_count": 2863,
+          "like_count": 24748,
+          "listed_count": 4,
+          "media_count": 117,
+          "tweet_count": 9971
+        },
+        "url": "",
+        "username": "tart_egg25188",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

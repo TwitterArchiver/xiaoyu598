@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2107836988472901995",
+    "created_at": "2026-10-07T14:14:34.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T15:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107836988472901995"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ddt_scene/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ddt_scene/status/2107430978478309503",
+          "start": 5,
+          "url": "https://t.co/OE5PLk1llD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107836988472901995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107430978478309503",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了 https://t.co/OE5PLk1llD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2107430968743350272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8ZTOia0AAU76w.jpg",
+        "width": 484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2107836988472901995",
+        "created_at": "2026-10-07T14:14:34.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T15:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107836988472901995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ddt_scene/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ddt_scene/status/2107430978478309503",
+              "start": 5,
+              "url": "https://t.co/OE5PLk1llD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107836988472901995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107430978478309503",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了 https://t.co/OE5PLk1llD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107430968743350272"
+          ]
+        },
+        "author_id": "1375939366242160641",
+        "conversation_id": "2107369605236953486",
+        "created_at": "2026-10-06T11:21:14.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107430978478309503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1637395614055952384",
+              "start": 0,
+              "username": "Furinanatw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lxhr867zs6",
+              "end": 52,
+              "expanded_url": "https://x.com/DDT_Scene/status/2107430978478309503/photo/1",
+              "media_key": "3_2107430968743350272",
+              "start": 29,
+              "url": "https://t.co/Lxhr867zs6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107430978478309503",
+        "in_reply_to_user_id": "1637395614055952384",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107430968743350272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 79845,
+          "like_count": 660,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107369605236953486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "@Furinanatw 毛泽东看到后表情be like： https://t.co/Lxhr867zs6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107836988472901995",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104663911890857984/GPgB367j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 225,
+          "like_count": 1878,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1045
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-27T22:34:51.000Z",
+        "description": "一个好人\npoopjeets杀手🥷",
+        "id": "1375939366242160641",
+        "is_identity_verified": false,
+        "location": "驻马店，俺拾大道，左起第三盖",
+        "most_recent_tweet_id": "2107800149028429951",
+        "name": "半張飛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1375939366242160641/1763911909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992617032483848192/HT8w4CWE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 99,
+          "like_count": 14157,
+          "listed_count": 3,
+          "media_count": 363,
+          "tweet_count": 8764
+        },
+        "url": "",
+        "username": "DDT_Scene",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-19T10:09:17.000Z",
+        "description": "专业梗图制作20年。",
+        "id": "1637395614055952384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107733126026072326",
+        "name": "芙宁娜娜💙(2号）",
+        "pinned_tweet_id": "2053853925543997648",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637395614055952384/1787821976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034353403413815296/jobxBFGx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5080,
+          "following_count": 493,
+          "like_count": 1019,
+          "listed_count": 16,
+          "media_count": 304,
+          "tweet_count": 348
+        },
+        "url": "",
+        "username": "Furinanatw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

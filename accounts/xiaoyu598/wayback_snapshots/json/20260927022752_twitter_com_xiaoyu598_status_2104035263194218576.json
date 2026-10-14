@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2104035263194218576",
+    "created_at": "2026-09-27T02:27:52.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T03:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104035263194218576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2051990529483927552",
+          "start": 3,
+          "username": "Heartfe1tear7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104035263194218576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103708010552205513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Heartfe1tear7: 并不是所有的前任都该死 比如我 我也是别人的前任 但我就是很好的人 我可以活着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2104035263194218576",
+        "created_at": "2026-09-27T02:27:52.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T03:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104035263194218576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2051990529483927552",
+              "start": 3,
+              "username": "Heartfe1tear7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104035263194218576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103708010552205513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Heartfe1tear7: 并不是所有的前任都该死 比如我 我也是别人的前任 但我就是很好的人 我可以活着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051990529483927552",
+        "conversation_id": "2103708010552205513",
+        "created_at": "2026-09-26T04:47:29.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T05:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103708010552205513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103708010552205513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2059,
+          "like_count": 77,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "并不是所有的前任都该死 比如我 我也是别人的前任 但我就是很好的人 我可以活着"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104035263194218576",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097726038239584256/UxOH9Qjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 226,
+          "like_count": 1840,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1026
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-06T11:45:51.000Z",
+        "description": "i was only temporary 2 u\nswitch 双 @Na1vetear7\n不约不线下不聊骚不回私信\n只加互关 骂我先给我打钱\n防走丢 @Amuletus7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "Na1vetear7"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "Amuletus7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/die4u87718",
+                "end": 23,
+                "expanded_url": "https://ngl.link/die4u87718",
+                "start": 0,
+                "url": "https://t.co/obGCOEIuzs"
+              }
+            ]
+          }
+        },
+        "id": "2051990529483927552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103953860956238287",
+        "name": "4747",
+        "pinned_tweet_id": "2068291018815152149",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051990529483927552/1782992244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082457550386278400/e5DwgJ2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 284,
+          "like_count": 5060,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 1063
+        },
+        "url": "https://t.co/obGCOEIuzs",
+        "username": "Heartfe1tear7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

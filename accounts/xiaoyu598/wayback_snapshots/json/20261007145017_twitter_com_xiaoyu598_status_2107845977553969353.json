@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2107702203704349104",
+    "created_at": "2026-10-07T14:50:17.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T15:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107845977553969353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999161935875428352",
+          "start": 0,
+          "username": "PlzNoFare8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107845977553969353",
+    "in_reply_to_user_id": "1999161935875428352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107702203704349104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PlzNoFare8964 米奇笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2107702203704349104",
+        "created_at": "2026-10-07T14:50:17.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T15:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107845977553969353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999161935875428352",
+              "start": 0,
+              "username": "PlzNoFare8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107845977553969353",
+        "in_reply_to_user_id": "1999161935875428352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107702203704349104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PlzNoFare8964 米奇笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999161935875428352",
+        "conversation_id": "2107702203704349104",
+        "created_at": "2026-10-07T05:18:59.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T06:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107702203704349104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107702203704349104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 167467,
+          "like_count": 3207,
+          "quote_count": 27,
+          "reply_count": 323,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "好搞笑 刷到个男推为了显得自己很能打桩 发的doi实录不知道加了几倍速 说话都糊成电音了 女孩子叫得跟米奇似的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107845977553969353",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104663911890857984/GPgB367j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 225,
+          "like_count": 1889,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1052
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-11T17:00:56.000Z",
+        "description": "谢谢你喜欢我 虽然这是你应该做的\n防丢小号@jinzhifare\n搬运/发🐔亖全家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "jinzhifare"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/plznofare8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/plznofare8964",
+                "start": 0,
+                "url": "https://t.co/DQlCFcqd1h"
+              }
+            ]
+          }
+        },
+        "id": "1999161935875428352",
+        "is_identity_verified": false,
+        "location": "问IP拉黑",
+        "most_recent_tweet_id": "2107807374635413868",
+        "name": "禁止发热",
+        "pinned_tweet_id": "2057276967653638149",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999161935875428352/1765477967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999164161431896064/JyH2A1uS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5511,
+          "following_count": 100,
+          "like_count": 8968,
+          "listed_count": 10,
+          "media_count": 349,
+          "tweet_count": 1936
+        },
+        "url": "https://t.co/DQlCFcqd1h",
+        "username": "PlzNoFare8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

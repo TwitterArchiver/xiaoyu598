@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2104009506300772377",
+    "created_at": "2026-09-27T00:45:31.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T01:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104009506300772377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/keikurosawa072…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/keikurosawa0721/status/2103842511114650000",
+          "start": 52,
+          "url": "https://t.co/PG36vBncDd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104009506300772377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103842511114650000",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "剑雏偷偷藏不住你那想骂某一群体的小心思了😂都是二创还真以为自己喜欢的高贵到哪去了techbro闹麻麻了 https://t.co/PG36vBncDd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2103841072732598272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJYTxwacAAH8lu.png",
+        "width": 804
+      },
+      {
+        "height": 1232,
+        "media_key": "3_2103841117561298944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJYWYwaIAAM0b3.jpg",
+        "width": 650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2104009506300772377",
+        "created_at": "2026-09-27T00:45:31.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T01:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104009506300772377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/keikurosawa072…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/keikurosawa0721/status/2103842511114650000",
+              "start": 52,
+              "url": "https://t.co/PG36vBncDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104009506300772377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103842511114650000",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剑雏偷偷藏不住你那想骂某一群体的小心思了😂都是二创还真以为自己喜欢的高贵到哪去了techbro闹麻麻了 https://t.co/PG36vBncDd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103841072732598272",
+            "3_2103841117561298944"
+          ]
+        },
+        "author_id": "1822663743895113728",
+        "conversation_id": "2103842511114650000",
+        "created_at": "2026-09-26T13:41:56.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T14:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103842511114650000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TeOa57qIeo",
+              "end": 129,
+              "expanded_url": "https://x.com/keikurosawa0721/status/2103842511114650000/photo/1",
+              "media_key": "3_2103841072732598272",
+              "start": 106,
+              "url": "https://t.co/TeOa57qIeo"
+            },
+            {
+              "display_url": "pic.x.com/TeOa57qIeo",
+              "end": 129,
+              "expanded_url": "https://x.com/keikurosawa0721/status/2103842511114650000/photo/1",
+              "media_key": "3_2103841117561298944",
+              "start": 106,
+              "url": "https://t.co/TeOa57qIeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103842511114650000",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103841072732598272"
+          },
+          {
+            "media_key": "3_2103841117561298944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 48810,
+          "like_count": 461,
+          "quote_count": 6,
+          "reply_count": 56,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "鲸鱼娘的梗图 deepseek 内部包括崔老师自己都在用。\n这个毫无辨识度的乙游量产蓝毛西装男和鲸鱼娘这种官方认可的二创比起来不就是路边一条吗？\n有些集美这也能碰瓷吗？要不你也想办法混进 ds 里面看看实力呗。 https://t.co/TeOa57qIeo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104009506300772377",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097726038239584256/UxOH9Qjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 225,
+          "like_count": 1820,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1017
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-11T15:58:18.000Z",
+        "description": "武汉模态跃迁开放平台主管/开发者生态负责人，前dify产品工程师；夜莺开放平台主管（manus 前身）；前 vtber 月流水60k；开发者和 FDE 最好的朋友；AI4Porn华科本国科大硕士退学；纯手敲推文；绝不装傻钓鱼；来 X 纯图一乐；全X最犀利的男娘。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/KurosawaGeeker",
+                "end": 23,
+                "expanded_url": "https://github.com/KurosawaGeeker",
+                "start": 0,
+                "url": "https://t.co/rEROn3mlZu"
+              }
+            ]
+          }
+        },
+        "id": "1822663743895113728",
+        "is_identity_verified": false,
+        "location": "Wuhan",
+        "most_recent_tweet_id": "2103924338072465748",
+        "name": "武汉AI王小克",
+        "pinned_tweet_id": "2103862681015042301",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822663743895113728/1790341530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103472374616313856/2LtAt7QF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 160,
+          "like_count": 237,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 455
+        },
+        "url": "https://t.co/rEROn3mlZu",
+        "username": "keikurosawa0721",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

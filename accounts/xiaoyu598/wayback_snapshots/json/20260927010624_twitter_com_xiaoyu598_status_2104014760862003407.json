@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1686682563937792000",
+    "conversation_id": "2104014760862003407",
+    "created_at": "2026-09-27T01:06:24.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T02:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104014760862003407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2025243044854038528",
+          "start": 3,
+          "username": "du_Nyxxw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104014760862003407",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 306
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103889083651260829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @du_Nyxxw: 나 영원히 널 사랑하면 어쩌지."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686682563937792000",
+        "conversation_id": "2104014760862003407",
+        "created_at": "2026-09-27T01:06:24.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T02:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104014760862003407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025243044854038528",
+              "start": 3,
+              "username": "du_Nyxxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104014760862003407",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 306
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103889083651260829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @du_Nyxxw: 나 영원히 널 사랑하면 어쩌지."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025243044854038528",
+        "conversation_id": "2103889083651260829",
+        "created_at": "2026-09-26T16:47:00.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103889083651260829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103889083651260829",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 22950,
+          "like_count": 793,
+          "quote_count": 59,
+          "reply_count": 2,
+          "retweet_count": 306
+        },
+        "reply_settings": "everyone",
+        "text": "나 영원히 널 사랑하면 어쩌지."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-02T10:17:25.000Z",
+        "description": "除了黄推和看黄的有fo就回\n可以叫我小语//老鼠人一只无任何不良嗜好你信吗\n我是理中客支黑捏但全世界的人我都会黑遍的\n宝宝❤️: @ccngov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "ccngov"
+              }
+            ]
+          }
+        },
+        "id": "1686682563937792000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104014760862003407",
+        "name": "小语",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686682563937792000/1775545820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097726038239584256/UxOH9Qjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 225,
+          "like_count": 1828,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1020
+        },
+        "url": "",
+        "username": "xiaoyu598",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-21T16:15:55.000Z",
+        "description": "그냥 넌, 내 데이지가 아니였던 거야.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/3049300619",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/3049300619",
+                "start": 0,
+                "url": "https://t.co/1vUhmaFQZo"
+              }
+            ]
+          }
+        },
+        "id": "2025243044854038528",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103889334474801192",
+        "name": "娟",
+        "pinned_tweet_id": "2073303671211970597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025243044854038528/1780495341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173044756680704/mkypZe6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/1vUhmaFQZo",
+        "username": "du_Nyxxw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
